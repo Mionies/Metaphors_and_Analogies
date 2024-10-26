@@ -1,0 +1,11870 @@
+{
+	"Pairs_Cardillo_set": {
+		"0": "The war campaign was a hard push.",
+		"1": "The drunk's shove was an angry push.",
+		"2": "The cat's attack was a pounce.",
+		"3": "The purchase was a tiger pounce.",
+		"4": "The prize was an upright hoover.",
+		"5": "His mind was a hungry hoover.",
+		"6": "The interruption was a jackhammer.",
+		"7": "The unhappy customer was a jackhammer.",
+		"8": "His poetry was a cathartic moan.",
+		"9": "His only communication was a moan.",
+		"10": "Her immediate remark was a snigger.",
+		"11": "The book was a sexist snigger.",
+		"12": "The old dryer was a sloth.",
+		"13": "The tree dweller was a sloth.",
+		"14": "The artifact was a poison dart.",
+		"15": "His analysis was a targeted dart.",
+		"16": "The ride was a rollercoaster.",
+		"17": "The year was a rollercoaster.",
+		"18": "The creek was a small leap.",
+		"19": "The secretary's promotion was a leap.",
+		"20": "Her t-shirt was a supportive cheer.",
+		"21": "The rhyme was a victory cheer.",
+		"22": "The corrupt accountant was a furtive mouse.",
+		"23": "The household pest was a mouse.",
+		"24": "The race course was an easy jog.",
+		"25": "The test review was a quick jog.",
+		"26": "The summer vacation was a whirlwind.",
+		"27": "The desert storm was a whirlwind.",
+		"28": "The pamphlet is a rant.",
+		"29": "The speech was a rant.",
+		"30": "His editing style was a chainsaw.",
+		"31": "The murder weapon was a chainsaw.",
+		"32": "The applause was a hundred snaps.",
+		"33": "His mood change was an angry snap.",
+		"34": "The apology was a tardy ambulance.",
+		"35": "The lead vehicle was an ambulance.",
+		"36": "The friendship was a crazy polka.",
+		"37": "The dance was a fast polka.",
+		"38": "Her chores were a sad tune.",
+		"39": "The jingle was a happy tune.",
+		"40": "The texts were emotional gunfire.",
+		"41": "The police response was gunfire.",
+		"42": "The opening was an eager yip.",
+		"43": "The puppy's welcome was a yip.",
+		"44": "The prosecutor was a sharp skewer.",
+		"45": "The first course was a vegetable skewer.",
+		"46": "His message was a hopeful whinny.",
+		"47": "The pony's outburst was a whinny.",
+		"48": "The chocolates were a sweet gesture.",
+		"49": "The hand signal is a rude gesture.",
+		"50": "His children were his heartbeat.",
+		"51": "The doctor's concern was his heartbeat.",
+		"52": "The sweethearts were two canaries.",
+		"53": "The birds were yellow canaries.",
+		"54": "The distraction was nearby traffic.",
+		"55": "The information was mental traffic.",
+		"56": "The tune is a familiar melody.",
+		"57": "The sunset was a lover's melody.",
+		"58": "Her hips were a snake-charmer's flute.",
+		"59": "The daughter's preference was a flute.",
+		"60": "The answer was a busy signal.",
+		"61": "Her attitude was a busy signal. ",
+		"62": "The divorce negotiations were a wheel. ",
+		"63": "The repair was a bicycle wheel.",
+		"64": "The court trial was a thunderstorm.",
+		"65": "The weather warning was a thunderstorm.",
+		"66": "The court case was a stroll.",
+		"67": "The hike was an leisurely stroll.",
+		"68": "The bomb alert was a siren.",
+		"69": "His arrival was a shrill siren.",
+		"70": "The predator was a cheetah.",
+		"71": "The pricey laptop was a cheetah.",
+		"72": "The introduction was a smooth take-off.",
+		"73": "The hope was an easy take-off.",
+		"74": "The partnership was a financial tailspin.",
+		"75": "The plane's trajectory was a tailspin.",
+		"76": "The pig's protest was a squeal.",
+		"77": "The bill was a corrupt squeal.",
+		"78": "The discussion was a clamor.",
+		"79": "The flowers were a colorful clamor.",
+		"80": "The garden flowers were a gospel choir.",
+		"81": "The tour group was a choir.",
+		"82": "The mountain road was a zigzag.",
+		"83": "The contract was a legal zigzag.",
+		"84": "The new computer was a racehorse.",
+		"85": "The stallion was a prize racehorse.",
+		"86": "The dad's decision was a balloon pop.",
+		"87": "The rifle was a loud pop.",
+		"88": "The object was a rusty wrench.",
+		"89": "The rainstorm was a logistical wrench.",
+		"90": "The child's favorite was a lullaby.",
+		"91": "The cool breeze was a lullaby.",
+		"92": "Their memories were distant chimes.",
+		"93": "The clay pieces were broken chimes.",
+		"94": "The laugh was an ugly cackle.",
+		"95": "The legislation was a corporate cackle.",
+		"96": "The job was a career lever.",
+		"97": "The pedal was a simple lever.",
+		"98": "The last month was a sprint.",
+		"99": "The final competition was a sprint.",
+		"100": "The weapon was a machine gun.",
+		"101": "The layoffs were a machine gun.",
+		"102": "The magnet was a weak pull.",
+		"103": "The road was an irresistible pull.",
+		"104": "The coordinator's presence was an engine. ",
+		"105": "The mechanic's specialty was the engine.",
+		"106": "The squeak was a sparrow chirp.",
+		"107": "His business card was an optimistic chirp.",
+		"108": "The security guard was a rattlesnake.",
+		"109": "The unwelcome surprise was a rattlesnake.",
+		"110": "His gaze was thunder.",
+		"111": "The warning was thunder.",
+		"112": "The assignment was an easy sail.",
+		"113": "The bay was a difficult sail.",
+		"114": "The gun shot was a bang.",
+		"115": "His adolescence was a hormonal bang.",
+		"116": "The portrait was a love song.",
+		"117": "The poem was a medieval song. ",
+		"118": "The tumor was a ticking clock.",
+		"119": "The forgotten item was a clock.",
+		"120": "The acceptance letter was a snail.",
+		"121": "The garden nuisance was a snail.",
+		"122": "The reward was a sled.",
+		"123": "His poor health was a sled. ",
+		"124": "The rubber tire was a good swing.",
+		"125": "Her opinion was a pendulum swing.",
+		"126": "The banker's opinion was a seesaw.",
+		"127": "The playground favorite was a seesaw.",
+		"128": "The black box was a loudspeaker.",
+		"129": "The horoscope was destiny's loudspeaker.",
+		"130": "The foster child was a tumbleweed.",
+		"131": "The dry plant was a tumbleweed.",
+		"132": "The exercise was a stretch.",
+		"133": "The budget was a stretch.",
+		"134": "The exhibition was a smash.",
+		"135": "The disturbance was a smash.",
+		"136": "The startling sound was a thud.",
+		"137": "His novel was a resounding thud.",
+		"138": "His foul mood was a vortex.",
+		"139": "The black hole was a vortex.",
+		"140": "The wood object was a boomerang.",
+		"141": "His lie was a surprise boomerang.",
+		"142": "The children's smiles were a symphony.",
+		"143": "The final show was a symphony. ",
+		"144": "The homework was a dull plod.",
+		"145": "The valley trek was a dull plod.",
+		"146": "His eyes were two whirlpools.",
+		"147": "The danger was an ocean whirlpool.",
+		"148": "The pupil's question was a meek stammer.",
+		"149": "The demo tape was a shy stammer.",
+		"150": "The relay was a sprint race.",
+		"151": "The math test was an intelligence race.",
+		"152": "His trick was a back flip.",
+		"153": "His novel was a perspective flip.",
+		"154": "The eviction was a mean sweep.",
+		"155": "The chore was a quick sweep.",
+		"156": "The prize was a free skydive.",
+		"157": "The home purchase was a skydive.",
+		"158": "The way back was a trudge.",
+		"159": "The ceremony was a swamp trudge.",
+		"160": "His job was an endless groan",
+		"161": "The patient's reply was a groan.",
+		"162": "The meal was a digestive tornado.",
+		"163": "The disaster was a violent tornado.",
+		"164": "The composition was a hymn.",
+		"165": "The sculpture was a hymn.",
+		"166": "The submarine's weapon was a torpedo.",
+		"167": "The bad news was a torpedo.",
+		"168": "The tragedy was a building collapse.",
+		"169": "The lie was an integrity collapse.",
+		"170": "The debut film was a meteor.",
+		"171": "The shooting star was a meteor.",
+		"172": "The essay was a cruel snicker.",
+		"173": "The boss's answer was a snicker.",
+		"174": "The editorial was a middle class whine.",
+		"175": "The child's request was a whine.",
+		"176": "The bed was a heavy lift.",
+		"177": "The prize money was a lift.",
+		"178": "The tsunami was a giant wave.",
+		"179": "The letter was a goodbye wave.",
+		"180": "The blow was a single punch.",
+		"181": "The editorial was a brass-knuckle punch.",
+		"182": "The dancer's problem was the rhythm.",
+		"183": "The marriage was an endless rhythm.",
+		"184": "Her arrival was an unexpected sneeze.",
+		"185": "The cold symptom was a sneeze.",
+		"186": "The parade was a military march.",
+		"187": "The marriage was a forced march.",
+		"188": "The skater's shame was a stumble.",
+		"189": "The first date was a stumble.",
+		"190": "The celebrity trial was a smothered cough.",
+		"191": "His complaint was a chest cough.",
+		"192": "The man's retort was a grumble.",
+		"193": "The letter was a polite grumble.",
+		"194": "His breath was a heavy huff.",
+		"195": "His framed degree was a proud huff.",
+		"196": "The loan crisis was a tidal wave.",
+		"197": "The disaster was a tidal wave.",
+		"198": "The magazine was her generation's ipod.",
+		"199": "The new technology was an ipod.",
+		"200": "The sound was a dial tone.",
+		"201": "Her expression was a dial tone.",
+		"202": "The questions were a dentist's drill.",
+		"203": "The expensive tool was a drill.",
+		"204": "The sale was a Wallstreet scurry.",
+		"205": "His escape was a quick scurry.",
+		"206": "The lone note was a piccolo.",
+		"207": "The spritely girl was a piccolo.",
+		"208": "The pregnancy was a family hush.",
+		"209": "The aunt's admonishment was a hush.",
+		"210": "His sock choice was an off note.",
+		"211": "The pianist's mistake was an off note.",
+		"212": "The mountain waterfall was a roar.",
+		"213": "The campaign was a triumphant roar.",
+		"214": "The therapy was an archeological dig.",
+		"215": "The expedition was a desert dig.",
+		"216": "The shadow was a dutiful echo.",
+		"217": "The shout was only an echo.",
+		"218": "His hangover was his liver's wail.",
+		"219": "The echo was an eerie wail.",
+		"220": "The park addition was a teeter-totter.",
+		"221": "The market was a financial teeter-totter.",
+		"222": "The snake's movement was a slither.",
+		"223": "The deal was a greedy slither.",
+		"224": "The dress was a revealing sizzle.",
+		"225": "The bacon's cooking was a sizzle.",
+		"226": "The engine was a low whir.",
+		"227": "The day's events were a whir.",
+		"228": "The decorations were added noise.",
+		"229": "The party was too much noise.",
+		"230": "The teacher's critique was a slingshot.",
+		"231": "The boy's treasure was a slingshot. ",
+		"232": "The small gadget was an amplifier",
+		"233": "The gossipy coworker was an amplifier .",
+		"234": "The struggle was a wrestle.",
+		"235": "The negotiations were a wrestle.",
+		"236": "The test was a sleepwalk.",
+		"237": "The disorder was a sleepwalk.",
+		"238": "The cat's reproach was a hiss.",
+		"239": "His posture was a cat's hiss.",
+		"240": "The hanging metal was a wrecking ball.",
+		"241": "The stepmother was a wrecking ball.",
+		"242": "Her love life was a Broadway musical.",
+		"243": "The Broadway play was a musical.",
+		"244": "The fisherman's worry was the tides.",
+		"245": "Her affections were fickle tides.",
+		"246": "The visit was a marathon.",
+		"247": "The race was a marathon.",
+		"248": "His advice was a mumble.",
+		"249": "His handshake was a mumble.",
+		"250": "The date was a successful launch.",
+		"251": "The news was a rocket launch.",
+		"252": "The paycheck was applause.",
+		"253": "The clapping was applause.",
+		"254": "Her glances were a snake's rattle.",
+		"255": "The baby's toy was a rattle.",
+		"256": "The anthology was a literary wander.",
+		"257": "The excursion was an afternoon wander.",
+		"258": "The stairs' replacement was the elevator.",
+		"259": "The business degree was an elevator.",
+		"260": "The dinner bell was a gong. ",
+		"261": "Her birthday was a foreboding gong.",
+		"262": "The family pet was a turtle.",
+		"263": "The movie plot was a turtle.",
+		"264": "The solemn song was an anthem.",
+		"265": "The sitcom was a national anthem.",
+		"266": "The embarrassment was a fart.",
+		"267": "His suggestion is an ill-timed fart.",
+		"268": "The bright light was a shooting star.",
+		"269": "The student was a shooting star.",
+		"270": "The recording was a faint crackle.",
+		"271": "The seizure was a brain crackle.",
+		"272": "His wit was a gentleman's lance.",
+		"273": "The sharp rod was a lance.",
+		"274": "The cash was a steady flow.",
+		"275": "The flood was a rapid flow.",
+		"276": "His smirk was a shameless whistle.",
+		"277": "The referee's call was a whistle.",
+		"278": "The angry voices were a clatter.",
+		"279": "His outfit was a colorful clatter.",
+		"280": "The slimy creature was a slug.",
+		"281": "The tax refund was a slug.",
+		"282": "Her contribution was a delighted shriek.",
+		"283": "The purchase was a gleeful shriek.",
+		"284": "Her career was a rough climb.",
+		"285": "The mountain was an easy climb.",
+		"286": "The skater's entrance was a glide.",
+		"287": "The art major was a glide.",
+		"288": "The injury was a knife stab.",
+		"289": "The declined invitation was a stab.",
+		"290": "The strategy was a media blast.",
+		"291": "The shock was a bomb blast.",
+		"292": "The gymnastics stunt was a cartwheel.",
+		"293": "The puzzle was a logic cartwheel.",
+		"294": "The course was a balloon ride.",
+		"295": "The boat trip was a ferry ride.",
+		"296": "The preacher was a quack.",
+		"297": "The duck's call is a quack.",
+		"298": "The heavy equipment was a catapult.",
+		"299": "The opportunity was a career catapult.",
+		"300": "The velvet fabric was a curtain.",
+		"301": "His personal life was a drawn curtain.",
+		"302": "Her punishment was a strong slap.",
+		"303": "The rejection letter was a slap.",
+		"304": "The conversation was a hushed whisper.",
+		"305": "His glance was a furtive whisper.",
+		"306": "The reception was an icy swim.",
+		"307": "The competitive relay was a swim.",
+		"308": "The bees were a black swarm.",
+		"309": "The numbers were a brain swarm.",
+		"310": "The coast was a beckoning voice.",
+		"311": "The hallucination was a ghostly voice.",
+		"312": "The poor prey was a gazelle.",
+		"313": "The computer program was a gazelle.",
+		"314": "The transfer was a small move.",
+		"315": "His novel was a bold move.",
+		"316": "The speech impediment was a stutter.",
+		"317": "Their courtship was a bashful stutter.",
+		"318": "The pool party was a hoot.",
+		"319": "The owl's cry was a hoot.",
+		"320": "The bank loan was a parachute.",
+		"321": "The white material was a parachute.",
+		"322": "The tourist attraction was a geyser.",
+		"323": "Her temper was a faithful geyser.",
+		"324": "The man's gaze was a shameless slurp.",
+		"325": "The last sip was a noisy slurp.",
+		"326": "The reunion was an emotional cacophony.",
+		"327": "The band practice was a cacophony.",
+		"328": "The teacher's suggestion was a metronome.",
+		"329": "His daily meds were a metronome.",
+		"330": "His tie choice is a guffaw.",
+		"331": "The laughter was a guffaw.",
+		"332": "The chatter was a nervous twitter.",
+		"333": "Her shirt was a cheerful twitter.",
+		"334": "The review was a karate chop.",
+		"335": "His gesture was a quick chop.",
+		"336": "The secret ingredient was molasses.",
+		"337": "His first screenplay was molasses.",
+		"338": "The heavy crate was a piano.",
+		"339": "The aged wine was a grand piano.",
+		"340": "The construction was a new merry-go-round.",
+		"341": "The summer romance was a merry-go-round.",
+		"342": "The incriminating files were a poison arrow.",
+		"343": "The archaeological find was an arrow.",
+		"344": "The broken part was the steering wheel.",
+		"345": "The war was an election steering wheel.",
+		"346": "The vacation was a cross country drive.",
+		"347": "The writer's job is a lonely drive.",
+		"348": "The wallet was a leaky faucet.",
+		"349": "The irritation was a dripping faucet.",
+		"350": "The bank's letter was a screech.",
+		"351": "The car's halt was a screech.",
+		"352": "The logging was an environmentalist gasp.",
+		"353": "The response was a shocked gasp.",
+		"354": "The play was a happy jingle.",
+		"355": "The bells were a merry jingle.",
+		"356": "The puppy's grasp was a firm tug.",
+		"357": "The shop display was a gentle tug.",
+		"358": "The emergency was a tsunami.",
+		"359": "The protest was a tsunami.",
+		"360": "The mural was a colorful explosion.",
+		"361": "The bomb was a large explosion.",
+		"362": "Her only input was a grunt.",
+		"363": "The employee was a grunt.",
+		"364": "The dive was a belly flop.",
+		"365": "The play was a big flop.",
+		"366": "The price change was a major drop.",
+		"367": "The bungee jump was a scary drop.",
+		"368": "Her haircut is a good chuckle.",
+		"369": "His aside was a rude chuckle.",
+		"370": "Her uncle is an irrepressible belch.",
+		"371": "His blunder was a loud belch.",
+		"372": "The mosquito was an irritating buzz.",
+		"373": "The ideas were a brain buzz.",
+		"374": "The alcoholic uncle was a loose boulder.",
+		"375": "The large rocks were mountain boulders.",
+		"376": "Her limousine was a privileged snort.",
+		"377": "His comeback was a haughty snort.",
+		"378": "Her stare was a bull charge.",
+		"379": "The battle plan was a charge.",
+		"380": "The petition was a mad dash.",
+		"381": "The chase was a fast dash.",
+		"382": "The metal stairs were an escalator.",
+		"383": "The law internship was an escalator.",
+		"384": "His shot was a perfect slam-dunk.",
+		"385": "The costume was a slam-dunk.",
+		"386": "The newspaper stories were a trickle.",
+		"387": "The faucet leak was a trickle.",
+		"388": "The snow storm was a blizzard.",
+		"389": "The widow's memories were a blizzard.",
+		"390": "The best ride was the carousel.",
+		"391": "The engagment was a carousel.",
+		"392": "Her orders were a sharp bark.",
+		"393": "The sound was a dog's bark.",
+		"394": "The man's tattoo was a rebel yell.",
+		"395": "His lawyer's interjection was an angry yell.",
+		"396": "The lost trust was a steady erosion.",
+		"397": "The river's problem was soil erosion.",
+		"398": "The final ascent was an exhausting clamber.",
+		"399": "His work experience was a clumsy clamber.",
+		"400": "The politician's career was a comet.",
+		"401": "The astronomer's obssession was a comet.",
+		"402": "The pilot's test was a landing.",
+		"403": "The settlement was a smooth landing.",
+		"404": "His grief was a short weep.",
+		"405": "The film was a poignant weep.",
+		"406": "His memoirs were a toilet flush.",
+		"407": "The only noise was a flush.",
+		"408": "The email was a desperate cry.",
+		"409": "The surprise was a hawk's cry.",
+		"410": "His father's entrance was a gavel.",
+		"411": "The little hammer was a gavel.",
+		"412": "The approach was a stampede.",
+		"413": "The criticisms were a stampede.",
+		"414": "The fan mail was a flood.",
+		"415": "The weather forecast was a flood.",
+		"416": "His gait was a confident swagger.",
+		"417": "His yacht was a rich swagger.",
+		"418": "The friend's greeting was a hug.",
+		"419": "The card was a sympathetic hug.",
+		"420": "The story was pretentious babble.",
+		"421": "The baby talk was babble.",
+		"422": "Her marriage was a long sob.",
+		"423": "The sound was her bitter sob.",
+		"424": "The interview was a painful crawl.",
+		"425": "The motion was a swimmer's crawl.",
+		"426": "The kitten's reply was a purr.",
+		"427": "Her smile was a cat's purr.",
+		"428": "The bowler's throw was a straight roll.",
+		"429": "The new roommate was a dice roll.",
+		"430": "The response was a key press.",
+		"431": "The campaign was a full-court press.",
+		"432": "The anniversary was a champagne landslide.",
+		"433": "The catastrophe was a landslide.",
+		"434": "The storm was another hurricane.",
+		"435": "The divorce case was a hurricane.",
+		"436": "The rally call was a trumpet.",
+		"437": "The candidate was a liberal trumpet.",
+		"438": "His testosterone was a thumping bass.",
+		"439": "The stolen item was a bass.",
+		"440": "The ocean was a rousing chorus.",
+		"441": "The clever verse was a chorus.",
+		"442": "The family pet was a rooster.",
+		"443": "The caffeine headache was a rooster.",
+		"444": "The insects were a low hum.",
+		"445": "His work was a steady hum.",
+		"446": "The winter was a heartbroken limp.",
+		"447": "The gait was a mild limp.",
+		"448": "The reception was a real snore.",
+		"449": "The funny thing was his snore.",
+		"450": "The interruption was a loud knock.",
+		"451": "His emails were an insistent knock.",
+		"452": "The current was a fast drift.",
+		"453": "His illness was a slow drift.",
+		"454": "The chicken call was a squawk.",
+		"455": "The banner was a patriotic squawk.",
+		"456": "The compact disc was country music.",
+		"457": "The woods were soothing music.",
+		"458": "The cold shock was a snowball.",
+		"459": "The email was an icy snowball.",
+		"460": "The film was a laugh.",
+		"461": "Her reply was a mean laugh.",
+		"462": "The company requirement was a pager.",
+		"463": "His appetite was a reliable pager.",
+		"464": "The horse's trot was a canter.",
+		"465": "His youth was a happy canter.",
+		"466": "The poetry was a teenage slouch.",
+		"467": "His posture was a lazy slouch.",
+		"468": "The runner's prize was a stopwatch.",
+		"469": "The wedding planner was a stopwatch.",
+		"470": "The boundary was a local stream.",
+		"471": "His punches were a steady stream.",
+		"472": "The love letters were fading footsteps.",
+		"473": "The sounds overhead were her footsteps.",
+		"474": "The coffee was a caffeine bullet.",
+		"475": "The police evidence was a bullet.",
+		"476": "The tool was a hammer.",
+		"477": "His words were his hammer.",
+		"478": "The audience response was laughter.",
+		"479": "Her eyes were pure laughter.",
+		"480": "The green caterpillar was an inchworm.",
+		"481": "The editor was a careful inchworm.",
+		"482": "The music's strength was its beat.",
+		"483": "Her morning routine was a steady beat.",
+		"484": "Her exit was a nervous scamper.",
+		"485": "Her inquiries were a nervous scamper.",
+		"486": "The grandfather's accident was a fall.",
+		"487": "The divorce was a hard fall.",
+		"488": "His pathetic plea was a whimper.",
+		"489": "The flowers were a widow's whimper.",
+		"490": "The breakthrough was lightning.",
+		"491": "The flash was lightning",
+		"492": "The letter was a lonely sigh.",
+		"493": "Her only comment was a sigh.",
+		"494": "His lawyer's objection was a shout.",
+		"495": "The billboard was an outraged shout.",
+		"496": "The last romp was a Latin tango.",
+		"497": "The business deal was a hot tango.",
+		"498": "The loud whistle was a boiling kettle.",
+		"499": "The pregnant woman was a boiling kettle.",
+		"500": "His smile was a charming dodge.",
+		"501": "His move was a quick dodge.",
+		"502": "The taxes was a steady creep.",
+		"503": "The panther's approach was a creep.",
+		"504": "The artist's ideas were a river.",
+		"505": "The country border was a river.",
+		"506": "Her eyelashes were a soft murmur.",
+		"507": "Her words were a gentle murmur.",
+		"508": "The child's answer was a giggle.",
+		"509": "His ugly car is a giggle.",
+		"510": "The fence was a high jump.",
+		"511": "The home purchase was a bungee jump.",
+		"512": "The procession was a swift sashay.",
+		"513": "The reception was an elitist sashay.",
+		"514": "His headache was a drum.",
+		"515": "The purchase was a drum.",
+		"516": "His interest was a mere sniff.",
+		"517": "The rabbit's twitch was a sniff.",
+		"518": "His thoughts were a pendulum.",
+		"519": "The device was a pendulum."
+	},
+	"Pairs_Jankowiac_set": {
+		"0": "This scholar is an inventor",
+		"1": "This balloon is an inventor",
+		"2": "Imagination is an inventor",
+		"3": "Knees are libraries",
+		"4": "Grandparents are libraries",
+		"5": "These book collections are libraries",
+		"6": "Her hairdo is a sculpture",
+		"7": "This wood is a sculpture",
+		"8": "A sheet is a sculpture",
+		"9": "A sausage is a curtain",
+		"10": "This material is a curtain",
+		"11": "A lie is a curtain",
+		"12": "These girls are siblings",
+		"13": "Chromosomes are siblings",
+		"14": "Bikes are siblings",
+		"15": "Memory is a muscle",
+		"16": "This tissue is a muscle",
+		"17": "This cauliflower is a muscle",
+		"18": "Plums are scissors",
+		"19": "These instruments are scissors",
+		"20": "Conflicts are scissors",
+		"21": "This corporation is an onion",
+		"22": "This ingredient is an onion",
+		"23": "This canary is an onion",
+		"24": "Bottles are bruises",
+		"25": "Failures are bruises",
+		"26": "These marks are bruises",
+		"27": "This cave is a shelter",
+		"28": "Friendship is a shelter",
+		"29": "An ant is a shelter",
+		"30": "An iron is an accuser",
+		"31": "This man is an accuser",
+		"32": "God is an accuser",
+		"33": "This banana is a harbour",
+		"34": "A house is a harbour",
+		"35": "This area is a harbour",
+		"36": "A peacock is cotton",
+		"37": "This fiber is cotton",
+		"38": "Poetry is cotton",
+		"39": "This breakfast is a mirror",
+		"40": "This glass is a mirror",
+		"41": "This lake is a mirror",
+		"42": "A planet is a poison",
+		"43": "This liquid is a poison",
+		"44": "Prejudice is a poison",
+		"45": "These connections are bridges",
+		"46": "Conversations are bridges",
+		"47": "Cherries are bridges",
+		"48": "Mold is an angel",
+		"49": "Calmness is an angel",
+		"50": "This figure is an angel",
+		"51": "My lover is candy",
+		"52": "A doormat is candy",
+		"53": "This snack is candy",
+		"54": "This magazine is a summit",
+		"55": "This peak is a summit",
+		"56": "Success is a summit",
+		"57": "Pasta is a toddler",
+		"58": "My sister is a toddler",
+		"59": "This company is a toddler",
+		"60": "These athletes are runners",
+		"61": "Suits are runners",
+		"62": "Rumours are runners",
+		"63": "Acrobats are spiders",
+		"64": "Cows are spiders",
+		"65": "These insects are spiders",
+		"66": "Alcohol is the devil",
+		"67": "This supernatural entity is the devil",
+		"68": "A leaf is the devil",
+		"69": "These monuments are churches",
+		"70": "Bars are churches",
+		"71": "Lips are churches",
+		"72": "This appliance is an oven",
+		"73": "A notebook is an oven",
+		"74": "This car is an oven",
+		"75": "These items are tickets",
+		"76": "Skills are tickets",
+		"77": "Giraffes are tickets",
+		"78": "Her words are jewellery",
+		"79": "A storm is jewellery",
+		"80": "These stones are jewellery",
+		"81": "This battlefield is a funeral",
+		"82": "A monkey is a funeral",
+		"83": "This celebration is a funeral",
+		"84": "A frog is an engine",
+		"85": "This machine is an engine",
+		"86": "Motivation is an engine",
+		"87": "This organ is a stomach",
+		"88": "The gas tank is a stomach",
+		"89": "This horse is a stomach",
+		"90": "An elbow is sugar",
+		"91": "This sweetener is sugar",
+		"92": "Music is sugar",
+		"93": "These studios are offices",
+		"94": "Kangaroos are offices",
+		"95": "Cafes are offices",
+		"96": "The ocean is a carpet",
+		"97": "That covering is a carpet",
+		"98": "A butterfly is a carpet",
+		"99": "These carrots are wrestlers",
+		"100": "These sportsmen are wrestlers",
+		"101": "Medicines are wrestlers",
+		"102": "This ceremony is a wedding",
+		"103": "This conditioner is a wedding",
+		"104": "Adoption is a wedding",
+		"105": "A knife is a weapon",
+		"106": "Sarcasm is a weapon",
+		"107": "Fridge is a weapon",
+		"108": "A paperclip is a kingdom",
+		"109": "This country is a kingdom",
+		"110": "A bedroom is a kingdom",
+		"111": "That boat is a coffin",
+		"112": "A lunch is a coffin",
+		"113": "This casket is a coffin",
+		"114": "Champagne is a basket",
+		"115": "My head is a basket",
+		"116": "This box is a basket",
+		"117": "These purses are wallets",
+		"118": "Businessmen are wallets",
+		"119": "These cakes are wallets",
+		"120": "My cat is a singer",
+		"121": "A broccoli is a singer",
+		"122": "This lady is a singer",
+		"123": "This payment is a salary",
+		"124": "A cockroach is a salary",
+		"125": "His approval is a salary",
+		"126": "Doors are fingers",
+		"127": "Trees are fingers",
+		"128": "These bones are fingers",
+		"129": "This syrup is honey",
+		"130": "A kiss is honey",
+		"131": "A curtain is honey",
+		"132": "A cushion is a pillow",
+		"133": "This ballad is a pillow",
+		"134": "A fence is a pillow",
+		"135": "Skyscrapers are chimneys",
+		"136": "These ventilators are chimneys",
+		"137": "Gingerbreads are chimneys",
+		"138": "That dolphin is a temple",
+		"139": "A holy place is a temple",
+		"140": "My wardrobe is a temple",
+		"141": "Snow is a movie",
+		"142": "Lifetime is a movie",
+		"143": "This drama is a movie",
+		"144": "This cloth is a blanket",
+		"145": "Chocolate is a blanket",
+		"146": "Protection is a blanket",
+		"147": "Gifts are fighters",
+		"148": "These boxers are fighters",
+		"149": "Bacteria are fighters",
+		"150": "Rice is an orphanage",
+		"151": "This institution is an orphanage",
+		"152": "A pet store is an orphanage",
+		"153": "A diary is a ceiling",
+		"154": "This surface is a ceiling",
+		"155": "Achievement is a ceiling",
+		"156": "A shampoo is an anchor",
+		"157": "This chain is an anchor",
+		"158": "The past is an anchor",
+		"159": "My father is a parent",
+		"160": "A tram is a parent",
+		"161": "Government is a parent",
+		"162": "These knives are buttons",
+		"163": "These fasteners are buttons",
+		"164": "Details are buttons",
+		"165": "The Internet is a chamber",
+		"166": "This corridor is a chamber",
+		"167": "A strawberry is a chamber",
+		"168": "This rebel is a refugee",
+		"169": "A mosquito is a refugee",
+		"170": "Coffee is a refugee",
+		"171": "This caramel is a sweetener",
+		"172": "A shark is a sweetener",
+		"173": "A smile is a sweetener",
+		"174": "This growth is a tumour",
+		"175": "A daffodil is a tumour",
+		"176": "Grudge is a tumour",
+		"177": "A hamster is a diary",
+		"178": "A photograph is a diary",
+		"179": "This blog is a diary",
+		"180": "This person is a healer",
+		"181": "This handbag is a healer",
+		"182": "Peace is a healer",
+		"183": "Her uncle is a scientist",
+		"184": "His dog is a scientist",
+		"185": "A pumpkin is a scientist",
+		"186": "My mother is an elephant",
+		"187": "A dress is an elephant",
+		"188": "This animal is an elephant",
+		"189": "My wish is a prayer",
+		"190": "This lecture is a prayer",
+		"191": "A mushroom is a prayer",
+		"192": "A cheek is a liquid",
+		"193": "My thoughts are a liquid",
+		"194": "This fluid is a liquid",
+		"195": "My heart is a drawer",
+		"196": "A bug is a drawer",
+		"197": "This piece of furniture is a drawer",
+		"198": "This feminist is a lioness",
+		"199": "This creature is a lioness",
+		"200": "A vase is a lioness",
+		"201": "My room is a castle",
+		"202": "A dot is a castle",
+		"203": "This big building is a castle",
+		"204": "The sky is a needle",
+		"205": "A model is a needle",
+		"206": "This object is a needle",
+		"207": "Vaccines are umbrellas",
+		"208": "These gadgets are umbrellas",
+		"209": "These commercials are umbrellas",
+		"210": "A butcher is a mountain",
+		"211": "This hill is a mountain",
+		"212": "Ambition is a mountain",
+		"213": "Ladybirds are badges",
+		"214": "These trademarks are badges",
+		"215": "Earnings are badges",
+		"216": "His cousins are judges",
+		"217": "Earphones are judges",
+		"218": "Guns are judges",
+		"219": "Her towel is a charger",
+		"220": "Support is a charger",
+		"221": "This device is a charger",
+		"222": "Experience is an adviser",
+		"223": "A psychologist is an adviser",
+		"224": "A bus is an adviser",
+		"225": "A sofa is a helmet",
+		"226": "The skull is a helmet",
+		"227": "This safety hat is a helmet",
+		"228": "An observer is a watcher",
+		"229": "A cabbage is a watcher",
+		"230": "Religion is a watcher",
+		"231": "This pile is a tower",
+		"232": "A pigeon is a tower",
+		"233": "Her neck is a tower",
+		"234": "A tasty thing is a cookie",
+		"235": "Forgiveness is a cookie",
+		"236": "A couch is a cookie",
+		"237": "Security is a chapel",
+		"238": "This sanctuary is a chapel",
+		"239": "This camel is a chapel",
+		"240": "Watermelons are whispers",
+		"241": "Legends are whispers",
+		"242": "These murmurs are whispers",
+		"243": "This cooler is a freezer",
+		"244": "Criticism is a freezer",
+		"245": "A pineapple is a freezer",
+		"246": "These lines are wrinkles",
+		"247": "Problems are wrinkles",
+		"248": "Blankets are wrinkles",
+		"249": "This song is a lullaby",
+		"250": "His voice is a lullaby",
+		"251": "This tiger is a lullaby",
+		"252": "A tomato is an enemy",
+		"253": "Phobia is an enemy",
+		"254": "This politician is an enemy",
+		"255": "Networks are forests",
+		"256": "Ties are forests",
+		"257": "These plantations are forests",
+		"258": "An owl is a river",
+		"259": "This stream is a river",
+		"260": "A dream is a river",
+		"261": "A fridge is a pocket",
+		"262": "A vitamin is a pocket",
+		"263": "This hole is a pocket",
+		"264": "This establishment is a factory",
+		"265": "This duck is a factory",
+		"266": "University is a factory",
+		"267": "Chickens are razors",
+		"268": "Critics are razors",
+		"269": "These blades are razors",
+		"270": "Peaches are surgeries",
+		"271": "These medical procedures are surgeries",
+		"272": "Psychotherapies are surgeries",
+		"273": "Hope is a candle",
+		"274": "This wax is a candle",
+		"275": "A cactus is a candle",
+		"276": "Viruses are travellers",
+		"277": "Tables are travellers",
+		"278": "These people are travellers",
+		"279": "Language is a currency",
+		"280": "This cash is a currency",
+		"281": "Rats are a currency",
+		"282": "His letters are sermons",
+		"283": "These talks are sermons",
+		"284": "Spoons are sermons",
+		"285": "This facecloth is a washer",
+		"286": "Cheese is a washer",
+		"287": "Truth is a washer",
+		"288": "Tears are a lesson",
+		"289": "This seminar is a lesson",
+		"290": "A fox is a lesson",
+		"291": "These grounds are gardens",
+		"292": "These classrooms are gardens",
+		"293": "Salmons are gardens",
+		"294": "Praise is a reward",
+		"295": "This medal is a reward",
+		"296": "A finger is a reward",
+		"297": "A hug is a jacket",
+		"298": "This piece of clothing is a jacket",
+		"299": "A beetroot is a jacket",
+		"300": "Forks are a container",
+		"301": "This bucket is a container",
+		"302": "The brain is a container",
+		"303": "A napkin is a boulder",
+		"304": "Her soul is a boulder",
+		"305": "This rock is a boulder",
+		"306": "A crater is a cavity",
+		"307": "Loneliness is a cavity",
+		"308": "A postcard is a cavity",
+		"309": "Apologies are stitches",
+		"310": "These threads are stitches",
+		"311": "Airports are stitches",
+		"312": "Determination is a ladder",
+		"313": "This equipment is a ladder",
+		"314": "A bee is a ladder",
+		"315": "Hail is luggage",
+		"316": "Knowledge is luggage",
+		"317": "These belongings are luggage",
+		"318": "This flowerpot is a rebel",
+		"319": "That soldier is a rebel",
+		"320": "Laziness is a rebel",
+		"321": "These socks are burglars",
+		"322": "These men are burglars",
+		"323": "Disease cells are burglars",
+		"324": "Loans are cages",
+		"325": "These enclosures are cages",
+		"326": "Flowers are cages",
+		"327": "Children are parrots",
+		"328": "Lollipops are parrots",
+		"329": "These birds are parrots",
+		"330": "This metal projectile is a bullet",
+		"331": "His decision is a bullet",
+		"332": "Dust is a bullet",
+		"333": "Jogging is a shadow",
+		"334": "This shaded part is a shadow",
+		"335": "A stalker is a shadow",
+		"336": "Pessimism is an acid",
+		"337": "This substance is an acid",
+		"338": "A station is an acid",
+		"339": "Alcoholics are prisoners",
+		"340": "These suitcases are prisoners",
+		"341": "These villains are prisoners",
+		"342": "These melodies are anthems",
+		"343": "Beliefs are anthems",
+		"344": "These trousers are anthems",
+		"345": "A glove is a hunter",
+		"346": "A shopaholic is a hunter",
+		"347": "His brother is a hunter",
+		"348": "These pigs are windows",
+		"349": "Eyes are windows",
+		"350": "These screens are windows",
+		"351": "A blueberry is a preacher",
+		"352": "Conscience is a preacher",
+		"353": "That individual is a preacher",
+		"354": "That potato is a kidnapper",
+		"355": "A migraine is a kidnapper",
+		"356": "This teenager is a kidnapper",
+		"357": "A garage is a label",
+		"358": "Disability is a label",
+		"359": "This piece of paper is a label"
+	},
+	"Quadruples_SAT_MET_FILTERED_set": {
+		"0": [
+			"abbreviation",
+			"word",
+			"laminate",
+			"layer"
+		],
+		"1": [
+			"abbreviation",
+			"word",
+			"inhibit",
+			"idea"
+		],
+		"2": [
+			"abbreviation",
+			"word",
+			"expedite",
+			"mail"
+		],
+		"3": [
+			"abbreviation",
+			"word",
+			"invoke",
+			"deity"
+		],
+		"4": [
+			"abbreviation",
+			"word",
+			"abridge",
+			"book"
+		],
+		"5": [
+			"hoard",
+			"save",
+			"economize",
+			"spend"
+		],
+		"6": [
+			"hoard",
+			"save",
+			"revere",
+			"admire"
+		],
+		"7": [
+			"hoard",
+			"save",
+			"sulk",
+			"roar"
+		],
+		"8": [
+			"hoard",
+			"save",
+			"flirt",
+			"giggle"
+		],
+		"9": [
+			"hoard",
+			"save",
+			"ignore",
+			"notice"
+		],
+		"10": [
+			"bruise",
+			"skin",
+			"muscle",
+			"bone"
+		],
+		"11": [
+			"bruise",
+			"skin",
+			"smudge",
+			"blemish"
+		],
+		"12": [
+			"bruise",
+			"skin",
+			"rash",
+			"allergy"
+		],
+		"13": [
+			"bruise",
+			"skin",
+			"layer",
+			"veneer"
+		],
+		"14": [
+			"bruise",
+			"skin",
+			"stain",
+			"fabric"
+		],
+		"15": [
+			"tree",
+			"forest",
+			"bird",
+			"sky"
+		],
+		"16": [
+			"tree",
+			"forest",
+			"fish",
+			"sea"
+		],
+		"17": [
+			"tree",
+			"forest",
+			"star",
+			"galaxy"
+		],
+		"18": [
+			"tree",
+			"forest",
+			"mammal",
+			"land"
+		],
+		"19": [
+			"tree",
+			"forest",
+			"lake",
+			"river"
+		],
+		"20": [
+			"terrestrial",
+			"land",
+			"vegetarian",
+			"plants"
+		],
+		"21": [
+			"terrestrial",
+			"land",
+			"predatory",
+			"animal"
+		],
+		"22": [
+			"terrestrial",
+			"land",
+			"nocturnal",
+			"day"
+		],
+		"23": [
+			"terrestrial",
+			"land",
+			"arid",
+			"desert"
+		],
+		"24": [
+			"terrestrial",
+			"land",
+			"aquatic",
+			"water"
+		],
+		"25": [
+			"custom",
+			"society",
+			"hypothesis",
+			"evidence"
+		],
+		"26": [
+			"custom",
+			"society",
+			"testimony",
+			"trial"
+		],
+		"27": [
+			"custom",
+			"society",
+			"ballot",
+			"election"
+		],
+		"28": [
+			"custom",
+			"society",
+			"rule",
+			"game"
+		],
+		"29": [
+			"custom",
+			"society",
+			"contest",
+			"debate"
+		],
+		"30": [
+			"vacillate",
+			"indecision",
+			"lament",
+			"woe"
+		],
+		"31": [
+			"vacillate",
+			"indecision",
+			"hibernate",
+			"winter"
+		],
+		"32": [
+			"vacillate",
+			"indecision",
+			"extricate",
+			"entanglements"
+		],
+		"33": [
+			"vacillate",
+			"indecision",
+			"digress",
+			"angst"
+		],
+		"34": [
+			"vacillate",
+			"indecision",
+			"emulate",
+			"egotism"
+		],
+		"35": [
+			"overcoat",
+			"warmth",
+			"glove",
+			"hand"
+		],
+		"36": [
+			"overcoat",
+			"warmth",
+			"jewelry",
+			"wealth"
+		],
+		"37": [
+			"overcoat",
+			"warmth",
+			"slicker",
+			"moisture"
+		],
+		"38": [
+			"overcoat",
+			"warmth",
+			"disguise",
+			"identification"
+		],
+		"39": [
+			"overcoat",
+			"warmth",
+			"helmet",
+			"protection"
+		],
+		"40": [
+			"stay",
+			"depart",
+			"take",
+			"move"
+		],
+		"41": [
+			"stay",
+			"depart",
+			"stagnate",
+			"flow"
+		],
+		"42": [
+			"stay",
+			"depart",
+			"run",
+			"walk"
+		],
+		"43": [
+			"stay",
+			"depart",
+			"sleep",
+			"rest"
+		],
+		"44": [
+			"stay",
+			"depart",
+			"create",
+			"design"
+		],
+		"45": [
+			"decibel",
+			"sound",
+			"ingredient",
+			"food"
+		],
+		"46": [
+			"decibel",
+			"sound",
+			"ruler",
+			"length"
+		],
+		"47": [
+			"decibel",
+			"sound",
+			"calories",
+			"menu"
+		],
+		"48": [
+			"decibel",
+			"sound",
+			"degree",
+			"temperature"
+		],
+		"49": [
+			"decibel",
+			"sound",
+			"headphones",
+			"music"
+		],
+		"50": [
+			"rent",
+			"property",
+			"sue",
+			"lawyer"
+		],
+		"51": [
+			"rent",
+			"property",
+			"hire",
+			"employee"
+		],
+		"52": [
+			"rent",
+			"property",
+			"pose",
+			"painter"
+		],
+		"53": [
+			"rent",
+			"property",
+			"pay",
+			"debtor"
+		],
+		"54": [
+			"rent",
+			"property",
+			"purchase",
+			"buyer"
+		],
+		"55": [
+			"corpulence",
+			"obesity",
+			"ability",
+			"question"
+		],
+		"56": [
+			"corpulence",
+			"obesity",
+			"enigma",
+			"puzzle"
+		],
+		"57": [
+			"corpulence",
+			"obesity",
+			"intelligence",
+			"capability"
+		],
+		"58": [
+			"corpulence",
+			"obesity",
+			"strong",
+			"weak"
+		],
+		"59": [
+			"corpulence",
+			"obesity",
+			"pleasure",
+			"blessing"
+		],
+		"60": [
+			"evaporate",
+			"vapor",
+			"petrify",
+			"stone"
+		],
+		"61": [
+			"evaporate",
+			"vapor",
+			"centrifuge",
+			"liquid"
+		],
+		"62": [
+			"evaporate",
+			"vapor",
+			"saturate",
+			"fluid"
+		],
+		"63": [
+			"evaporate",
+			"vapor",
+			"corrode",
+			"acid"
+		],
+		"64": [
+			"evaporate",
+			"vapor",
+			"incinerate",
+			"fire"
+		],
+		"65": [
+			"judicious",
+			"prudence",
+			"deferential",
+			"scorn"
+		],
+		"66": [
+			"judicious",
+			"prudence",
+			"malevolent",
+			"influence"
+		],
+		"67": [
+			"judicious",
+			"prudence",
+			"indomitable",
+			"defeat"
+		],
+		"68": [
+			"judicious",
+			"prudence",
+			"stoic",
+			"hardship"
+		],
+		"69": [
+			"judicious",
+			"prudence",
+			"frivolous",
+			"giddiness"
+		],
+		"70": [
+			"traffic",
+			"street",
+			"ship",
+			"gangplank"
+		],
+		"71": [
+			"traffic",
+			"street",
+			"crop",
+			"harvest"
+		],
+		"72": [
+			"traffic",
+			"street",
+			"car",
+			"garage"
+		],
+		"73": [
+			"traffic",
+			"street",
+			"pedestrians",
+			"feet"
+		],
+		"74": [
+			"traffic",
+			"street",
+			"water",
+			"riverbed"
+		],
+		"75": [
+			"smile",
+			"happiness",
+			"boredom",
+			"apathy"
+		],
+		"76": [
+			"smile",
+			"happiness",
+			"cook",
+			"food"
+		],
+		"77": [
+			"smile",
+			"happiness",
+			"comedy",
+			"laughter"
+		],
+		"78": [
+			"smile",
+			"happiness",
+			"frown",
+			"anger"
+		],
+		"79": [
+			"smile",
+			"happiness",
+			"resentment",
+			"mutiny"
+		],
+		"80": [
+			"mundane",
+			"novel",
+			"rate",
+			"prevalent"
+		],
+		"81": [
+			"mundane",
+			"novel",
+			"essential",
+			"imperative"
+		],
+		"82": [
+			"mundane",
+			"novel",
+			"sealed",
+			"hermetic"
+		],
+		"83": [
+			"mundane",
+			"novel",
+			"spontaneous",
+			"combustive"
+		],
+		"84": [
+			"mundane",
+			"novel",
+			"judicious",
+			"minimal"
+		],
+		"85": [
+			"avaricious",
+			"greed",
+			"proud",
+			"winner"
+		],
+		"86": [
+			"avaricious",
+			"greed",
+			"choleric",
+			"anger"
+		],
+		"87": [
+			"avaricious",
+			"greed",
+			"artistic",
+			"work"
+		],
+		"88": [
+			"avaricious",
+			"greed",
+			"ironic",
+			"wrath"
+		],
+		"89": [
+			"avaricious",
+			"greed",
+			"prolific",
+			"author"
+		],
+		"90": [
+			"abridge",
+			"novel",
+			"interrupt",
+			"conversation"
+		],
+		"91": [
+			"abridge",
+			"novel",
+			"rehearse",
+			"play"
+		],
+		"92": [
+			"abridge",
+			"novel",
+			"terminate",
+			"ending"
+		],
+		"93": [
+			"abridge",
+			"novel",
+			"punctuate",
+			"sentence"
+		],
+		"94": [
+			"abridge",
+			"novel",
+			"abbreviate",
+			"word"
+		],
+		"95": [
+			"overexertion",
+			"fatigue",
+			"exemption",
+			"participation"
+		],
+		"96": [
+			"overexertion",
+			"fatigue",
+			"injury",
+			"pain"
+		],
+		"97": [
+			"overexertion",
+			"fatigue",
+			"labor",
+			"recreation"
+		],
+		"98": [
+			"overexertion",
+			"fatigue",
+			"immunity",
+			"disease"
+		],
+		"99": [
+			"overexertion",
+			"fatigue",
+			"transformation",
+			"deterioration"
+		],
+		"100": [
+			"vulnerable",
+			"hurt",
+			"fluid",
+			"changed"
+		],
+		"101": [
+			"vulnerable",
+			"hurt",
+			"vague",
+			"truncated"
+		],
+		"102": [
+			"vulnerable",
+			"hurt",
+			"virtuous",
+			"bribed"
+		],
+		"103": [
+			"vulnerable",
+			"hurt",
+			"witty",
+			"amused"
+		],
+		"104": [
+			"vulnerable",
+			"hurt",
+			"divergent",
+			"exploited"
+		],
+		"105": [
+			"glue",
+			"fasten",
+			"laundry",
+			"fold"
+		],
+		"106": [
+			"glue",
+			"fasten",
+			"bleach",
+			"color"
+		],
+		"107": [
+			"glue",
+			"fasten",
+			"computer",
+			"repair"
+		],
+		"108": [
+			"glue",
+			"fasten",
+			"steel",
+			"forge"
+		],
+		"109": [
+			"glue",
+			"fasten",
+			"elevator",
+			"lift"
+		],
+		"110": [
+			"sluggish",
+			"energy",
+			"sheer",
+			"cliff"
+		],
+		"111": [
+			"sluggish",
+			"energy",
+			"reticent",
+			"tack"
+		],
+		"112": [
+			"sluggish",
+			"energy",
+			"inebriated",
+			"memory"
+		],
+		"113": [
+			"sluggish",
+			"energy",
+			"trite",
+			"speech"
+		],
+		"114": [
+			"sluggish",
+			"energy",
+			"satiated",
+			"hunger"
+		],
+		"115": [
+			"neophyte",
+			"experienced",
+			"invalid",
+			"healthy"
+		],
+		"116": [
+			"neophyte",
+			"experienced",
+			"pugilist",
+			"stubborn"
+		],
+		"117": [
+			"neophyte",
+			"experienced",
+			"defendant",
+			"guilty"
+		],
+		"118": [
+			"neophyte",
+			"experienced",
+			"scholar",
+			"erudite"
+		],
+		"119": [
+			"neophyte",
+			"experienced",
+			"sentinel",
+			"guarded"
+		],
+		"120": [
+			"sword",
+			"sheath",
+			"knife",
+			"stone"
+		],
+		"121": [
+			"sword",
+			"sheath",
+			"tool",
+			"garage"
+		],
+		"122": [
+			"sword",
+			"sheath",
+			"pistol",
+			"holster"
+		],
+		"123": [
+			"sword",
+			"sheath",
+			"gun",
+			"bullet"
+		],
+		"124": [
+			"sword",
+			"sheath",
+			"no",
+			"choice"
+		],
+		"125": [
+			"condescending",
+			"respect",
+			"bashful",
+			"attention"
+		],
+		"126": [
+			"condescending",
+			"respect",
+			"obliging",
+			"thanks"
+		],
+		"127": [
+			"condescending",
+			"respect",
+			"insecure",
+			"doubt"
+		],
+		"128": [
+			"condescending",
+			"respect",
+			"merciless",
+			"compassion"
+		],
+		"129": [
+			"condescending",
+			"respect",
+			"pathetic",
+			"pity"
+		],
+		"130": [
+			"calculator",
+			"compute",
+			"plug",
+			"insert"
+		],
+		"131": [
+			"calculator",
+			"compute",
+			"clamp",
+			"grip"
+		],
+		"132": [
+			"calculator",
+			"compute",
+			"saddle",
+			"straddle"
+		],
+		"133": [
+			"calculator",
+			"compute",
+			"bridge",
+			"suspend"
+		],
+		"134": [
+			"calculator",
+			"compute",
+			"incinerator",
+			"warm"
+		],
+		"135": [
+			"lens",
+			"glass",
+			"well",
+			"water"
+		],
+		"136": [
+			"lens",
+			"glass",
+			"saw",
+			"wood"
+		],
+		"137": [
+			"lens",
+			"glass",
+			"sweater",
+			"wool"
+		],
+		"138": [
+			"lens",
+			"glass",
+			"fuel",
+			"fire"
+		],
+		"139": [
+			"lens",
+			"glass",
+			"ink",
+			"paper"
+		],
+		"140": [
+			"intransigent",
+			"compromise",
+			"permanent",
+			"stability"
+		],
+		"141": [
+			"intransigent",
+			"compromise",
+			"dogged",
+			"surrender"
+		],
+		"142": [
+			"intransigent",
+			"compromise",
+			"disorganized",
+			"chaos"
+		],
+		"143": [
+			"intransigent",
+			"compromise",
+			"lonesome",
+			"friendship"
+		],
+		"144": [
+			"intransigent",
+			"compromise",
+			"strenuous",
+			"exercise"
+		],
+		"145": [
+			"arboretum",
+			"botanical",
+			"farm",
+			"domesticated"
+		],
+		"146": [
+			"arboretum",
+			"botanical",
+			"planetarium",
+			"artificial"
+		],
+		"147": [
+			"arboretum",
+			"botanical",
+			"university",
+			"academic"
+		],
+		"148": [
+			"arboretum",
+			"botanical",
+			"aquarium",
+			"marine"
+		],
+		"149": [
+			"arboretum",
+			"botanical",
+			"gymnasium",
+			"athletic"
+		],
+		"150": [
+			"chat",
+			"converse",
+			"allege",
+			"deny"
+		],
+		"151": [
+			"chat",
+			"converse",
+			"halt",
+			"traverse"
+		],
+		"152": [
+			"chat",
+			"converse",
+			"purchase",
+			"rent"
+		],
+		"153": [
+			"chat",
+			"converse",
+			"study",
+			"learn"
+		],
+		"154": [
+			"chat",
+			"converse",
+			"browse",
+			"read"
+		],
+		"155": [
+			"ream",
+			"paper",
+			"stack",
+			"brick"
+		],
+		"156": [
+			"ream",
+			"paper",
+			"cord",
+			"wood"
+		],
+		"157": [
+			"ream",
+			"paper",
+			"barrel",
+			"oil"
+		],
+		"158": [
+			"ream",
+			"paper",
+			"bushel",
+			"apple"
+		],
+		"159": [
+			"ream",
+			"paper",
+			"no",
+			"choice"
+		],
+		"160": [
+			"story",
+			"building",
+			"crust",
+			"sandwich"
+		],
+		"161": [
+			"story",
+			"building",
+			"shingle",
+			"roof"
+		],
+		"162": [
+			"story",
+			"building",
+			"data",
+			"file"
+		],
+		"163": [
+			"story",
+			"building",
+			"layer",
+			"cake"
+		],
+		"164": [
+			"story",
+			"building",
+			"root",
+			"plant"
+		],
+		"165": [
+			"indigenous",
+			"native",
+			"new",
+			"used"
+		],
+		"166": [
+			"indigenous",
+			"native",
+			"alien",
+			"foreign"
+		],
+		"167": [
+			"indigenous",
+			"native",
+			"aged",
+			"wrinkled"
+		],
+		"168": [
+			"indigenous",
+			"native",
+			"immigrate",
+			"exodus"
+		],
+		"169": [
+			"indigenous",
+			"native",
+			"no",
+			"choice"
+		],
+		"170": [
+			"caprice",
+			"predictable",
+			"indifference",
+			"callous"
+		],
+		"171": [
+			"caprice",
+			"predictable",
+			"caution",
+			"reckless"
+		],
+		"172": [
+			"caprice",
+			"predictable",
+			"concern",
+			"affectionate"
+		],
+		"173": [
+			"caprice",
+			"predictable",
+			"friendliness",
+			"congenial"
+		],
+		"174": [
+			"caprice",
+			"predictable",
+			"spontaneity",
+			"whimsical"
+		],
+		"175": [
+			"overdose",
+			"prescription",
+			"deprivation",
+			"materialism"
+		],
+		"176": [
+			"overdose",
+			"prescription",
+			"indiscretion",
+			"convention"
+		],
+		"177": [
+			"overdose",
+			"prescription",
+			"affliction",
+			"sympathy"
+		],
+		"178": [
+			"overdose",
+			"prescription",
+			"adventure",
+			"expedition"
+		],
+		"179": [
+			"overdose",
+			"prescription",
+			"drug",
+			"medicine"
+		],
+		"180": [
+			"mystify",
+			"understanding",
+			"nip",
+			"maturation"
+		],
+		"181": [
+			"mystify",
+			"understanding",
+			"insure",
+			"disaster"
+		],
+		"182": [
+			"mystify",
+			"understanding",
+			"rearrange",
+			"order"
+		],
+		"183": [
+			"mystify",
+			"understanding",
+			"intensify",
+			"endurance"
+		],
+		"184": [
+			"mystify",
+			"understanding",
+			"reciprocate",
+			"interchange"
+		],
+		"185": [
+			"beauty",
+			"aesthete",
+			"pleasure",
+			"hedonist"
+		],
+		"186": [
+			"beauty",
+			"aesthete",
+			"emotion",
+			"demagogue"
+		],
+		"187": [
+			"beauty",
+			"aesthete",
+			"opinion",
+			"sympathizer"
+		],
+		"188": [
+			"beauty",
+			"aesthete",
+			"seance",
+			"medium"
+		],
+		"189": [
+			"beauty",
+			"aesthete",
+			"luxury",
+			"ascetic"
+		],
+		"190": [
+			"museum",
+			"exhibit",
+			"studio",
+			"painter"
+		],
+		"191": [
+			"museum",
+			"exhibit",
+			"library",
+			"research"
+		],
+		"192": [
+			"museum",
+			"exhibit",
+			"theater",
+			"performance"
+		],
+		"193": [
+			"museum",
+			"exhibit",
+			"picture",
+			"frame"
+		],
+		"194": [
+			"museum",
+			"exhibit",
+			"orchestra",
+			"conductor"
+		],
+		"195": [
+			"numb",
+			"insensible",
+			"reflect",
+			"luminous"
+		],
+		"196": [
+			"numb",
+			"insensible",
+			"burnish",
+			"lustrous"
+		],
+		"197": [
+			"numb",
+			"insensible",
+			"heckle",
+			"raucous"
+		],
+		"198": [
+			"numb",
+			"insensible",
+			"repulse",
+			"odious"
+		],
+		"199": [
+			"numb",
+			"insensible",
+			"braid",
+			"sinuous"
+		],
+		"200": [
+			"canal",
+			"waterway",
+			"skyline",
+			"city"
+		],
+		"201": [
+			"canal",
+			"waterway",
+			"bank",
+			"stream"
+		],
+		"202": [
+			"canal",
+			"waterway",
+			"hub",
+			"wheel"
+		],
+		"203": [
+			"canal",
+			"waterway",
+			"dam",
+			"river"
+		],
+		"204": [
+			"canal",
+			"waterway",
+			"reservoir",
+			"lake"
+		],
+		"205": [
+			"sap",
+			"tree",
+			"syrup",
+			"candy"
+		],
+		"206": [
+			"sap",
+			"tree",
+			"lint",
+			"clothes"
+		],
+		"207": [
+			"sap",
+			"tree",
+			"blood",
+			"mammal"
+		],
+		"208": [
+			"sap",
+			"tree",
+			"mold",
+			"bread"
+		],
+		"209": [
+			"sap",
+			"tree",
+			"fertilizer",
+			"plant"
+		],
+		"210": [
+			"indolent",
+			"assiduous",
+			"normal",
+			"mean"
+		],
+		"211": [
+			"indolent",
+			"assiduous",
+			"powerful",
+			"omnipotent"
+		],
+		"212": [
+			"indolent",
+			"assiduous",
+			"abstemious",
+			"overindulgent"
+		],
+		"213": [
+			"indolent",
+			"assiduous",
+			"rife",
+			"vogue"
+		],
+		"214": [
+			"indolent",
+			"assiduous",
+			"beneficial",
+			"strong"
+		],
+		"215": [
+			"trial",
+			"jury",
+			"dispute",
+			"arbiter"
+		],
+		"216": [
+			"trial",
+			"jury",
+			"poll",
+			"contestant"
+		],
+		"217": [
+			"trial",
+			"jury",
+			"championship",
+			"spectator"
+		],
+		"218": [
+			"trial",
+			"jury",
+			"conference",
+			"speaker"
+		],
+		"219": [
+			"trial",
+			"jury",
+			"match",
+			"competitor"
+		],
+		"220": [
+			"purgation",
+			"impurities",
+			"catharsis",
+			"epiphanies"
+		],
+		"221": [
+			"purgation",
+			"impurities",
+			"sterilization",
+			"ailments"
+		],
+		"222": [
+			"purgation",
+			"impurities",
+			"salvation",
+			"prayers"
+		],
+		"223": [
+			"purgation",
+			"impurities",
+			"disinfection",
+			"bacteria"
+		],
+		"224": [
+			"purgation",
+			"impurities",
+			"inattention",
+			"details"
+		],
+		"225": [
+			"audacious",
+			"boldness",
+			"anonymous",
+			"identity"
+		],
+		"226": [
+			"audacious",
+			"boldness",
+			"remorseful",
+			"misdeed"
+		],
+		"227": [
+			"audacious",
+			"boldness",
+			"deleterious",
+			"result"
+		],
+		"228": [
+			"audacious",
+			"boldness",
+			"impressionable",
+			"temptation"
+		],
+		"229": [
+			"audacious",
+			"boldness",
+			"sanctimonious",
+			"hypocrisy"
+		],
+		"230": [
+			"drift",
+			"move",
+			"sprint",
+			"run"
+		],
+		"231": [
+			"drift",
+			"move",
+			"boil",
+			"heat"
+		],
+		"232": [
+			"drift",
+			"move",
+			"ramble",
+			"walk"
+		],
+		"233": [
+			"drift",
+			"move",
+			"evade",
+			"elude"
+		],
+		"234": [
+			"drift",
+			"move",
+			"crawl",
+			"creep"
+		],
+		"235": [
+			"defend",
+			"untenable",
+			"escape",
+			"unfettered"
+		],
+		"236": [
+			"defend",
+			"untenable",
+			"judge",
+			"punitive"
+		],
+		"237": [
+			"defend",
+			"untenable",
+			"modify",
+			"invariable"
+		],
+		"238": [
+			"defend",
+			"untenable",
+			"flourish",
+			"vigorous"
+		],
+		"239": [
+			"defend",
+			"untenable",
+			"protect",
+			"dangerous"
+		],
+		"240": [
+			"ethos",
+			"values",
+			"accord",
+			"nations"
+		],
+		"241": [
+			"ethos",
+			"values",
+			"code",
+			"principles"
+		],
+		"242": [
+			"ethos",
+			"values",
+			"policy",
+			"officials"
+		],
+		"243": [
+			"ethos",
+			"values",
+			"debate",
+			"opinions"
+		],
+		"244": [
+			"ethos",
+			"values",
+			"offense",
+			"criminals"
+		],
+		"245": [
+			"iron",
+			"metal",
+			"hydrogen",
+			"water"
+		],
+		"246": [
+			"iron",
+			"metal",
+			"rock",
+			"quarry"
+		],
+		"247": [
+			"iron",
+			"metal",
+			"wheel",
+			"bicycle"
+		],
+		"248": [
+			"iron",
+			"metal",
+			"emerald",
+			"gem"
+		],
+		"249": [
+			"iron",
+			"metal",
+			"coral",
+			"ocean"
+		],
+		"250": [
+			"loathsome",
+			"contempt",
+			"strident",
+			"loneliness"
+		],
+		"251": [
+			"loathsome",
+			"contempt",
+			"unwitting",
+			"awareness"
+		],
+		"252": [
+			"loathsome",
+			"contempt",
+			"impudent",
+			"regret"
+		],
+		"253": [
+			"loathsome",
+			"contempt",
+			"omniscient",
+			"understanding"
+		],
+		"254": [
+			"loathsome",
+			"contempt",
+			"meritorious",
+			"esteem"
+		],
+		"255": [
+			"remuneration",
+			"labor",
+			"gratuity",
+			"bonus"
+		],
+		"256": [
+			"remuneration",
+			"labor",
+			"apology",
+			"regret"
+		],
+		"257": [
+			"remuneration",
+			"labor",
+			"pledge",
+			"donation"
+		],
+		"258": [
+			"remuneration",
+			"labor",
+			"trophy",
+			"victory"
+		],
+		"259": [
+			"remuneration",
+			"labor",
+			"debt",
+			"loan"
+		],
+		"260": [
+			"shear",
+			"wool",
+			"reap",
+			"wheat"
+		],
+		"261": [
+			"shear",
+			"wool",
+			"whittle",
+			"wood"
+		],
+		"262": [
+			"shear",
+			"wool",
+			"sweep",
+			"broom"
+		],
+		"263": [
+			"shear",
+			"wool",
+			"prune",
+			"tree"
+		],
+		"264": [
+			"shear",
+			"wool",
+			"rake",
+			"leaves"
+		],
+		"265": [
+			"hostile",
+			"bellicose",
+			"indifferent",
+			"averse"
+		],
+		"266": [
+			"hostile",
+			"bellicose",
+			"stubborn",
+			"obdurate"
+		],
+		"267": [
+			"hostile",
+			"bellicose",
+			"morose",
+			"slothful"
+		],
+		"268": [
+			"hostile",
+			"bellicose",
+			"unequivocal",
+			"skeptical"
+		],
+		"269": [
+			"hostile",
+			"bellicose",
+			"angry",
+			"passive"
+		],
+		"270": [
+			"mason",
+			"stone",
+			"teacher",
+			"chalk"
+		],
+		"271": [
+			"mason",
+			"stone",
+			"carpenter",
+			"wood"
+		],
+		"272": [
+			"mason",
+			"stone",
+			"soldier",
+			"gun"
+		],
+		"273": [
+			"mason",
+			"stone",
+			"photograph",
+			"camera"
+		],
+		"274": [
+			"mason",
+			"stone",
+			"book",
+			"word"
+		],
+		"275": [
+			"quart",
+			"volume",
+			"day",
+			"night"
+		],
+		"276": [
+			"quart",
+			"volume",
+			"mile",
+			"distance"
+		],
+		"277": [
+			"quart",
+			"volume",
+			"decade",
+			"century"
+		],
+		"278": [
+			"quart",
+			"volume",
+			"friction",
+			"heat"
+		],
+		"279": [
+			"quart",
+			"volume",
+			"part",
+			"whole"
+		],
+		"280": [
+			"yearn",
+			"longing",
+			"beware",
+			"danger"
+		],
+		"281": [
+			"yearn",
+			"longing",
+			"rush",
+			"patience"
+		],
+		"282": [
+			"yearn",
+			"longing",
+			"enjoy",
+			"pleasure"
+		],
+		"283": [
+			"yearn",
+			"longing",
+			"suppress",
+			"rage"
+		],
+		"284": [
+			"yearn",
+			"longing",
+			"sleep",
+			"insomnia"
+		],
+		"285": [
+			"sprout",
+			"seed",
+			"pollinate",
+			"bee"
+		],
+		"286": [
+			"sprout",
+			"seed",
+			"cure",
+			"disease"
+		],
+		"287": [
+			"sprout",
+			"seed",
+			"stimulate",
+			"growth"
+		],
+		"288": [
+			"sprout",
+			"seed",
+			"hatch",
+			"egg"
+		],
+		"289": [
+			"sprout",
+			"seed",
+			"filter",
+			"impurity"
+		],
+		"290": [
+			"inquisitorial",
+			"curiosity",
+			"morose",
+			"behavior"
+		],
+		"291": [
+			"inquisitorial",
+			"curiosity",
+			"injurious",
+			"prying"
+		],
+		"292": [
+			"inquisitorial",
+			"curiosity",
+			"ingenuous",
+			"innocence"
+		],
+		"293": [
+			"inquisitorial",
+			"curiosity",
+			"pernicious",
+			"damage"
+		],
+		"294": [
+			"inquisitorial",
+			"curiosity",
+			"laconic",
+			"speech"
+		],
+		"295": [
+			"cloying",
+			"sweetness",
+			"shiny",
+			"polish"
+		],
+		"296": [
+			"cloying",
+			"sweetness",
+			"pale",
+			"hue"
+		],
+		"297": [
+			"cloying",
+			"sweetness",
+			"raspy",
+			"softness"
+		],
+		"298": [
+			"cloying",
+			"sweetness",
+			"enchanting",
+			"desire"
+		],
+		"299": [
+			"cloying",
+			"sweetness",
+			"garish",
+			"brightness"
+		],
+		"300": [
+			"mercenary",
+			"money",
+			"vindictive",
+			"revenge"
+		],
+		"301": [
+			"mercenary",
+			"money",
+			"scholarly",
+			"library"
+		],
+		"302": [
+			"mercenary",
+			"money",
+			"immaculate",
+			"cleanliness"
+		],
+		"303": [
+			"mercenary",
+			"money",
+			"thirsty",
+			"water"
+		],
+		"304": [
+			"mercenary",
+			"money",
+			"belligerent",
+			"invasion"
+		],
+		"305": [
+			"emend",
+			"faulty",
+			"recruit",
+			"competent"
+		],
+		"306": [
+			"emend",
+			"faulty",
+			"fracture",
+			"separable"
+		],
+		"307": [
+			"emend",
+			"faulty",
+			"renovate",
+			"habitable"
+		],
+		"308": [
+			"emend",
+			"faulty",
+			"purify",
+			"contaminated"
+		],
+		"309": [
+			"emend",
+			"faulty",
+			"reproduce",
+			"copied"
+		],
+		"310": [
+			"swarm",
+			"bee",
+			"school",
+			"fish"
+		],
+		"311": [
+			"swarm",
+			"bee",
+			"venison",
+			"deer"
+		],
+		"312": [
+			"swarm",
+			"bee",
+			"oxen",
+			"cow"
+		],
+		"313": [
+			"swarm",
+			"bee",
+			"peak",
+			"mountain"
+		],
+		"314": [
+			"swarm",
+			"bee",
+			"skin",
+			"lion"
+		],
+		"315": [
+			"ostrich",
+			"bird",
+			"lion",
+			"cat"
+		],
+		"316": [
+			"ostrich",
+			"bird",
+			"goose",
+			"flock"
+		],
+		"317": [
+			"ostrich",
+			"bird",
+			"ewe",
+			"sheep"
+		],
+		"318": [
+			"ostrich",
+			"bird",
+			"cub",
+			"bear"
+		],
+		"319": [
+			"ostrich",
+			"bird",
+			"primate",
+			"monkey"
+		],
+		"320": [
+			"excitement",
+			"frenzy",
+			"communication",
+			"signal"
+		],
+		"321": [
+			"excitement",
+			"frenzy",
+			"strength",
+			"resistance"
+		],
+		"322": [
+			"excitement",
+			"frenzy",
+			"surprise",
+			"astonishment"
+		],
+		"323": [
+			"excitement",
+			"frenzy",
+			"reform",
+			"corruption"
+		],
+		"324": [
+			"excitement",
+			"frenzy",
+			"fondness",
+			"hatred"
+		],
+		"325": [
+			"goggles",
+			"eyes",
+			"belt",
+			"waist"
+		],
+		"326": [
+			"goggles",
+			"eyes",
+			"earrings",
+			"ears"
+		],
+		"327": [
+			"goggles",
+			"eyes",
+			"razor",
+			"hair"
+		],
+		"328": [
+			"goggles",
+			"eyes",
+			"gloves",
+			"cold"
+		],
+		"329": [
+			"goggles",
+			"eyes",
+			"helmet",
+			"head"
+		],
+		"330": [
+			"patent",
+			"obvious",
+			"contrite",
+			"happy"
+		],
+		"331": [
+			"patent",
+			"obvious",
+			"curt",
+			"expansive"
+		],
+		"332": [
+			"patent",
+			"obvious",
+			"voracious",
+			"hungry"
+		],
+		"333": [
+			"patent",
+			"obvious",
+			"dissonant",
+			"emotive"
+		],
+		"334": [
+			"patent",
+			"obvious",
+			"ephemeral",
+			"exorbitant"
+		],
+		"335": [
+			"refurbish",
+			"worn",
+			"revive",
+			"exhausted"
+		],
+		"336": [
+			"refurbish",
+			"worn",
+			"reward",
+			"outstanding"
+		],
+		"337": [
+			"refurbish",
+			"worn",
+			"resume",
+			"interrupted"
+		],
+		"338": [
+			"refurbish",
+			"worn",
+			"replace",
+			"stolen"
+		],
+		"339": [
+			"refurbish",
+			"worn",
+			"repaint",
+			"glossy"
+		],
+		"340": [
+			"veer",
+			"course",
+			"swerve",
+			"obstacle"
+		],
+		"341": [
+			"veer",
+			"course",
+			"blaze",
+			"paint"
+		],
+		"342": [
+			"veer",
+			"course",
+			"bar",
+			"door"
+		],
+		"343": [
+			"veer",
+			"course",
+			"emigrate",
+			"travel"
+		],
+		"344": [
+			"veer",
+			"course",
+			"digress",
+			"subject"
+		],
+		"345": [
+			"conundrum",
+			"perplex",
+			"theory",
+			"refute"
+		],
+		"346": [
+			"conundrum",
+			"perplex",
+			"explanation",
+			"suffice"
+		],
+		"347": [
+			"conundrum",
+			"perplex",
+			"blueprint",
+			"construct"
+		],
+		"348": [
+			"conundrum",
+			"perplex",
+			"entertainment",
+			"divert"
+		],
+		"349": [
+			"conundrum",
+			"perplex",
+			"expedition",
+			"discover"
+		],
+		"350": [
+			"mechanical",
+			"garage",
+			"artist",
+			"canvas"
+		],
+		"351": [
+			"mechanical",
+			"garage",
+			"administrator",
+			"personnel"
+		],
+		"352": [
+			"mechanical",
+			"garage",
+			"teller",
+			"window"
+		],
+		"353": [
+			"mechanical",
+			"garage",
+			"teacher",
+			"information"
+		],
+		"354": [
+			"mechanical",
+			"garage",
+			"nurse",
+			"hospital"
+		],
+		"355": [
+			"refugee",
+			"asylum",
+			"astronaut",
+			"capsule"
+		],
+		"356": [
+			"refugee",
+			"asylum",
+			"perfectionist",
+			"frustration"
+		],
+		"357": [
+			"refugee",
+			"asylum",
+			"consumer",
+			"impulse"
+		],
+		"358": [
+			"refugee",
+			"asylum",
+			"opportunist",
+			"advantage"
+		],
+		"359": [
+			"refugee",
+			"asylum",
+			"director",
+			"stage"
+		],
+		"360": [
+			"amorphous",
+			"shape",
+			"morbid",
+			"death"
+		],
+		"361": [
+			"amorphous",
+			"shape",
+			"intrepid",
+			"fear"
+		],
+		"362": [
+			"amorphous",
+			"shape",
+			"fundamental",
+			"basics"
+		],
+		"363": [
+			"amorphous",
+			"shape",
+			"prominent",
+			"sight"
+		],
+		"364": [
+			"amorphous",
+			"shape",
+			"hopeless",
+			"pessimism"
+		],
+		"365": [
+			"map",
+			"navigate",
+			"manuscript",
+			"submit"
+		],
+		"366": [
+			"map",
+			"navigate",
+			"license",
+			"revoke"
+		],
+		"367": [
+			"map",
+			"navigate",
+			"writing",
+			"erase"
+		],
+		"368": [
+			"map",
+			"navigate",
+			"blueprint",
+			"build"
+		],
+		"369": [
+			"map",
+			"navigate",
+			"receipt",
+			"pay"
+		],
+		"370": [
+			"animosity",
+			"hatred",
+			"carnal",
+			"active"
+		],
+		"371": [
+			"animosity",
+			"hatred",
+			"genial",
+			"amiable"
+		],
+		"372": [
+			"animosity",
+			"hatred",
+			"insomnia",
+			"sleepy"
+		],
+		"373": [
+			"animosity",
+			"hatred",
+			"pacify",
+			"peace"
+		],
+		"374": [
+			"animosity",
+			"hatred",
+			"liveliness",
+			"careful"
+		],
+		"375": [
+			"ornament",
+			"embellish",
+			"radio",
+			"repair"
+		],
+		"376": [
+			"ornament",
+			"embellish",
+			"antidote",
+			"poison"
+		],
+		"377": [
+			"ornament",
+			"embellish",
+			"detergent",
+			"clean"
+		],
+		"378": [
+			"ornament",
+			"embellish",
+			"carpenter",
+			"build"
+		],
+		"379": [
+			"ornament",
+			"embellish",
+			"rocket",
+			"launch"
+		],
+		"380": [
+			"condense",
+			"short",
+			"shrink",
+			"wet"
+		],
+		"381": [
+			"condense",
+			"short",
+			"measure",
+			"equal"
+		],
+		"382": [
+			"condense",
+			"short",
+			"magnify",
+			"invisible"
+		],
+		"383": [
+			"condense",
+			"short",
+			"deflate",
+			"flat"
+		],
+		"384": [
+			"condense",
+			"short",
+			"increase",
+			"boundless"
+		],
+		"385": [
+			"orator",
+			"speech",
+			"protagonist",
+			"story"
+		],
+		"386": [
+			"orator",
+			"speech",
+			"chronicler",
+			"events"
+		],
+		"387": [
+			"orator",
+			"speech",
+			"playwright",
+			"stage"
+		],
+		"388": [
+			"orator",
+			"speech",
+			"comedian",
+			"jokes"
+		],
+		"389": [
+			"orator",
+			"speech",
+			"vocalist",
+			"voice"
+		],
+		"390": [
+			"wallet",
+			"money",
+			"safe",
+			"lock"
+		],
+		"391": [
+			"wallet",
+			"money",
+			"suitcase",
+			"clothing"
+		],
+		"392": [
+			"wallet",
+			"money",
+			"camera",
+			"film"
+		],
+		"393": [
+			"wallet",
+			"money",
+			"setting",
+			"jewel"
+		],
+		"394": [
+			"wallet",
+			"money",
+			"car",
+			"engine"
+		],
+		"395": [
+			"epilogue",
+			"play",
+			"aria",
+			"opera"
+		],
+		"396": [
+			"epilogue",
+			"play",
+			"trailer",
+			"movie"
+		],
+		"397": [
+			"epilogue",
+			"play",
+			"afterword",
+			"book"
+		],
+		"398": [
+			"epilogue",
+			"play",
+			"act",
+			"scene"
+		],
+		"399": [
+			"epilogue",
+			"play",
+			"comedy",
+			"drama"
+		],
+		"400": [
+			"lobbyist",
+			"cause",
+			"legislator",
+			"voter"
+		],
+		"401": [
+			"lobbyist",
+			"cause",
+			"clergy",
+			"congregation"
+		],
+		"402": [
+			"lobbyist",
+			"cause",
+			"advertiser",
+			"product"
+		],
+		"403": [
+			"lobbyist",
+			"cause",
+			"defendant",
+			"verdict"
+		],
+		"404": [
+			"lobbyist",
+			"cause",
+			"consumer",
+			"goods"
+		],
+		"405": [
+			"ensemble",
+			"dancer",
+			"clique",
+			"outsider"
+		],
+		"406": [
+			"ensemble",
+			"dancer",
+			"band",
+			"musician"
+		],
+		"407": [
+			"ensemble",
+			"dancer",
+			"gymnasium",
+			"athlete"
+		],
+		"408": [
+			"ensemble",
+			"dancer",
+			"museum",
+			"curator"
+		],
+		"409": [
+			"ensemble",
+			"dancer",
+			"audience",
+			"performer"
+		],
+		"410": [
+			"dodo",
+			"bird",
+			"horse",
+			"mule"
+		],
+		"411": [
+			"dodo",
+			"bird",
+			"dinosaur",
+			"reptile"
+		],
+		"412": [
+			"dodo",
+			"bird",
+			"venom",
+			"snake"
+		],
+		"413": [
+			"dodo",
+			"bird",
+			"rooster",
+			"hen"
+		],
+		"414": [
+			"dodo",
+			"bird",
+			"dog",
+			"puppy"
+		],
+		"415": [
+			"word",
+			"language",
+			"paint",
+			"portrait"
+		],
+		"416": [
+			"word",
+			"language",
+			"poetry",
+			"rhythm"
+		],
+		"417": [
+			"word",
+			"language",
+			"note",
+			"music"
+		],
+		"418": [
+			"word",
+			"language",
+			"tale",
+			"story"
+		],
+		"419": [
+			"word",
+			"language",
+			"week",
+			"year"
+		],
+		"420": [
+			"audience",
+			"theater",
+			"crew",
+			"ship"
+		],
+		"421": [
+			"audience",
+			"theater",
+			"scholars",
+			"library"
+		],
+		"422": [
+			"audience",
+			"theater",
+			"group",
+			"society"
+		],
+		"423": [
+			"audience",
+			"theater",
+			"spectators",
+			"arena"
+		],
+		"424": [
+			"audience",
+			"theater",
+			"actors",
+			"stage"
+		],
+		"425": [
+			"pedestrian",
+			"walks",
+			"soldier",
+			"obeys"
+		],
+		"426": [
+			"pedestrian",
+			"walks",
+			"runner",
+			"stretches"
+		],
+		"427": [
+			"pedestrian",
+			"walks",
+			"dentist",
+			"drills"
+		],
+		"428": [
+			"pedestrian",
+			"walks",
+			"bicyclist",
+			"brakes"
+		],
+		"429": [
+			"pedestrian",
+			"walks",
+			"motorist",
+			"drives"
+		],
+		"430": [
+			"glaze",
+			"pottery",
+			"scuff",
+			"furniture"
+		],
+		"431": [
+			"glaze",
+			"pottery",
+			"donate",
+			"tree"
+		],
+		"432": [
+			"glaze",
+			"pottery",
+			"ice",
+			"cake"
+		],
+		"433": [
+			"glaze",
+			"pottery",
+			"injure",
+			"gun"
+		],
+		"434": [
+			"glaze",
+			"pottery",
+			"chortle",
+			"laugh"
+		],
+		"435": [
+			"disingenuous",
+			"craftiness",
+			"ecstatic",
+			"contentment"
+		],
+		"436": [
+			"disingenuous",
+			"craftiness",
+			"idolatrous",
+			"doubt"
+		],
+		"437": [
+			"disingenuous",
+			"craftiness",
+			"narcissistic",
+			"appearance"
+		],
+		"438": [
+			"disingenuous",
+			"craftiness",
+			"penitent",
+			"wrongdoing"
+		],
+		"439": [
+			"disingenuous",
+			"craftiness",
+			"surreptitious",
+			"stealth"
+		],
+		"440": [
+			"promontory",
+			"view",
+			"haven",
+			"refuge"
+		],
+		"441": [
+			"promontory",
+			"view",
+			"waterfall",
+			"revelation"
+		],
+		"442": [
+			"promontory",
+			"view",
+			"prison",
+			"interrogation"
+		],
+		"443": [
+			"promontory",
+			"view",
+			"church",
+			"diversity"
+		],
+		"444": [
+			"promontory",
+			"view",
+			"memorial",
+			"architecture"
+		],
+		"445": [
+			"freight",
+			"truck",
+			"goods",
+			"warehouse"
+		],
+		"446": [
+			"freight",
+			"truck",
+			"customers",
+			"store"
+		],
+		"447": [
+			"freight",
+			"truck",
+			"stevedores",
+			"ship"
+		],
+		"448": [
+			"freight",
+			"truck",
+			"engine",
+			"train"
+		],
+		"449": [
+			"freight",
+			"truck",
+			"passengers",
+			"bus"
+		],
+		"450": [
+			"bungalow",
+			"domicile",
+			"castle",
+			"turret"
+		],
+		"451": [
+			"bungalow",
+			"domicile",
+			"bathroom",
+			"sink"
+		],
+		"452": [
+			"bungalow",
+			"domicile",
+			"chair",
+			"furniture"
+		],
+		"453": [
+			"bungalow",
+			"domicile",
+			"apartment",
+			"rent"
+		],
+		"454": [
+			"bungalow",
+			"domicile",
+			"no",
+			"choice"
+		],
+		"455": [
+			"florid",
+			"prose",
+			"detailed",
+			"sketch"
+		],
+		"456": [
+			"florid",
+			"prose",
+			"melodious",
+			"music"
+		],
+		"457": [
+			"florid",
+			"prose",
+			"colorful",
+			"cliche"
+		],
+		"458": [
+			"florid",
+			"prose",
+			"tragic",
+			"play"
+		],
+		"459": [
+			"florid",
+			"prose",
+			"ornate",
+			"building"
+		],
+		"460": [
+			"envelope",
+			"letter",
+			"scarf",
+			"hat"
+		],
+		"461": [
+			"envelope",
+			"letter",
+			"box",
+			"bag"
+		],
+		"462": [
+			"envelope",
+			"letter",
+			"crate",
+			"produce"
+		],
+		"463": [
+			"envelope",
+			"letter",
+			"neck",
+			"head"
+		],
+		"464": [
+			"envelope",
+			"letter",
+			"blood",
+			"heart"
+		],
+		"465": [
+			"incumbent",
+			"office",
+			"politician",
+			"campaign"
+		],
+		"466": [
+			"incumbent",
+			"office",
+			"tenant",
+			"dwelling"
+		],
+		"467": [
+			"incumbent",
+			"office",
+			"jailer",
+			"cell"
+		],
+		"468": [
+			"incumbent",
+			"office",
+			"secretary",
+			"desk"
+		],
+		"469": [
+			"incumbent",
+			"office",
+			"retiree",
+			"service"
+		],
+		"470": [
+			"index",
+			"topics",
+			"agenda",
+			"meeting"
+		],
+		"471": [
+			"index",
+			"topics",
+			"diary",
+			"secrets"
+		],
+		"472": [
+			"index",
+			"topics",
+			"roster",
+			"names"
+		],
+		"473": [
+			"index",
+			"topics",
+			"manual",
+			"equipment"
+		],
+		"474": [
+			"index",
+			"topics",
+			"ledger",
+			"numbers"
+		],
+		"475": [
+			"immaculate",
+			"clean",
+			"enormous",
+			"large"
+		],
+		"476": [
+			"immaculate",
+			"clean",
+			"superficial",
+			"careful"
+		],
+		"477": [
+			"immaculate",
+			"clean",
+			"tiresome",
+			"bored"
+		],
+		"478": [
+			"immaculate",
+			"clean",
+			"precious",
+			"greedy"
+		],
+		"479": [
+			"immaculate",
+			"clean",
+			"obvious",
+			"deceptive"
+		],
+		"480": [
+			"torpid",
+			"sluggish",
+			"wrong",
+			"apologetic"
+		],
+		"481": [
+			"torpid",
+			"sluggish",
+			"refracted",
+			"direct"
+		],
+		"482": [
+			"torpid",
+			"sluggish",
+			"comic",
+			"funny"
+		],
+		"483": [
+			"torpid",
+			"sluggish",
+			"sad",
+			"empathetic"
+		],
+		"484": [
+			"torpid",
+			"sluggish",
+			"merry",
+			"morose"
+		],
+		"485": [
+			"catalog",
+			"shopper",
+			"contract",
+			"lawyer"
+		],
+		"486": [
+			"catalog",
+			"shopper",
+			"schedule",
+			"worker"
+		],
+		"487": [
+			"catalog",
+			"shopper",
+			"menu",
+			"diner"
+		],
+		"488": [
+			"catalog",
+			"shopper",
+			"article",
+			"author"
+		],
+		"489": [
+			"catalog",
+			"shopper",
+			"bank",
+			"teller"
+		],
+		"490": [
+			"flake",
+			"snow",
+			"storm",
+			"hail"
+		],
+		"491": [
+			"flake",
+			"snow",
+			"drop",
+			"rain"
+		],
+		"492": [
+			"flake",
+			"snow",
+			"field",
+			"wheat"
+		],
+		"493": [
+			"flake",
+			"snow",
+			"stack",
+			"hay"
+		],
+		"494": [
+			"flake",
+			"snow",
+			"cloud",
+			"sky"
+		],
+		"495": [
+			"impious",
+			"reverence",
+			"profane",
+			"behavior"
+		],
+		"496": [
+			"impious",
+			"reverence",
+			"paranoid",
+			"persecution"
+		],
+		"497": [
+			"impious",
+			"reverence",
+			"contrite",
+			"offense"
+		],
+		"498": [
+			"impious",
+			"reverence",
+			"superficial",
+			"depth"
+		],
+		"499": [
+			"impious",
+			"reverence",
+			"contemptuous",
+			"scorn"
+		],
+		"500": [
+			"mansion",
+			"residence",
+			"limousine",
+			"automobile"
+		],
+		"501": [
+			"mansion",
+			"residence",
+			"chandelier",
+			"candle"
+		],
+		"502": [
+			"mansion",
+			"residence",
+			"tuxedo",
+			"wardrobe"
+		],
+		"503": [
+			"mansion",
+			"residence",
+			"diamond",
+			"rhinestone"
+		],
+		"504": [
+			"mansion",
+			"residence",
+			"yacht",
+			"harbor"
+		],
+		"505": [
+			"carping",
+			"criticize",
+			"vain",
+			"admire"
+		],
+		"506": [
+			"carping",
+			"criticize",
+			"obliging",
+			"help"
+		],
+		"507": [
+			"carping",
+			"criticize",
+			"retiring",
+			"boast"
+		],
+		"508": [
+			"carping",
+			"criticize",
+			"jealous",
+			"possess"
+		],
+		"509": [
+			"carping",
+			"criticize",
+			"wary",
+			"surprise"
+		],
+		"510": [
+			"diversion",
+			"boredom",
+			"assurance",
+			"uncertainty"
+		],
+		"511": [
+			"diversion",
+			"boredom",
+			"enmity",
+			"hatred"
+		],
+		"512": [
+			"diversion",
+			"boredom",
+			"secrecy",
+			"curiosity"
+		],
+		"513": [
+			"diversion",
+			"boredom",
+			"reward",
+			"deed"
+		],
+		"514": [
+			"diversion",
+			"boredom",
+			"sluggishness",
+			"fatigue"
+		],
+		"515": [
+			"courier",
+			"message",
+			"soldier",
+			"battle"
+		],
+		"516": [
+			"courier",
+			"message",
+			"student",
+			"knowledge"
+		],
+		"517": [
+			"courier",
+			"message",
+			"prophet",
+			"revelation"
+		],
+		"518": [
+			"courier",
+			"message",
+			"judge",
+			"law"
+		],
+		"519": [
+			"courier",
+			"message",
+			"athlete",
+			"prowess"
+		],
+		"520": [
+			"bird",
+			"avian",
+			"plant",
+			"tropical"
+		],
+		"521": [
+			"bird",
+			"avian",
+			"meat",
+			"carnivorous"
+		],
+		"522": [
+			"bird",
+			"avian",
+			"snake",
+			"slippery"
+		],
+		"523": [
+			"bird",
+			"avian",
+			"dog",
+			"canine"
+		],
+		"524": [
+			"bird",
+			"avian",
+			"lung",
+			"amphibian"
+		],
+		"525": [
+			"territory",
+			"delegate",
+			"whole",
+			"sample"
+		],
+		"526": [
+			"territory",
+			"delegate",
+			"agent",
+			"manager"
+		],
+		"527": [
+			"territory",
+			"delegate",
+			"lobbyist",
+			"senator"
+		],
+		"528": [
+			"territory",
+			"delegate",
+			"pitch",
+			"salesman"
+		],
+		"529": [
+			"territory",
+			"delegate",
+			"minority",
+			"majority"
+		],
+		"530": [
+			"pariah",
+			"ostracism",
+			"idol",
+			"adulation"
+		],
+		"531": [
+			"pariah",
+			"ostracism",
+			"gourmand",
+			"food"
+		],
+		"532": [
+			"pariah",
+			"ostracism",
+			"scapegoat",
+			"symbol"
+		],
+		"533": [
+			"pariah",
+			"ostracism",
+			"collector",
+			"ownership"
+		],
+		"534": [
+			"pariah",
+			"ostracism",
+			"protagonist",
+			"narrative"
+		],
+		"535": [
+			"drought",
+			"rain",
+			"desert",
+			"sun"
+		],
+		"536": [
+			"drought",
+			"rain",
+			"hurricane",
+			"wind"
+		],
+		"537": [
+			"drought",
+			"rain",
+			"epidemic",
+			"disease"
+		],
+		"538": [
+			"drought",
+			"rain",
+			"volcano",
+			"lava"
+		],
+		"539": [
+			"drought",
+			"rain",
+			"famine",
+			"nourishment"
+		],
+		"540": [
+			"crass",
+			"refinement",
+			"inefficient",
+			"time"
+		],
+		"541": [
+			"crass",
+			"refinement",
+			"prudent",
+			"discretion"
+		],
+		"542": [
+			"crass",
+			"refinement",
+			"clairvoyant",
+			"perception"
+		],
+		"543": [
+			"crass",
+			"refinement",
+			"inept",
+			"mistake"
+		],
+		"544": [
+			"crass",
+			"refinement",
+			"pretentious",
+			"modesty"
+		],
+		"545": [
+			"incantation",
+			"words",
+			"malediction",
+			"harm"
+		],
+		"546": [
+			"incantation",
+			"words",
+			"oration",
+			"formality"
+		],
+		"547": [
+			"incantation",
+			"words",
+			"talisman",
+			"object"
+		],
+		"548": [
+			"incantation",
+			"words",
+			"enchantment",
+			"happiness"
+		],
+		"549": [
+			"incantation",
+			"words",
+			"divination",
+			"future"
+		],
+		"550": [
+			"submit",
+			"subordinate",
+			"loud",
+			"cacophony"
+		],
+		"551": [
+			"submit",
+			"subordinate",
+			"rebel",
+			"solitude"
+		],
+		"552": [
+			"submit",
+			"subordinate",
+			"secede",
+			"autonomous"
+		],
+		"553": [
+			"submit",
+			"subordinate",
+			"inferior",
+			"dominant"
+		],
+		"554": [
+			"submit",
+			"subordinate",
+			"no",
+			"choice"
+		],
+		"555": [
+			"foolhardy",
+			"recklessness",
+			"defiant",
+			"complacency"
+		],
+		"556": [
+			"foolhardy",
+			"recklessness",
+			"serene",
+			"tranquillity"
+		],
+		"557": [
+			"foolhardy",
+			"recklessness",
+			"precious",
+			"worthlessness"
+		],
+		"558": [
+			"foolhardy",
+			"recklessness",
+			"sociable",
+			"antagonism"
+		],
+		"559": [
+			"foolhardy",
+			"recklessness",
+			"lucky",
+			"persistence"
+		],
+		"560": [
+			"prudent",
+			"indiscretion",
+			"frugal",
+			"wastefulness"
+		],
+		"561": [
+			"prudent",
+			"indiscretion",
+			"proud",
+			"accomplishment"
+		],
+		"562": [
+			"prudent",
+			"indiscretion",
+			"generous",
+			"wealth"
+		],
+		"563": [
+			"prudent",
+			"indiscretion",
+			"disqualified",
+			"competition"
+		],
+		"564": [
+			"prudent",
+			"indiscretion",
+			"disgruntled",
+			"cynicism"
+		],
+		"565": [
+			"procrastinate",
+			"action",
+			"reverse",
+			"direction"
+		],
+		"566": [
+			"procrastinate",
+			"action",
+			"postpone",
+			"event"
+		],
+		"567": [
+			"procrastinate",
+			"action",
+			"assign",
+			"choice"
+		],
+		"568": [
+			"procrastinate",
+			"action",
+			"endure",
+			"patience"
+		],
+		"569": [
+			"procrastinate",
+			"action",
+			"embezzle",
+			"fraud"
+		],
+		"570": [
+			"drapery",
+			"fabric",
+			"fireplace",
+			"wood"
+		],
+		"571": [
+			"drapery",
+			"fabric",
+			"curtain",
+			"stage"
+		],
+		"572": [
+			"drapery",
+			"fabric",
+			"shutter",
+			"light"
+		],
+		"573": [
+			"drapery",
+			"fabric",
+			"sieve",
+			"liquid"
+		],
+		"574": [
+			"drapery",
+			"fabric",
+			"window",
+			"glass"
+		],
+		"575": [
+			"abrasive",
+			"skin",
+			"flammable",
+			"fire"
+		],
+		"576": [
+			"abrasive",
+			"skin",
+			"resilient",
+			"shock"
+		],
+		"577": [
+			"abrasive",
+			"skin",
+			"soluble",
+			"water"
+		],
+		"578": [
+			"abrasive",
+			"skin",
+			"corrosive",
+			"iron"
+		],
+		"579": [
+			"abrasive",
+			"skin",
+			"responsive",
+			"stimulus"
+		],
+		"580": [
+			"forensics",
+			"argumentation",
+			"autopsy",
+			"death"
+		],
+		"581": [
+			"forensics",
+			"argumentation",
+			"syntax",
+			"grammar"
+		],
+		"582": [
+			"forensics",
+			"argumentation",
+			"jurisprudence",
+			"law"
+		],
+		"583": [
+			"forensics",
+			"argumentation",
+			"archaeology",
+			"site"
+		],
+		"584": [
+			"forensics",
+			"argumentation",
+			"etymology",
+			"dictionary"
+		],
+		"585": [
+			"dynamic",
+			"static",
+			"movement",
+			"fluidity"
+		],
+		"586": [
+			"dynamic",
+			"static",
+			"inherent",
+			"extrinsic"
+		],
+		"587": [
+			"dynamic",
+			"static",
+			"border",
+			"threshold"
+		],
+		"588": [
+			"dynamic",
+			"static",
+			"permission",
+			"allowance"
+		],
+		"589": [
+			"dynamic",
+			"static",
+			"no",
+			"choice"
+		],
+		"590": [
+			"abash",
+			"embarrassment",
+			"dislike",
+			"hypocrisy"
+		],
+		"591": [
+			"abash",
+			"embarrassment",
+			"pretend",
+			"imagination"
+		],
+		"592": [
+			"abash",
+			"embarrassment",
+			"annoy",
+			"irritation"
+		],
+		"593": [
+			"abash",
+			"embarrassment",
+			"suspect",
+			"illegality"
+		],
+		"594": [
+			"abash",
+			"embarrassment",
+			"demolish",
+			"renovation"
+		],
+		"595": [
+			"gaze",
+			"observer",
+			"hear",
+			"listener"
+		],
+		"596": [
+			"gaze",
+			"observer",
+			"banish",
+			"exile"
+		],
+		"597": [
+			"gaze",
+			"observer",
+			"separate",
+			"joint"
+		],
+		"598": [
+			"gaze",
+			"observer",
+			"operate",
+			"doctor"
+		],
+		"599": [
+			"gaze",
+			"observer",
+			"sprain",
+			"ankle"
+		],
+		"600": [
+			"fickle",
+			"inconsistency",
+			"cloudy",
+			"warmth"
+		],
+		"601": [
+			"fickle",
+			"inconsistency",
+			"innate",
+			"capability"
+		],
+		"602": [
+			"fickle",
+			"inconsistency",
+			"worthy",
+			"heroism"
+		],
+		"603": [
+			"fickle",
+			"inconsistency",
+			"placid",
+			"calmness"
+		],
+		"604": [
+			"fickle",
+			"inconsistency",
+			"solid",
+			"order"
+		],
+		"605": [
+			"raucous",
+			"sound",
+			"dim",
+			"light"
+		],
+		"606": [
+			"raucous",
+			"sound",
+			"noisy",
+			"uproar"
+		],
+		"607": [
+			"raucous",
+			"sound",
+			"tanned",
+			"leather"
+		],
+		"608": [
+			"raucous",
+			"sound",
+			"rough",
+			"texture"
+		],
+		"609": [
+			"raucous",
+			"sound",
+			"hard",
+			"granite"
+		],
+		"610": [
+			"humidifier",
+			"moisture",
+			"iron",
+			"wrinkle"
+		],
+		"611": [
+			"humidifier",
+			"moisture",
+			"candle",
+			"wax"
+		],
+		"612": [
+			"humidifier",
+			"moisture",
+			"tub",
+			"liquid"
+		],
+		"613": [
+			"humidifier",
+			"moisture",
+			"furnace",
+			"heat"
+		],
+		"614": [
+			"humidifier",
+			"moisture",
+			"chimney",
+			"smoke"
+		],
+		"615": [
+			"repeal",
+			"law",
+			"withdraw",
+			"offer"
+		],
+		"616": [
+			"repeal",
+			"law",
+			"amend",
+			"agreement"
+		],
+		"617": [
+			"repeal",
+			"law",
+			"reconcile",
+			"amends"
+		],
+		"618": [
+			"repeal",
+			"law",
+			"demote",
+			"employee"
+		],
+		"619": [
+			"repeal",
+			"law",
+			"renovate",
+			"house"
+		],
+		"620": [
+			"apprehensive",
+			"petrified",
+			"happy",
+			"hostile"
+		],
+		"621": [
+			"apprehensive",
+			"petrified",
+			"elated",
+			"deaden"
+		],
+		"622": [
+			"apprehensive",
+			"petrified",
+			"sincere",
+			"satisfied"
+		],
+		"623": [
+			"apprehensive",
+			"petrified",
+			"emotional",
+			"accord"
+		],
+		"624": [
+			"apprehensive",
+			"petrified",
+			"cheerful",
+			"hilarious"
+		],
+		"625": [
+			"wedding",
+			"marriage",
+			"birthday",
+			"cake"
+		],
+		"626": [
+			"wedding",
+			"marriage",
+			"coronation",
+			"reign"
+		],
+		"627": [
+			"wedding",
+			"marriage",
+			"graduation",
+			"diploma"
+		],
+		"628": [
+			"wedding",
+			"marriage",
+			"promotion",
+			"job"
+		],
+		"629": [
+			"wedding",
+			"marriage",
+			"decoration",
+			"bravery"
+		],
+		"630": [
+			"pebble",
+			"rock",
+			"mountain",
+			"peak"
+		],
+		"631": [
+			"pebble",
+			"rock",
+			"gravel",
+			"driveway"
+		],
+		"632": [
+			"pebble",
+			"rock",
+			"sand",
+			"desert"
+		],
+		"633": [
+			"pebble",
+			"rock",
+			"minnow",
+			"fish"
+		],
+		"634": [
+			"pebble",
+			"rock",
+			"melon",
+			"fruit"
+		],
+		"635": [
+			"hammer",
+			"anvil",
+			"knocker",
+			"door"
+		],
+		"636": [
+			"hammer",
+			"anvil",
+			"stick",
+			"gong"
+		],
+		"637": [
+			"hammer",
+			"anvil",
+			"hand",
+			"drum"
+		],
+		"638": [
+			"hammer",
+			"anvil",
+			"pestle",
+			"mortar"
+		],
+		"639": [
+			"hammer",
+			"anvil",
+			"gavel",
+			"lectern"
+		],
+		"640": [
+			"simian",
+			"ape",
+			"feathered",
+			"vulture"
+		],
+		"641": [
+			"simian",
+			"ape",
+			"bovine",
+			"pasture"
+		],
+		"642": [
+			"simian",
+			"ape",
+			"infantile",
+			"child"
+		],
+		"643": [
+			"simian",
+			"ape",
+			"carnivorous",
+			"plant"
+		],
+		"644": [
+			"simian",
+			"ape",
+			"wizened",
+			"wisdom"
+		],
+		"645": [
+			"camera",
+			"photographer",
+			"house",
+			"architect"
+		],
+		"646": [
+			"camera",
+			"photographer",
+			"sink",
+			"plumber"
+		],
+		"647": [
+			"camera",
+			"photographer",
+			"studio",
+			"painter"
+		],
+		"648": [
+			"camera",
+			"photographer",
+			"meat",
+			"butcher"
+		],
+		"649": [
+			"camera",
+			"photographer",
+			"drill",
+			"dentist"
+		],
+		"650": [
+			"mare",
+			"horse",
+			"cat",
+			"dog"
+		],
+		"651": [
+			"mare",
+			"horse",
+			"shark",
+			"fish"
+		],
+		"652": [
+			"mare",
+			"horse",
+			"worm",
+			"snake"
+		],
+		"653": [
+			"mare",
+			"horse",
+			"lion",
+			"tiger"
+		],
+		"654": [
+			"mare",
+			"horse",
+			"ewe",
+			"sheep"
+		],
+		"655": [
+			"dearth",
+			"abundance",
+			"retribution",
+			"infamy"
+		],
+		"656": [
+			"dearth",
+			"abundance",
+			"death",
+			"funeral"
+		],
+		"657": [
+			"dearth",
+			"abundance",
+			"poverty",
+			"wealth"
+		],
+		"658": [
+			"dearth",
+			"abundance",
+			"contempt",
+			"anger"
+		],
+		"659": [
+			"dearth",
+			"abundance",
+			"ruse",
+			"plan"
+		],
+		"660": [
+			"library",
+			"book",
+			"scholar",
+			"knowledge"
+		],
+		"661": [
+			"library",
+			"book",
+			"stable",
+			"horse"
+		],
+		"662": [
+			"library",
+			"book",
+			"factory",
+			"outlet"
+		],
+		"663": [
+			"library",
+			"book",
+			"laboratory",
+			"radiation"
+		],
+		"664": [
+			"library",
+			"book",
+			"laser",
+			"energy"
+		],
+		"665": [
+			"floral",
+			"flowers",
+			"perennial",
+			"plants"
+		],
+		"666": [
+			"floral",
+			"flowers",
+			"morbid",
+			"cemeteries"
+		],
+		"667": [
+			"floral",
+			"flowers",
+			"emotional",
+			"feelings"
+		],
+		"668": [
+			"floral",
+			"flowers",
+			"moral",
+			"stories"
+		],
+		"669": [
+			"floral",
+			"flowers",
+			"maniacal",
+			"men"
+		],
+		"670": [
+			"amplifier",
+			"ear",
+			"computer",
+			"brain"
+		],
+		"671": [
+			"amplifier",
+			"ear",
+			"telescope",
+			"eye"
+		],
+		"672": [
+			"amplifier",
+			"ear",
+			"book",
+			"library"
+		],
+		"673": [
+			"amplifier",
+			"ear",
+			"clock",
+			"time"
+		],
+		"674": [
+			"amplifier",
+			"ear",
+			"keyboard",
+			"finger"
+		],
+		"675": [
+			"strident",
+			"sound",
+			"fragrant",
+			"flower"
+		],
+		"676": [
+			"strident",
+			"sound",
+			"acrid",
+			"taste"
+		],
+		"677": [
+			"strident",
+			"sound",
+			"outdated",
+			"book"
+		],
+		"678": [
+			"strident",
+			"sound",
+			"adjusted",
+			"clock"
+		],
+		"679": [
+			"strident",
+			"sound",
+			"broken",
+			"glass"
+		],
+		"680": [
+			"emigrate",
+			"country",
+			"retreat",
+			"position"
+		],
+		"681": [
+			"emigrate",
+			"country",
+			"retire",
+			"pension"
+		],
+		"682": [
+			"emigrate",
+			"country",
+			"voyage",
+			"suitcase"
+		],
+		"683": [
+			"emigrate",
+			"country",
+			"swindle",
+			"property"
+		],
+		"684": [
+			"emigrate",
+			"country",
+			"novel",
+			"old"
+		],
+		"685": [
+			"tentacle",
+			"octopus",
+			"oak",
+			"tree"
+		],
+		"686": [
+			"tentacle",
+			"octopus",
+			"tendril",
+			"vine"
+		],
+		"687": [
+			"tentacle",
+			"octopus",
+			"rat",
+			"vermin"
+		],
+		"688": [
+			"tentacle",
+			"octopus",
+			"meow",
+			"cat"
+		],
+		"689": [
+			"tentacle",
+			"octopus",
+			"no",
+			"choice"
+		],
+		"690": [
+			"philanthropist",
+			"largesse",
+			"acrobat",
+			"net"
+		],
+		"691": [
+			"philanthropist",
+			"largesse",
+			"doctor",
+			"nurse"
+		],
+		"692": [
+			"philanthropist",
+			"largesse",
+			"mercenary",
+			"money"
+		],
+		"693": [
+			"philanthropist",
+			"largesse",
+			"professor",
+			"knowledge"
+		],
+		"694": [
+			"philanthropist",
+			"largesse",
+			"opportunist",
+			"advantage"
+		],
+		"695": [
+			"criticize",
+			"censorious",
+			"explain",
+			"enigmatic"
+		],
+		"696": [
+			"criticize",
+			"censorious",
+			"discard",
+			"useless"
+		],
+		"697": [
+			"criticize",
+			"censorious",
+			"exude",
+			"flamboyant"
+		],
+		"698": [
+			"criticize",
+			"censorious",
+			"concur",
+			"sycophantic"
+		],
+		"699": [
+			"criticize",
+			"censorious",
+			"tremble",
+			"jocular"
+		],
+		"700": [
+			"insubordination",
+			"punishment",
+			"evening",
+			"night"
+		],
+		"701": [
+			"insubordination",
+			"punishment",
+			"earthquake",
+			"tornado"
+		],
+		"702": [
+			"insubordination",
+			"punishment",
+			"candor",
+			"falsehood"
+		],
+		"703": [
+			"insubordination",
+			"punishment",
+			"heroism",
+			"praise"
+		],
+		"704": [
+			"insubordination",
+			"punishment",
+			"fine",
+			"penalty"
+		],
+		"705": [
+			"puppeteer",
+			"marionette",
+			"teacher",
+			"textbook"
+		],
+		"706": [
+			"puppeteer",
+			"marionette",
+			"ballerina",
+			"leotard"
+		],
+		"707": [
+			"puppeteer",
+			"marionette",
+			"hypnotist",
+			"subject"
+		],
+		"708": [
+			"puppeteer",
+			"marionette",
+			"lawyer",
+			"criminal"
+		],
+		"709": [
+			"puppeteer",
+			"marionette",
+			"manager",
+			"baseball"
+		],
+		"710": [
+			"architect",
+			"blueprint",
+			"instructor",
+			"blackboard"
+		],
+		"711": [
+			"architect",
+			"blueprint",
+			"graduate",
+			"diploma"
+		],
+		"712": [
+			"architect",
+			"blueprint",
+			"musician",
+			"note"
+		],
+		"713": [
+			"architect",
+			"blueprint",
+			"painter",
+			"brush"
+		],
+		"714": [
+			"architect",
+			"blueprint",
+			"composer",
+			"score"
+		],
+		"715": [
+			"palatable",
+			"toothsome",
+			"rancid",
+			"fragrant"
+		],
+		"716": [
+			"palatable",
+			"toothsome",
+			"chewy",
+			"textured"
+		],
+		"717": [
+			"palatable",
+			"toothsome",
+			"coarse",
+			"rough"
+		],
+		"718": [
+			"palatable",
+			"toothsome",
+			"solitude",
+			"company"
+		],
+		"719": [
+			"palatable",
+			"toothsome",
+			"no",
+			"choice"
+		],
+		"720": [
+			"thicket",
+			"shrubs",
+			"grove",
+			"trees"
+		],
+		"721": [
+			"thicket",
+			"shrubs",
+			"orchard",
+			"apples"
+		],
+		"722": [
+			"thicket",
+			"shrubs",
+			"pasture",
+			"cows"
+		],
+		"723": [
+			"thicket",
+			"shrubs",
+			"reef",
+			"waves"
+		],
+		"724": [
+			"thicket",
+			"shrubs",
+			"crop",
+			"plants"
+		],
+		"725": [
+			"alligator",
+			"reptile",
+			"fish",
+			"school"
+		],
+		"726": [
+			"alligator",
+			"reptile",
+			"lion",
+			"cat"
+		],
+		"727": [
+			"alligator",
+			"reptile",
+			"wolf",
+			"sheep"
+		],
+		"728": [
+			"alligator",
+			"reptile",
+			"cub",
+			"bear"
+		],
+		"729": [
+			"alligator",
+			"reptile",
+			"dog",
+			"bone"
+		],
+		"730": [
+			"querulous",
+			"complain",
+			"silent",
+			"talk"
+		],
+		"731": [
+			"querulous",
+			"complain",
+			"humorous",
+			"laugh"
+		],
+		"732": [
+			"querulous",
+			"complain",
+			"dangerous",
+			"risk"
+		],
+		"733": [
+			"querulous",
+			"complain",
+			"deceitful",
+			"cheat"
+		],
+		"734": [
+			"querulous",
+			"complain",
+			"gracious",
+			"accept"
+		],
+		"735": [
+			"injurious",
+			"harm",
+			"criminal",
+			"restitution"
+		],
+		"736": [
+			"injurious",
+			"harm",
+			"insincere",
+			"dismay"
+		],
+		"737": [
+			"injurious",
+			"harm",
+			"sacred",
+			"relic"
+		],
+		"738": [
+			"injurious",
+			"harm",
+			"soporific",
+			"sleep"
+		],
+		"739": [
+			"injurious",
+			"harm",
+			"unethical",
+			"principles"
+		],
+		"740": [
+			"journal",
+			"article",
+			"dance",
+			"ballet"
+		],
+		"741": [
+			"journal",
+			"article",
+			"magazine",
+			"cover"
+		],
+		"742": [
+			"journal",
+			"article",
+			"set",
+			"scenery"
+		],
+		"743": [
+			"journal",
+			"article",
+			"anthology",
+			"poem"
+		],
+		"744": [
+			"journal",
+			"article",
+			"concert",
+			"orchestra"
+		],
+		"745": [
+			"arid",
+			"dry",
+			"glacial",
+			"cold"
+		],
+		"746": [
+			"arid",
+			"dry",
+			"coastal",
+			"tidal"
+		],
+		"747": [
+			"arid",
+			"dry",
+			"damp",
+			"muddy"
+		],
+		"748": [
+			"arid",
+			"dry",
+			"snowbound",
+			"polar"
+		],
+		"749": [
+			"arid",
+			"dry",
+			"shallow",
+			"deep"
+		],
+		"750": [
+			"jubilation",
+			"joy",
+			"exaggeration",
+			"truth"
+		],
+		"751": [
+			"jubilation",
+			"joy",
+			"compassion",
+			"sympathy"
+		],
+		"752": [
+			"jubilation",
+			"joy",
+			"security",
+			"instability"
+		],
+		"753": [
+			"jubilation",
+			"joy",
+			"fortitude",
+			"danger"
+		],
+		"754": [
+			"jubilation",
+			"joy",
+			"emotion",
+			"anger"
+		],
+		"755": [
+			"legend",
+			"map",
+			"subtitle",
+			"translation"
+		],
+		"756": [
+			"legend",
+			"map",
+			"bar",
+			"graph"
+		],
+		"757": [
+			"legend",
+			"map",
+			"figure",
+			"blueprint"
+		],
+		"758": [
+			"legend",
+			"map",
+			"key",
+			"chart"
+		],
+		"759": [
+			"legend",
+			"map",
+			"footnote",
+			"information"
+		],
+		"760": [
+			"rife",
+			"singular",
+			"sharp",
+			"pointed"
+		],
+		"761": [
+			"rife",
+			"singular",
+			"one",
+			"unit"
+		],
+		"762": [
+			"rife",
+			"singular",
+			"round",
+			"square"
+		],
+		"763": [
+			"rife",
+			"singular",
+			"strong",
+			"weak"
+		],
+		"764": [
+			"rife",
+			"singular",
+			"smell",
+			"good"
+		],
+		"765": [
+			"magnify",
+			"appearance",
+			"rectify",
+			"error"
+		],
+		"766": [
+			"magnify",
+			"appearance",
+			"augment",
+			"reduction"
+		],
+		"767": [
+			"magnify",
+			"appearance",
+			"probe",
+			"feeling"
+		],
+		"768": [
+			"magnify",
+			"appearance",
+			"amplify",
+			"volume"
+		],
+		"769": [
+			"magnify",
+			"appearance",
+			"distort",
+			"image"
+		],
+		"770": [
+			"buttress",
+			"support",
+			"encore",
+			"applause"
+		],
+		"771": [
+			"buttress",
+			"support",
+			"ornament",
+			"decoration"
+		],
+		"772": [
+			"buttress",
+			"support",
+			"choreography",
+			"dance"
+		],
+		"773": [
+			"buttress",
+			"support",
+			"prayer",
+			"religion"
+		],
+		"774": [
+			"buttress",
+			"support",
+			"thesis",
+			"evidence"
+		],
+		"775": [
+			"shallow",
+			"depth",
+			"salty",
+			"ocean"
+		],
+		"776": [
+			"shallow",
+			"depth",
+			"cloudy",
+			"height"
+		],
+		"777": [
+			"shallow",
+			"depth",
+			"lurid",
+			"shock"
+		],
+		"778": [
+			"shallow",
+			"depth",
+			"pious",
+			"faith"
+		],
+		"779": [
+			"shallow",
+			"depth",
+			"apathetic",
+			"caring"
+		],
+		"780": [
+			"lubricate",
+			"smoothly",
+			"weigh",
+			"heavily"
+		],
+		"781": [
+			"lubricate",
+			"smoothly",
+			"assist",
+			"grudgingly"
+		],
+		"782": [
+			"lubricate",
+			"smoothly",
+			"speak",
+			"softly"
+		],
+		"783": [
+			"lubricate",
+			"smoothly",
+			"muffle",
+			"quietly"
+		],
+		"784": [
+			"lubricate",
+			"smoothly",
+			"absorb",
+			"quickly"
+		],
+		"785": [
+			"levee",
+			"flood",
+			"snow",
+			"avalanche"
+		],
+		"786": [
+			"levee",
+			"flood",
+			"rain",
+			"deluge"
+		],
+		"787": [
+			"levee",
+			"flood",
+			"immunization",
+			"disease"
+		],
+		"788": [
+			"levee",
+			"flood",
+			"zenith",
+			"view"
+		],
+		"789": [
+			"levee",
+			"flood",
+			"buttress",
+			"building"
+		],
+		"790": [
+			"crowbar",
+			"pry",
+			"rod",
+			"trout"
+		],
+		"791": [
+			"crowbar",
+			"pry",
+			"pencil",
+			"draw"
+		],
+		"792": [
+			"crowbar",
+			"pry",
+			"nail",
+			"hammer"
+		],
+		"793": [
+			"crowbar",
+			"pry",
+			"telescope",
+			"star"
+		],
+		"794": [
+			"crowbar",
+			"pry",
+			"no",
+			"choice"
+		],
+		"795": [
+			"exhortation",
+			"urge",
+			"division",
+			"unite"
+		],
+		"796": [
+			"exhortation",
+			"urge",
+			"agreement",
+			"dissent"
+		],
+		"797": [
+			"exhortation",
+			"urge",
+			"eulogy",
+			"praise"
+		],
+		"798": [
+			"exhortation",
+			"urge",
+			"travesty",
+			"reproduce"
+		],
+		"799": [
+			"exhortation",
+			"urge",
+			"charity",
+			"donate"
+		],
+		"800": [
+			"progenitor",
+			"descendant",
+			"stem",
+			"leaves"
+		],
+		"801": [
+			"progenitor",
+			"descendant",
+			"teacher",
+			"student"
+		],
+		"802": [
+			"progenitor",
+			"descendant",
+			"mother",
+			"aunt"
+		],
+		"803": [
+			"progenitor",
+			"descendant",
+			"cloud",
+			"rain"
+		],
+		"804": [
+			"progenitor",
+			"descendant",
+			"parent",
+			"offspring"
+		],
+		"805": [
+			"embroidery",
+			"cloth",
+			"bracelet",
+			"jewelry"
+		],
+		"806": [
+			"embroidery",
+			"cloth",
+			"mural",
+			"wall"
+		],
+		"807": [
+			"embroidery",
+			"cloth",
+			"tattoo",
+			"design"
+		],
+		"808": [
+			"embroidery",
+			"cloth",
+			"paint",
+			"color"
+		],
+		"809": [
+			"embroidery",
+			"cloth",
+			"flower",
+			"vase"
+		],
+		"810": [
+			"shard",
+			"pottery",
+			"flint",
+			"stone"
+		],
+		"811": [
+			"shard",
+			"pottery",
+			"flange",
+			"wheel"
+		],
+		"812": [
+			"shard",
+			"pottery",
+			"cinder",
+			"coal"
+		],
+		"813": [
+			"shard",
+			"pottery",
+			"fragment",
+			"bone"
+		],
+		"814": [
+			"shard",
+			"pottery",
+			"tare",
+			"grain"
+		],
+		"815": [
+			"emissary",
+			"represent",
+			"draftee",
+			"enroll"
+		],
+		"816": [
+			"emissary",
+			"represent",
+			"novice",
+			"train"
+		],
+		"817": [
+			"emissary",
+			"represent",
+			"president",
+			"elect"
+		],
+		"818": [
+			"emissary",
+			"represent",
+			"guard",
+			"protect"
+		],
+		"819": [
+			"emissary",
+			"represent",
+			"comedian",
+			"laugh"
+		],
+		"820": [
+			"wing",
+			"air",
+			"arm",
+			"hand"
+		],
+		"821": [
+			"wing",
+			"air",
+			"lung",
+			"breath"
+		],
+		"822": [
+			"wing",
+			"air",
+			"flipper",
+			"water"
+		],
+		"823": [
+			"wing",
+			"air",
+			"cloud",
+			"sky"
+		],
+		"824": [
+			"wing",
+			"air",
+			"engine",
+			"jet"
+		],
+		"825": [
+			"consider",
+			"contemplate",
+			"smile",
+			"greet"
+		],
+		"826": [
+			"consider",
+			"contemplate",
+			"write",
+			"compose"
+		],
+		"827": [
+			"consider",
+			"contemplate",
+			"complain",
+			"bicker"
+		],
+		"828": [
+			"consider",
+			"contemplate",
+			"examine",
+			"scrutinize"
+		],
+		"829": [
+			"consider",
+			"contemplate",
+			"ignore",
+			"notice"
+		],
+		"830": [
+			"chief",
+			"hierarchy",
+			"office",
+			"rank"
+		],
+		"831": [
+			"chief",
+			"hierarchy",
+			"platoon",
+			"army"
+		],
+		"832": [
+			"chief",
+			"hierarchy",
+			"president",
+			"term"
+		],
+		"833": [
+			"chief",
+			"hierarchy",
+			"lawyer",
+			"court"
+		],
+		"834": [
+			"chief",
+			"hierarchy",
+			"summit",
+			"mountain"
+		],
+		"835": [
+			"tunnel",
+			"mine",
+			"conduit",
+			"fluid"
+		],
+		"836": [
+			"tunnel",
+			"mine",
+			"corner",
+			"intersection"
+		],
+		"837": [
+			"tunnel",
+			"mine",
+			"sign",
+			"detour"
+		],
+		"838": [
+			"tunnel",
+			"mine",
+			"aisle",
+			"seat"
+		],
+		"839": [
+			"tunnel",
+			"mine",
+			"corridor",
+			"building"
+		],
+		"840": [
+			"oxygen",
+			"gas",
+			"cobra",
+			"venom"
+		],
+		"841": [
+			"oxygen",
+			"gas",
+			"doctor",
+			"hospital"
+		],
+		"842": [
+			"oxygen",
+			"gas",
+			"aluminum",
+			"metal"
+		],
+		"843": [
+			"oxygen",
+			"gas",
+			"gymnasium",
+			"track"
+		],
+		"844": [
+			"oxygen",
+			"gas",
+			"airplane",
+			"cloud"
+		],
+		"845": [
+			"mentor",
+			"guide",
+			"prophet",
+			"predict"
+		],
+		"846": [
+			"mentor",
+			"guide",
+			"instructor",
+			"discipline"
+		],
+		"847": [
+			"mentor",
+			"guide",
+			"tyrant",
+			"relentless"
+		],
+		"848": [
+			"mentor",
+			"guide",
+			"citizen",
+			"unique"
+		],
+		"849": [
+			"mentor",
+			"guide",
+			"no",
+			"choice"
+		],
+		"850": [
+			"perfidious",
+			"treachery",
+			"philanthropic",
+			"destitution"
+		],
+		"851": [
+			"perfidious",
+			"treachery",
+			"servile",
+			"submissiveness"
+		],
+		"852": [
+			"perfidious",
+			"treachery",
+			"truculent",
+			"temperament"
+		],
+		"853": [
+			"perfidious",
+			"treachery",
+			"bereft",
+			"consolation"
+		],
+		"854": [
+			"perfidious",
+			"treachery",
+			"resplendent",
+			"drabness"
+		],
+		"855": [
+			"criterion",
+			"judgment",
+			"height",
+			"statue"
+		],
+		"856": [
+			"criterion",
+			"judgment",
+			"depth",
+			"bottom"
+		],
+		"857": [
+			"criterion",
+			"judgment",
+			"song",
+			"voice"
+		],
+		"858": [
+			"criterion",
+			"judgment",
+			"edge",
+			"sharpness"
+		],
+		"859": [
+			"criterion",
+			"judgment",
+			"standard",
+			"selection"
+		],
+		"860": [
+			"arable",
+			"cultivation",
+			"exploited",
+			"protection"
+		],
+		"861": [
+			"arable",
+			"cultivation",
+			"healthy",
+			"medication"
+		],
+		"862": [
+			"arable",
+			"cultivation",
+			"insular",
+			"discovery"
+		],
+		"863": [
+			"arable",
+			"cultivation",
+			"productive",
+			"surplus"
+		],
+		"864": [
+			"arable",
+			"cultivation",
+			"navigable",
+			"sailing"
+		],
+		"865": [
+			"bequest",
+			"heir",
+			"gift",
+			"recipient"
+		],
+		"866": [
+			"bequest",
+			"heir",
+			"huge",
+			"weight"
+		],
+		"867": [
+			"bequest",
+			"heir",
+			"painting",
+			"artist"
+		],
+		"868": [
+			"bequest",
+			"heir",
+			"payment",
+			"donor"
+		],
+		"869": [
+			"bequest",
+			"heir",
+			"measure",
+			"gauge"
+		],
+		"870": [
+			"lame",
+			"mobility",
+			"lively",
+			"energy"
+		],
+		"871": [
+			"lame",
+			"mobility",
+			"hostile",
+			"enemy"
+		],
+		"872": [
+			"lame",
+			"mobility",
+			"hoarse",
+			"speech"
+		],
+		"873": [
+			"lame",
+			"mobility",
+			"fractured",
+			"cast"
+		],
+		"874": [
+			"lame",
+			"mobility",
+			"walk",
+			"transportation"
+		],
+		"875": [
+			"sketch",
+			"artist",
+			"secret",
+			"confidant"
+		],
+		"876": [
+			"sketch",
+			"artist",
+			"palette",
+			"painter"
+		],
+		"877": [
+			"sketch",
+			"artist",
+			"cell",
+			"prisoner"
+		],
+		"878": [
+			"sketch",
+			"artist",
+			"draft",
+			"writer"
+		],
+		"879": [
+			"sketch",
+			"artist",
+			"chisel",
+			"sculptor"
+		],
+		"880": [
+			"best",
+			"seller",
+			"anthology",
+			"poem"
+		],
+		"881": [
+			"best",
+			"seller",
+			"rave",
+			"critic"
+		],
+		"882": [
+			"best",
+			"seller",
+			"collector",
+			"painting"
+		],
+		"883": [
+			"best",
+			"seller",
+			"performance",
+			"play"
+		],
+		"884": [
+			"best",
+			"seller",
+			"hit",
+			"song"
+		],
+		"885": [
+			"fathom",
+			"depth",
+			"amplify",
+			"volume"
+		],
+		"886": [
+			"fathom",
+			"depth",
+			"overflow",
+			"capacity"
+		],
+		"887": [
+			"fathom",
+			"depth",
+			"appraise",
+			"value"
+		],
+		"888": [
+			"fathom",
+			"depth",
+			"stump",
+			"answer"
+		],
+		"889": [
+			"fathom",
+			"depth",
+			"weigh",
+			"scale"
+		],
+		"890": [
+			"corroded",
+			"alloy",
+			"broken",
+			"contract"
+		],
+		"891": [
+			"corroded",
+			"alloy",
+			"written",
+			"rule"
+		],
+		"892": [
+			"corroded",
+			"alloy",
+			"outdated",
+			"book"
+		],
+		"893": [
+			"corroded",
+			"alloy",
+			"adjusted",
+			"clock"
+		],
+		"894": [
+			"corroded",
+			"alloy",
+			"corrupted",
+			"morality"
+		],
+		"895": [
+			"carpenter",
+			"woodwork",
+			"guitarist",
+			"pick"
+		],
+		"896": [
+			"carpenter",
+			"woodwork",
+			"cook",
+			"heat"
+		],
+		"897": [
+			"carpenter",
+			"woodwork",
+			"sculptor",
+			"studio"
+		],
+		"898": [
+			"carpenter",
+			"woodwork",
+			"weaver",
+			"cloth"
+		],
+		"899": [
+			"carpenter",
+			"woodwork",
+			"potter",
+			"shape"
+		],
+		"900": [
+			"choreography",
+			"dance",
+			"ceremony",
+			"sermon"
+		],
+		"901": [
+			"choreography",
+			"dance",
+			"agenda",
+			"advertisement"
+		],
+		"902": [
+			"choreography",
+			"dance",
+			"poetry",
+			"recitation"
+		],
+		"903": [
+			"choreography",
+			"dance",
+			"instrumentation",
+			"conductor"
+		],
+		"904": [
+			"choreography",
+			"dance",
+			"plot",
+			"story"
+		],
+		"905": [
+			"recuperate",
+			"surgery",
+			"restore",
+			"furniture"
+		],
+		"906": [
+			"recuperate",
+			"surgery",
+			"cleanse",
+			"alcohol"
+		],
+		"907": [
+			"recuperate",
+			"surgery",
+			"cure",
+			"illness"
+		],
+		"908": [
+			"recuperate",
+			"surgery",
+			"revive",
+			"faint"
+		],
+		"909": [
+			"recuperate",
+			"surgery",
+			"hospitalize",
+			"patient"
+		],
+		"910": [
+			"void",
+			"empty",
+			"glut",
+			"prosperous"
+		],
+		"911": [
+			"void",
+			"empty",
+			"system",
+			"organized"
+		],
+		"912": [
+			"void",
+			"empty",
+			"answer",
+			"questioning"
+		],
+		"913": [
+			"void",
+			"empty",
+			"ration",
+			"scarce"
+		],
+		"914": [
+			"void",
+			"empty",
+			"intent",
+			"clear"
+		],
+		"915": [
+			"prevarication",
+			"statement",
+			"conflagration",
+			"fire"
+		],
+		"916": [
+			"prevarication",
+			"statement",
+			"preamble",
+			"introduction"
+		],
+		"917": [
+			"prevarication",
+			"statement",
+			"indifferent",
+			"interest"
+		],
+		"918": [
+			"prevarication",
+			"statement",
+			"colt",
+			"horse"
+		],
+		"919": [
+			"prevarication",
+			"statement",
+			"pseudonym",
+			"name"
+		],
+		"920": [
+			"testimony",
+			"witness",
+			"leadership",
+			"follower"
+		],
+		"921": [
+			"testimony",
+			"witness",
+			"proof",
+			"theorist"
+		],
+		"922": [
+			"testimony",
+			"witness",
+			"expertise",
+			"authority"
+		],
+		"923": [
+			"testimony",
+			"witness",
+			"contradiction",
+			"investigator"
+		],
+		"924": [
+			"testimony",
+			"witness",
+			"confiscation",
+			"official"
+		],
+		"925": [
+			"haiku",
+			"poem",
+			"song",
+			"musician"
+		],
+		"926": [
+			"haiku",
+			"poem",
+			"novel",
+			"book"
+		],
+		"927": [
+			"haiku",
+			"poem",
+			"artist",
+			"painting"
+		],
+		"928": [
+			"haiku",
+			"poem",
+			"page",
+			"typeface"
+		],
+		"929": [
+			"haiku",
+			"poem",
+			"no",
+			"choice"
+		],
+		"930": [
+			"poison",
+			"toxic",
+			"mixture",
+			"soluble"
+		],
+		"931": [
+			"poison",
+			"toxic",
+			"sugar",
+			"sweet"
+		],
+		"932": [
+			"poison",
+			"toxic",
+			"medicine",
+			"prescribed"
+		],
+		"933": [
+			"poison",
+			"toxic",
+			"milk",
+			"bottled"
+		],
+		"934": [
+			"poison",
+			"toxic",
+			"solid",
+			"liquid"
+		],
+		"935": [
+			"throng",
+			"people",
+			"game",
+			"players"
+		],
+		"936": [
+			"throng",
+			"people",
+			"picnic",
+			"woods"
+		],
+		"937": [
+			"throng",
+			"people",
+			"swarm",
+			"insects"
+		],
+		"938": [
+			"throng",
+			"people",
+			"cat",
+			"kittens"
+		],
+		"939": [
+			"throng",
+			"people",
+			"vase",
+			"flowers"
+		],
+		"940": [
+			"proficiency",
+			"expert",
+			"recognition",
+			"winner"
+		],
+		"941": [
+			"proficiency",
+			"expert",
+			"victory",
+			"athlete"
+		],
+		"942": [
+			"proficiency",
+			"expert",
+			"passion",
+			"enthusiast"
+		],
+		"943": [
+			"proficiency",
+			"expert",
+			"appointment",
+			"official"
+		],
+		"944": [
+			"proficiency",
+			"expert",
+			"medicine",
+			"doctor"
+		],
+		"945": [
+			"nightmare",
+			"dream",
+			"semaphore",
+			"signal"
+		],
+		"946": [
+			"nightmare",
+			"dream",
+			"dread",
+			"expectation"
+		],
+		"947": [
+			"nightmare",
+			"dream",
+			"lure",
+			"trap"
+		],
+		"948": [
+			"nightmare",
+			"dream",
+			"fear",
+			"victim"
+		],
+		"949": [
+			"nightmare",
+			"dream",
+			"frustration",
+			"confusion"
+		],
+		"950": [
+			"squall",
+			"wind",
+			"blizzard",
+			"winter"
+		],
+		"951": [
+			"squall",
+			"wind",
+			"spark",
+			"flame"
+		],
+		"952": [
+			"squall",
+			"wind",
+			"desert",
+			"sand"
+		],
+		"953": [
+			"squall",
+			"wind",
+			"cloudburst",
+			"rain"
+		],
+		"954": [
+			"squall",
+			"wind",
+			"snow",
+			"drift"
+		],
+		"955": [
+			"waiter",
+			"diner",
+			"ballerina",
+			"dancer"
+		],
+		"956": [
+			"waiter",
+			"diner",
+			"clerk",
+			"customer"
+		],
+		"957": [
+			"waiter",
+			"diner",
+			"nurse",
+			"orderly"
+		],
+		"958": [
+			"waiter",
+			"diner",
+			"juror",
+			"judge"
+		],
+		"959": [
+			"waiter",
+			"diner",
+			"captain",
+			"teammate"
+		],
+		"960": [
+			"ruler",
+			"line",
+			"stamp",
+			"letter"
+		],
+		"961": [
+			"ruler",
+			"line",
+			"period",
+			"dot"
+		],
+		"962": [
+			"ruler",
+			"line",
+			"key",
+			"door"
+		],
+		"963": [
+			"ruler",
+			"line",
+			"compass",
+			"circle"
+		],
+		"964": [
+			"ruler",
+			"line",
+			"thermometer",
+			"degree"
+		],
+		"965": [
+			"deduction",
+			"rational",
+			"hunch",
+			"intuitive"
+		],
+		"966": [
+			"deduction",
+			"rational",
+			"ploy",
+			"spontaneous"
+		],
+		"967": [
+			"deduction",
+			"rational",
+			"maxim",
+			"hackneyed"
+		],
+		"968": [
+			"deduction",
+			"rational",
+			"hypothesis",
+			"tested"
+		],
+		"969": [
+			"deduction",
+			"rational",
+			"daydream",
+			"bored"
+		],
+		"970": [
+			"exorbitant",
+			"moderation",
+			"dispassionate",
+			"equanimity"
+		],
+		"971": [
+			"exorbitant",
+			"moderation",
+			"macabre",
+			"interest"
+		],
+		"972": [
+			"exorbitant",
+			"moderation",
+			"perfidious",
+			"loyalty"
+		],
+		"973": [
+			"exorbitant",
+			"moderation",
+			"brilliant",
+			"gullibility"
+		],
+		"974": [
+			"exorbitant",
+			"moderation",
+			"lavish",
+			"extravagance"
+		],
+		"975": [
+			"malinger",
+			"work",
+			"escape",
+			"flight"
+		],
+		"976": [
+			"malinger",
+			"work",
+			"accuse",
+			"crime"
+		],
+		"977": [
+			"malinger",
+			"work",
+			"hide",
+			"discovery"
+		],
+		"978": [
+			"malinger",
+			"work",
+			"shun",
+			"ridicule"
+		],
+		"979": [
+			"malinger",
+			"work",
+			"guess",
+			"answer"
+		],
+		"980": [
+			"stomp",
+			"walk",
+			"devour",
+			"starve"
+		],
+		"981": [
+			"stomp",
+			"walk",
+			"shout",
+			"speak"
+		],
+		"982": [
+			"stomp",
+			"walk",
+			"run",
+			"scamper"
+		],
+		"983": [
+			"stomp",
+			"walk",
+			"prepare",
+			"finish"
+		],
+		"984": [
+			"stomp",
+			"walk",
+			"deliberate",
+			"conclude"
+		],
+		"985": [
+			"antibiotic",
+			"infection",
+			"thermometer",
+			"fever"
+		],
+		"986": [
+			"antibiotic",
+			"infection",
+			"anesthesia",
+			"surgery"
+		],
+		"987": [
+			"antibiotic",
+			"infection",
+			"vaccine",
+			"inoculation"
+		],
+		"988": [
+			"antibiotic",
+			"infection",
+			"antiseptic",
+			"alcohol"
+		],
+		"989": [
+			"antibiotic",
+			"infection",
+			"antidote",
+			"poisoning"
+		],
+		"990": [
+			"mendicant",
+			"beg",
+			"sycophant",
+			"demean"
+		],
+		"991": [
+			"mendicant",
+			"beg",
+			"braggart",
+			"boast"
+		],
+		"992": [
+			"mendicant",
+			"beg",
+			"parasite",
+			"contribute"
+		],
+		"993": [
+			"mendicant",
+			"beg",
+			"hero",
+			"worship"
+		],
+		"994": [
+			"mendicant",
+			"beg",
+			"dissembler",
+			"believe"
+		],
+		"995": [
+			"walk",
+			"scurry",
+			"march",
+			"follow"
+		],
+		"996": [
+			"walk",
+			"scurry",
+			"carouse",
+			"revel"
+		],
+		"997": [
+			"walk",
+			"scurry",
+			"nap",
+			"sleep"
+		],
+		"998": [
+			"walk",
+			"scurry",
+			"impress",
+			"notice"
+		],
+		"999": [
+			"walk",
+			"scurry",
+			"jog",
+			"sprint"
+		],
+		"1000": [
+			"catnap",
+			"sleep",
+			"exhaustion",
+			"slumber"
+		],
+		"1001": [
+			"catnap",
+			"sleep",
+			"blink",
+			"eye"
+		],
+		"1002": [
+			"catnap",
+			"sleep",
+			"snack",
+			"meal"
+		],
+		"1003": [
+			"catnap",
+			"sleep",
+			"swallow",
+			"bite"
+		],
+		"1004": [
+			"catnap",
+			"sleep",
+			"feast",
+			"banquet"
+		],
+		"1005": [
+			"bankruptcy",
+			"money",
+			"discrepancy",
+			"account"
+		],
+		"1006": [
+			"bankruptcy",
+			"money",
+			"empathy",
+			"feeling"
+		],
+		"1007": [
+			"bankruptcy",
+			"money",
+			"plan",
+			"organization"
+		],
+		"1008": [
+			"bankruptcy",
+			"money",
+			"apathy",
+			"caring"
+		],
+		"1009": [
+			"bankruptcy",
+			"money",
+			"homely",
+			"household"
+		],
+		"1010": [
+			"omnipotent",
+			"power",
+			"impudent",
+			"control"
+		],
+		"1011": [
+			"omnipotent",
+			"power",
+			"daring",
+			"audacity"
+		],
+		"1012": [
+			"omnipotent",
+			"power",
+			"parochial",
+			"scope"
+		],
+		"1013": [
+			"omnipotent",
+			"power",
+			"objective",
+			"rage"
+		],
+		"1014": [
+			"omnipotent",
+			"power",
+			"beguiling",
+			"disgust"
+		],
+		"1015": [
+			"devotion",
+			"obsession",
+			"ability",
+			"skill"
+		],
+		"1016": [
+			"devotion",
+			"obsession",
+			"confidence",
+			"conceit"
+		],
+		"1017": [
+			"devotion",
+			"obsession",
+			"intelligence",
+			"capability"
+		],
+		"1018": [
+			"devotion",
+			"obsession",
+			"surprise",
+			"horror"
+		],
+		"1019": [
+			"devotion",
+			"obsession",
+			"pleasure",
+			"blessing"
+		],
+		"1020": [
+			"inadvertent",
+			"thought",
+			"ironic",
+			"wrath"
+		],
+		"1021": [
+			"inadvertent",
+			"thought",
+			"proud",
+			"prize"
+		],
+		"1022": [
+			"inadvertent",
+			"thought",
+			"artistic",
+			"work"
+		],
+		"1023": [
+			"inadvertent",
+			"thought",
+			"ungainly",
+			"skill"
+		],
+		"1024": [
+			"inadvertent",
+			"thought",
+			"prolific",
+			"design"
+		],
+		"1025": [
+			"brazen",
+			"shame",
+			"comprehensive",
+			"total"
+		],
+		"1026": [
+			"brazen",
+			"shame",
+			"inquisitive",
+			"curiosity"
+		],
+		"1027": [
+			"brazen",
+			"shame",
+			"moral",
+			"integrity"
+		],
+		"1028": [
+			"brazen",
+			"shame",
+			"oblivious",
+			"awareness"
+		],
+		"1029": [
+			"brazen",
+			"shame",
+			"witty",
+			"levity"
+		],
+		"1030": [
+			"food",
+			"hunger",
+			"love",
+			"loneliness"
+		],
+		"1031": [
+			"food",
+			"hunger",
+			"ginseng",
+			"energy"
+		],
+		"1032": [
+			"food",
+			"hunger",
+			"antiseptic",
+			"wound"
+		],
+		"1033": [
+			"food",
+			"hunger",
+			"anodyne",
+			"pain"
+		],
+		"1034": [
+			"food",
+			"hunger",
+			"no",
+			"choice"
+		],
+		"1035": [
+			"troubled",
+			"distraught",
+			"annoyed",
+			"disillusioned"
+		],
+		"1036": [
+			"troubled",
+			"distraught",
+			"disturbed",
+			"interrupted"
+		],
+		"1037": [
+			"troubled",
+			"distraught",
+			"covetous",
+			"rapacious"
+		],
+		"1038": [
+			"troubled",
+			"distraught",
+			"outmoded",
+			"ostentatious"
+		],
+		"1039": [
+			"troubled",
+			"distraught",
+			"tranquil",
+			"placid"
+		],
+		"1040": [
+			"move",
+			"scurry",
+			"scream",
+			"shout"
+		],
+		"1041": [
+			"move",
+			"scurry",
+			"labor",
+			"rest"
+		],
+		"1042": [
+			"move",
+			"scurry",
+			"breathe",
+			"pant"
+		],
+		"1043": [
+			"move",
+			"scurry",
+			"arrest",
+			"indict"
+		],
+		"1044": [
+			"move",
+			"scurry",
+			"jeer",
+			"mock"
+		],
+		"1045": [
+			"song",
+			"repertoire",
+			"score",
+			"melody"
+		],
+		"1046": [
+			"song",
+			"repertoire",
+			"instrument",
+			"artist"
+		],
+		"1047": [
+			"song",
+			"repertoire",
+			"solo",
+			"chorus"
+		],
+		"1048": [
+			"song",
+			"repertoire",
+			"benediction",
+			"church"
+		],
+		"1049": [
+			"song",
+			"repertoire",
+			"suit",
+			"wardrobe"
+		],
+		"1050": [
+			"kernel",
+			"nut",
+			"yolk",
+			"egg"
+		],
+		"1051": [
+			"kernel",
+			"nut",
+			"grape",
+			"raisin"
+		],
+		"1052": [
+			"kernel",
+			"nut",
+			"flour",
+			"bread"
+		],
+		"1053": [
+			"kernel",
+			"nut",
+			"soil",
+			"seed"
+		],
+		"1054": [
+			"kernel",
+			"nut",
+			"thorn",
+			"stem"
+		],
+		"1055": [
+			"obtain",
+			"steal",
+			"quest",
+			"search"
+		],
+		"1056": [
+			"obtain",
+			"steal",
+			"ask",
+			"interrogate"
+		],
+		"1057": [
+			"obtain",
+			"steal",
+			"testify",
+			"perjure"
+		],
+		"1058": [
+			"obtain",
+			"steal",
+			"buy",
+			"sell"
+		],
+		"1059": [
+			"obtain",
+			"steal",
+			"ask",
+			"donate"
+		],
+		"1060": [
+			"talisman",
+			"charm",
+			"omen",
+			"evil"
+		],
+		"1061": [
+			"talisman",
+			"charm",
+			"garb",
+			"rank"
+		],
+		"1062": [
+			"talisman",
+			"charm",
+			"signal",
+			"warning"
+		],
+		"1063": [
+			"talisman",
+			"charm",
+			"visage",
+			"countenance"
+		],
+		"1064": [
+			"talisman",
+			"charm",
+			"hate",
+			"love"
+		],
+		"1065": [
+			"livid",
+			"anger",
+			"querulous",
+			"reconciliation"
+		],
+		"1066": [
+			"livid",
+			"anger",
+			"forlorn",
+			"hope"
+		],
+		"1067": [
+			"livid",
+			"anger",
+			"radiant",
+			"happiness"
+		],
+		"1068": [
+			"livid",
+			"anger",
+			"graceful",
+			"posture"
+		],
+		"1069": [
+			"livid",
+			"anger",
+			"marvelous",
+			"wonder"
+		],
+		"1070": [
+			"prosaic",
+			"epic",
+			"normal",
+			"mean"
+		],
+		"1071": [
+			"prosaic",
+			"epic",
+			"powerful",
+			"omnipotent"
+		],
+		"1072": [
+			"prosaic",
+			"epic",
+			"ephemeral",
+			"eternal"
+		],
+		"1073": [
+			"prosaic",
+			"epic",
+			"octagon",
+			"eight"
+		],
+		"1074": [
+			"prosaic",
+			"epic",
+			"beneficent",
+			"strong"
+		],
+		"1075": [
+			"tactile",
+			"touch",
+			"musical",
+			"hearing"
+		],
+		"1076": [
+			"tactile",
+			"touch",
+			"audible",
+			"volume"
+		],
+		"1077": [
+			"tactile",
+			"touch",
+			"nasal",
+			"smell"
+		],
+		"1078": [
+			"tactile",
+			"touch",
+			"sensitive",
+			"feeling"
+		],
+		"1079": [
+			"tactile",
+			"touch",
+			"visible",
+			"sight"
+		],
+		"1080": [
+			"treason",
+			"country",
+			"settlement",
+			"lawyer"
+		],
+		"1081": [
+			"treason",
+			"country",
+			"embezzlement",
+			"employer"
+		],
+		"1082": [
+			"treason",
+			"country",
+			"justice",
+			"honor"
+		],
+		"1083": [
+			"treason",
+			"country",
+			"hospitality",
+			"generosity"
+		],
+		"1084": [
+			"treason",
+			"country",
+			"chagrin",
+			"mistake"
+		],
+		"1085": [
+			"potentate",
+			"power",
+			"broadcaster",
+			"news"
+		],
+		"1086": [
+			"potentate",
+			"power",
+			"virtuoso",
+			"skill"
+		],
+		"1087": [
+			"potentate",
+			"power",
+			"protege",
+			"sponsorship"
+		],
+		"1088": [
+			"potentate",
+			"power",
+			"maverick",
+			"group"
+		],
+		"1089": [
+			"potentate",
+			"power",
+			"colleague",
+			"camaraderie"
+		],
+		"1090": [
+			"stimulant",
+			"activity",
+			"symptom",
+			"disease"
+		],
+		"1091": [
+			"stimulant",
+			"activity",
+			"food",
+			"hunger"
+		],
+		"1092": [
+			"stimulant",
+			"activity",
+			"fertilizer",
+			"growth"
+		],
+		"1093": [
+			"stimulant",
+			"activity",
+			"diagnosis",
+			"treatment"
+		],
+		"1094": [
+			"stimulant",
+			"activity",
+			"gravity",
+			"force"
+		],
+		"1095": [
+			"shove",
+			"nudge",
+			"vex",
+			"mutter"
+		],
+		"1096": [
+			"shove",
+			"nudge",
+			"calm",
+			"quell"
+		],
+		"1097": [
+			"shove",
+			"nudge",
+			"teach",
+			"lecture"
+		],
+		"1098": [
+			"shove",
+			"nudge",
+			"push",
+			"fight"
+		],
+		"1099": [
+			"shove",
+			"nudge",
+			"stare",
+			"glance"
+		],
+		"1100": [
+			"binomial",
+			"name",
+			"octagon",
+			"eight"
+		],
+		"1101": [
+			"binomial",
+			"name",
+			"entreat",
+			"gift"
+		],
+		"1102": [
+			"binomial",
+			"name",
+			"normal",
+			"mean"
+		],
+		"1103": [
+			"binomial",
+			"name",
+			"centennial",
+			"year"
+		],
+		"1104": [
+			"binomial",
+			"name",
+			"benediction",
+			"church"
+		],
+		"1105": [
+			"playwright",
+			"actor",
+			"architect",
+			"custodian"
+		],
+		"1106": [
+			"playwright",
+			"actor",
+			"composer",
+			"musician"
+		],
+		"1107": [
+			"playwright",
+			"actor",
+			"biographer",
+			"celebrity"
+		],
+		"1108": [
+			"playwright",
+			"actor",
+			"soldier",
+			"colonel"
+		],
+		"1109": [
+			"playwright",
+			"actor",
+			"lawyer",
+			"judge"
+		],
+		"1110": [
+			"collage",
+			"images",
+			"medley",
+			"songs"
+		],
+		"1111": [
+			"collage",
+			"images",
+			"book",
+			"volumes"
+		],
+		"1112": [
+			"collage",
+			"images",
+			"survey",
+			"lands"
+		],
+		"1113": [
+			"collage",
+			"images",
+			"collection",
+			"lists"
+		],
+		"1114": [
+			"collage",
+			"images",
+			"assembly",
+			"bills"
+		],
+		"1115": [
+			"dingy",
+			"building",
+			"shabby",
+			"clothes"
+		],
+		"1116": [
+			"dingy",
+			"building",
+			"discolored",
+			"bruise"
+		],
+		"1117": [
+			"dingy",
+			"building",
+			"devastated",
+			"city"
+		],
+		"1118": [
+			"dingy",
+			"building",
+			"vacant",
+			"apartment"
+		],
+		"1119": [
+			"dingy",
+			"building",
+			"chapped",
+			"lips"
+		],
+		"1120": [
+			"accomplice",
+			"crime",
+			"inmate",
+			"prison"
+		],
+		"1121": [
+			"accomplice",
+			"crime",
+			"detective",
+			"clue"
+		],
+		"1122": [
+			"accomplice",
+			"crime",
+			"employer",
+			"work"
+		],
+		"1123": [
+			"accomplice",
+			"crime",
+			"salesperson",
+			"store"
+		],
+		"1124": [
+			"accomplice",
+			"crime",
+			"partner",
+			"business"
+		],
+		"1125": [
+			"arena",
+			"conflict",
+			"mirage",
+			"reality"
+		],
+		"1126": [
+			"arena",
+			"conflict",
+			"forum",
+			"discussion"
+		],
+		"1127": [
+			"arena",
+			"conflict",
+			"asylum",
+			"pursuit"
+		],
+		"1128": [
+			"arena",
+			"conflict",
+			"utopia",
+			"place"
+		],
+		"1129": [
+			"arena",
+			"conflict",
+			"amphitheater",
+			"stage"
+		],
+		"1130": [
+			"parsimony",
+			"philanthropy",
+			"carnal",
+			"active"
+		],
+		"1131": [
+			"parsimony",
+			"philanthropy",
+			"prejudice",
+			"tolerance"
+		],
+		"1132": [
+			"parsimony",
+			"philanthropy",
+			"generosity",
+			"kindness"
+		],
+		"1133": [
+			"parsimony",
+			"philanthropy",
+			"rivalry",
+			"noise"
+		],
+		"1134": [
+			"parsimony",
+			"philanthropy",
+			"liveliness",
+			"patience"
+		],
+		"1135": [
+			"gauche",
+			"adroit",
+			"weak",
+			"strong"
+		],
+		"1136": [
+			"gauche",
+			"adroit",
+			"formidable",
+			"strong"
+		],
+		"1137": [
+			"gauche",
+			"adroit",
+			"round",
+			"square"
+		],
+		"1138": [
+			"gauche",
+			"adroit",
+			"sharp",
+			"pointed"
+		],
+		"1139": [
+			"gauche",
+			"adroit",
+			"stately",
+			"grand"
+		],
+		"1140": [
+			"crumb",
+			"bread",
+			"ounce",
+			"unit"
+		],
+		"1141": [
+			"crumb",
+			"bread",
+			"splinter",
+			"wood"
+		],
+		"1142": [
+			"crumb",
+			"bread",
+			"water",
+			"bucket"
+		],
+		"1143": [
+			"crumb",
+			"bread",
+			"twine",
+			"rope"
+		],
+		"1144": [
+			"crumb",
+			"bread",
+			"cream",
+			"butter"
+		],
+		"1145": [
+			"frighten",
+			"skittish",
+			"despise",
+			"pleasant"
+		],
+		"1146": [
+			"frighten",
+			"skittish",
+			"swindle",
+			"gullible"
+		],
+		"1147": [
+			"frighten",
+			"skittish",
+			"parole",
+			"guilty"
+		],
+		"1148": [
+			"frighten",
+			"skittish",
+			"caution",
+			"watchful"
+		],
+		"1149": [
+			"frighten",
+			"skittish",
+			"shock",
+			"abrupt"
+		],
+		"1150": [
+			"petal",
+			"flower",
+			"oak",
+			"tree"
+		],
+		"1151": [
+			"petal",
+			"flower",
+			"staple",
+			"paper"
+		],
+		"1152": [
+			"petal",
+			"flower",
+			"sprout",
+			"seed"
+		],
+		"1153": [
+			"petal",
+			"flower",
+			"tooth",
+			"comb"
+		],
+		"1154": [
+			"petal",
+			"flower",
+			"tide",
+			"beach"
+		],
+		"1155": [
+			"sandal",
+			"footwear",
+			"monarch",
+			"castle"
+		],
+		"1156": [
+			"sandal",
+			"footwear",
+			"child",
+			"parent"
+		],
+		"1157": [
+			"sandal",
+			"footwear",
+			"volume",
+			"bookcase"
+		],
+		"1158": [
+			"sandal",
+			"footwear",
+			"watch",
+			"timepiece"
+		],
+		"1159": [
+			"sandal",
+			"footwear",
+			"wax",
+			"candle"
+		],
+		"1160": [
+			"weave",
+			"fabric",
+			"illustrate",
+			"manual"
+		],
+		"1161": [
+			"weave",
+			"fabric",
+			"hang",
+			"picture"
+		],
+		"1162": [
+			"weave",
+			"fabric",
+			"sew",
+			"thread"
+		],
+		"1163": [
+			"weave",
+			"fabric",
+			"bake",
+			"oven"
+		],
+		"1164": [
+			"weave",
+			"fabric",
+			"write",
+			"text"
+		],
+		"1165": [
+			"flap",
+			"wing",
+			"speak",
+			"sound"
+		],
+		"1166": [
+			"flap",
+			"wing",
+			"wave",
+			"hand"
+		],
+		"1167": [
+			"flap",
+			"wing",
+			"whisper",
+			"word"
+		],
+		"1168": [
+			"flap",
+			"wing",
+			"stub",
+			"toe"
+		],
+		"1169": [
+			"flap",
+			"wing",
+			"sing",
+			"bird"
+		],
+		"1170": [
+			"lull",
+			"trust",
+			"balk",
+			"fortitude"
+		],
+		"1171": [
+			"lull",
+			"trust",
+			"betray",
+			"loyalty"
+		],
+		"1172": [
+			"lull",
+			"trust",
+			"cajole",
+			"compliance"
+		],
+		"1173": [
+			"lull",
+			"trust",
+			"hinder",
+			"destination"
+		],
+		"1174": [
+			"lull",
+			"trust",
+			"soothe",
+			"passion"
+		],
+		"1175": [
+			"precarious",
+			"stability",
+			"cantankerous",
+			"testiness"
+		],
+		"1176": [
+			"precarious",
+			"stability",
+			"ornamental",
+			"flourishes"
+		],
+		"1177": [
+			"precarious",
+			"stability",
+			"susceptible",
+			"resistance"
+		],
+		"1178": [
+			"precarious",
+			"stability",
+			"flexible",
+			"strength"
+		],
+		"1179": [
+			"precarious",
+			"stability",
+			"conclusive",
+			"results"
+		],
+		"1180": [
+			"rehearsal",
+			"impromptu",
+			"selection",
+			"decisive"
+		],
+		"1181": [
+			"rehearsal",
+			"impromptu",
+			"food",
+			"alive"
+		],
+		"1182": [
+			"rehearsal",
+			"impromptu",
+			"promotion",
+			"public"
+		],
+		"1183": [
+			"rehearsal",
+			"impromptu",
+			"comment",
+			"eulogize"
+		],
+		"1184": [
+			"rehearsal",
+			"impromptu",
+			"congregation",
+			"alone"
+		],
+		"1185": [
+			"cooperation",
+			"collusion",
+			"evidence",
+			"proof"
+		],
+		"1186": [
+			"cooperation",
+			"collusion",
+			"achievement",
+			"reward"
+		],
+		"1187": [
+			"cooperation",
+			"collusion",
+			"damage",
+			"compensation"
+		],
+		"1188": [
+			"cooperation",
+			"collusion",
+			"imitation",
+			"forgery"
+		],
+		"1189": [
+			"cooperation",
+			"collusion",
+			"emotion",
+			"ecstasy"
+		],
+		"1190": [
+			"exculpate",
+			"blame",
+			"extricate",
+			"difficulty"
+		],
+		"1191": [
+			"exculpate",
+			"blame",
+			"exemplify",
+			"illustration"
+		],
+		"1192": [
+			"exculpate",
+			"blame",
+			"expedite",
+			"process"
+		],
+		"1193": [
+			"exculpate",
+			"blame",
+			"divulge",
+			"secret"
+		],
+		"1194": [
+			"exculpate",
+			"blame",
+			"bewilder",
+			"confusion"
+		],
+		"1195": [
+			"preamble",
+			"statute",
+			"interlude",
+			"musical"
+		],
+		"1196": [
+			"preamble",
+			"statute",
+			"conclusion",
+			"argument"
+		],
+		"1197": [
+			"preamble",
+			"statute",
+			"foreword",
+			"novel"
+		],
+		"1198": [
+			"preamble",
+			"statute",
+			"epilogue",
+			"address"
+		],
+		"1199": [
+			"preamble",
+			"statute",
+			"premiere",
+			"performance"
+		],
+		"1200": [
+			"perceptive",
+			"discern",
+			"determined",
+			"hesitate"
+		],
+		"1201": [
+			"perceptive",
+			"discern",
+			"authoritarian",
+			"heed"
+		],
+		"1202": [
+			"perceptive",
+			"discern",
+			"persistent",
+			"persevere"
+		],
+		"1203": [
+			"perceptive",
+			"discern",
+			"abandoned",
+			"neglect"
+		],
+		"1204": [
+			"perceptive",
+			"discern",
+			"restrained",
+			"rebel"
+		],
+		"1205": [
+			"building",
+			"blueprint",
+			"report",
+			"outline"
+		],
+		"1206": [
+			"building",
+			"blueprint",
+			"chicken",
+			"egg"
+		],
+		"1207": [
+			"building",
+			"blueprint",
+			"brick",
+			"wall"
+		],
+		"1208": [
+			"building",
+			"blueprint",
+			"soup",
+			"ladle"
+		],
+		"1209": [
+			"building",
+			"blueprint",
+			"conduit",
+			"cement"
+		],
+		"1210": [
+			"lynch",
+			"execute",
+			"interrogate",
+			"prosecute"
+		],
+		"1211": [
+			"lynch",
+			"execute",
+			"deface",
+			"kill"
+		],
+		"1212": [
+			"lynch",
+			"execute",
+			"testify",
+			"subpoena"
+		],
+		"1213": [
+			"lynch",
+			"execute",
+			"good",
+			"bad"
+		],
+		"1214": [
+			"lynch",
+			"execute",
+			"steal",
+			"confiscate"
+		],
+		"1215": [
+			"elastic",
+			"flexible",
+			"diamond",
+			"hard"
+		],
+		"1216": [
+			"elastic",
+			"flexible",
+			"ocean",
+			"nautical"
+		],
+		"1217": [
+			"elastic",
+			"flexible",
+			"iron",
+			"rusty"
+		],
+		"1218": [
+			"elastic",
+			"flexible",
+			"sandpaper",
+			"smooth"
+		],
+		"1219": [
+			"elastic",
+			"flexible",
+			"water",
+			"irrigated"
+		],
+		"1220": [
+			"opaque",
+			"transparent",
+			"gaunt",
+			"rotund"
+		],
+		"1221": [
+			"opaque",
+			"transparent",
+			"wary",
+			"angry"
+		],
+		"1222": [
+			"opaque",
+			"transparent",
+			"thin",
+			"elongated"
+		],
+		"1223": [
+			"opaque",
+			"transparent",
+			"proud",
+			"arrogant"
+		],
+		"1224": [
+			"opaque",
+			"transparent",
+			"libel",
+			"free"
+		],
+		"1225": [
+			"embargo",
+			"trade",
+			"umbrella",
+			"clouds"
+		],
+		"1226": [
+			"embargo",
+			"trade",
+			"engine",
+			"automobile"
+		],
+		"1227": [
+			"embargo",
+			"trade",
+			"license",
+			"fishing"
+		],
+		"1228": [
+			"embargo",
+			"trade",
+			"alarm",
+			"valuable"
+		],
+		"1229": [
+			"embargo",
+			"trade",
+			"helmet",
+			"injury"
+		],
+		"1230": [
+			"scene",
+			"act",
+			"outline",
+			"book"
+		],
+		"1231": [
+			"scene",
+			"act",
+			"line",
+			"stanza"
+		],
+		"1232": [
+			"scene",
+			"act",
+			"accent",
+			"stress"
+		],
+		"1233": [
+			"scene",
+			"act",
+			"rhyme",
+			"sound"
+		],
+		"1234": [
+			"scene",
+			"act",
+			"palette",
+			"painting"
+		],
+		"1235": [
+			"avenge",
+			"wrong",
+			"reciprocate",
+			"favor"
+		],
+		"1236": [
+			"avenge",
+			"wrong",
+			"compete",
+			"contest"
+		],
+		"1237": [
+			"avenge",
+			"wrong",
+			"ponder",
+			"decision"
+		],
+		"1238": [
+			"avenge",
+			"wrong",
+			"relegate",
+			"position"
+		],
+		"1239": [
+			"avenge",
+			"wrong",
+			"decree",
+			"religion"
+		],
+		"1240": [
+			"topic",
+			"discourse",
+			"title",
+			"play"
+		],
+		"1241": [
+			"topic",
+			"discourse",
+			"subject",
+			"digression"
+		],
+		"1242": [
+			"topic",
+			"discourse",
+			"guideline",
+			"policy"
+		],
+		"1243": [
+			"topic",
+			"discourse",
+			"theme",
+			"essay"
+		],
+		"1244": [
+			"topic",
+			"discourse",
+			"footnote",
+			"text"
+		],
+		"1245": [
+			"cogent",
+			"persuasiveness",
+			"pardoned",
+			"blame"
+		],
+		"1246": [
+			"cogent",
+			"persuasiveness",
+			"staid",
+			"manner"
+		],
+		"1247": [
+			"cogent",
+			"persuasiveness",
+			"tactful",
+			"awkwardness"
+		],
+		"1248": [
+			"cogent",
+			"persuasiveness",
+			"conceited",
+			"reputation"
+		],
+		"1249": [
+			"cogent",
+			"persuasiveness",
+			"lucid",
+			"clarity"
+		],
+		"1250": [
+			"extravagant",
+			"spend",
+			"belligerent",
+			"fight"
+		],
+		"1251": [
+			"extravagant",
+			"spend",
+			"remarkable",
+			"surprise"
+		],
+		"1252": [
+			"extravagant",
+			"spend",
+			"charitable",
+			"receive"
+		],
+		"1253": [
+			"extravagant",
+			"spend",
+			"antagonistic",
+			"agree"
+		],
+		"1254": [
+			"extravagant",
+			"spend",
+			"persuasive",
+			"believe"
+		],
+		"1255": [
+			"devour",
+			"consume",
+			"abhor",
+			"dislike"
+		],
+		"1256": [
+			"devour",
+			"consume",
+			"reject",
+			"despise"
+		],
+		"1257": [
+			"devour",
+			"consume",
+			"praise",
+			"lavish"
+		],
+		"1258": [
+			"devour",
+			"consume",
+			"ingest",
+			"reject"
+		],
+		"1259": [
+			"devour",
+			"consume",
+			"no",
+			"choice"
+		],
+		"1260": [
+			"odometer",
+			"distance",
+			"microscope",
+			"size"
+		],
+		"1261": [
+			"odometer",
+			"distance",
+			"decibel",
+			"loudness"
+		],
+		"1262": [
+			"odometer",
+			"distance",
+			"orchestra",
+			"instrument"
+		],
+		"1263": [
+			"odometer",
+			"distance",
+			"computer",
+			"data"
+		],
+		"1264": [
+			"odometer",
+			"distance",
+			"scale",
+			"weight"
+		],
+		"1265": [
+			"fission",
+			"energy",
+			"reaction",
+			"response"
+		],
+		"1266": [
+			"fission",
+			"energy",
+			"distortion",
+			"image"
+		],
+		"1267": [
+			"fission",
+			"energy",
+			"nutrient",
+			"growth"
+		],
+		"1268": [
+			"fission",
+			"energy",
+			"evaporation",
+			"liquid"
+		],
+		"1269": [
+			"fission",
+			"energy",
+			"combustion",
+			"heat"
+		],
+		"1270": [
+			"burnish",
+			"metal",
+			"cut",
+			"scissors"
+		],
+		"1271": [
+			"burnish",
+			"metal",
+			"deliver",
+			"box"
+		],
+		"1272": [
+			"burnish",
+			"metal",
+			"polish",
+			"wax"
+		],
+		"1273": [
+			"burnish",
+			"metal",
+			"sand",
+			"wood"
+		],
+		"1274": [
+			"burnish",
+			"metal",
+			"tarnish",
+			"silver"
+		],
+		"1275": [
+			"siren",
+			"warning",
+			"shovel",
+			"dirt"
+		],
+		"1276": [
+			"siren",
+			"warning",
+			"alarm",
+			"clock"
+		],
+		"1277": [
+			"siren",
+			"warning",
+			"barrier",
+			"intrusion"
+		],
+		"1278": [
+			"siren",
+			"warning",
+			"signal",
+			"reception"
+		],
+		"1279": [
+			"siren",
+			"warning",
+			"light",
+			"illumination"
+		],
+		"1280": [
+			"eraser",
+			"page",
+			"mop",
+			"floor"
+		],
+		"1281": [
+			"eraser",
+			"page",
+			"sponge",
+			"soap"
+		],
+		"1282": [
+			"eraser",
+			"page",
+			"pen",
+			"ink"
+		],
+		"1283": [
+			"eraser",
+			"page",
+			"nail",
+			"wall"
+		],
+		"1284": [
+			"eraser",
+			"page",
+			"bleach",
+			"stain"
+		],
+		"1285": [
+			"saunter",
+			"walk",
+			"snore",
+			"sleep"
+		],
+		"1286": [
+			"saunter",
+			"walk",
+			"drawl",
+			"speak"
+		],
+		"1287": [
+			"saunter",
+			"walk",
+			"throw",
+			"toss"
+		],
+		"1288": [
+			"saunter",
+			"walk",
+			"ladle",
+			"brush"
+		],
+		"1289": [
+			"saunter",
+			"walk",
+			"finish",
+			"end"
+		],
+		"1290": [
+			"eagle",
+			"bird",
+			"halibut",
+			"salmon"
+		],
+		"1291": [
+			"eagle",
+			"bird",
+			"beak",
+			"feather"
+		],
+		"1292": [
+			"eagle",
+			"bird",
+			"deer",
+			"fawn"
+		],
+		"1293": [
+			"eagle",
+			"bird",
+			"beagle",
+			"dog"
+		],
+		"1294": [
+			"eagle",
+			"bird",
+			"egg",
+			"chick"
+		],
+		"1295": [
+			"antiseptic",
+			"germs",
+			"sneezing",
+			"allergies"
+		],
+		"1296": [
+			"antiseptic",
+			"germs",
+			"earthquake",
+			"destruction"
+		],
+		"1297": [
+			"antiseptic",
+			"germs",
+			"water",
+			"thirst"
+		],
+		"1298": [
+			"antiseptic",
+			"germs",
+			"illness",
+			"fever"
+		],
+		"1299": [
+			"antiseptic",
+			"germs",
+			"executive",
+			"agenda"
+		],
+		"1300": [
+			"berate",
+			"criticize",
+			"goad",
+			"urge"
+		],
+		"1301": [
+			"berate",
+			"criticize",
+			"accuse",
+			"apologize"
+		],
+		"1302": [
+			"berate",
+			"criticize",
+			"regret",
+			"remember"
+		],
+		"1303": [
+			"berate",
+			"criticize",
+			"betray",
+			"follow"
+		],
+		"1304": [
+			"berate",
+			"criticize",
+			"evaluate",
+			"praise"
+		],
+		"1305": [
+			"border",
+			"country",
+			"current",
+			"river"
+		],
+		"1306": [
+			"border",
+			"country",
+			"water",
+			"lake"
+		],
+		"1307": [
+			"border",
+			"country",
+			"waves",
+			"sea"
+		],
+		"1308": [
+			"border",
+			"country",
+			"horizon",
+			"sunset"
+		],
+		"1309": [
+			"border",
+			"country",
+			"shore",
+			"ocean"
+		],
+		"1310": [
+			"manager",
+			"store",
+			"technician",
+			"laboratory"
+		],
+		"1311": [
+			"manager",
+			"store",
+			"student",
+			"school"
+		],
+		"1312": [
+			"manager",
+			"store",
+			"administrator",
+			"hospital"
+		],
+		"1313": [
+			"manager",
+			"store",
+			"spectator",
+			"arena"
+		],
+		"1314": [
+			"manager",
+			"store",
+			"president",
+			"electorate"
+		],
+		"1315": [
+			"callow",
+			"experience",
+			"painting",
+			"artist"
+		],
+		"1316": [
+			"callow",
+			"experience",
+			"heavy",
+			"weight"
+		],
+		"1317": [
+			"callow",
+			"experience",
+			"barren",
+			"fruit"
+		],
+		"1318": [
+			"callow",
+			"experience",
+			"gift",
+			"donor"
+		],
+		"1319": [
+			"callow",
+			"experience",
+			"measure",
+			"ounce"
+		],
+		"1320": [
+			"incorrigible",
+			"reformed",
+			"unnerving",
+			"irritated"
+		],
+		"1321": [
+			"incorrigible",
+			"reformed",
+			"innocuous",
+			"harmed"
+		],
+		"1322": [
+			"incorrigible",
+			"reformed",
+			"irrelevant",
+			"verified"
+		],
+		"1323": [
+			"incorrigible",
+			"reformed",
+			"insolvent",
+			"dissolved"
+		],
+		"1324": [
+			"incorrigible",
+			"reformed",
+			"indelible",
+			"erased"
+		],
+		"1325": [
+			"barricade",
+			"access",
+			"heal",
+			"illness"
+		],
+		"1326": [
+			"barricade",
+			"access",
+			"demand",
+			"due"
+		],
+		"1327": [
+			"barricade",
+			"access",
+			"bind",
+			"movement"
+		],
+		"1328": [
+			"barricade",
+			"access",
+			"complete",
+			"task"
+		],
+		"1329": [
+			"barricade",
+			"access",
+			"chat",
+			"conversation"
+		],
+		"1330": [
+			"cherry",
+			"fruit",
+			"flour",
+			"bread"
+		],
+		"1331": [
+			"cherry",
+			"fruit",
+			"knife",
+			"utensil"
+		],
+		"1332": [
+			"cherry",
+			"fruit",
+			"grass",
+			"water"
+		],
+		"1333": [
+			"cherry",
+			"fruit",
+			"sail",
+			"ship"
+		],
+		"1334": [
+			"cherry",
+			"fruit",
+			"leaf",
+			"tree"
+		],
+		"1335": [
+			"condolence",
+			"mourner",
+			"secret",
+			"stranger"
+		],
+		"1336": [
+			"condolence",
+			"mourner",
+			"loan",
+			"borrower"
+		],
+		"1337": [
+			"condolence",
+			"mourner",
+			"rescue",
+			"knight"
+		],
+		"1338": [
+			"condolence",
+			"mourner",
+			"congratulation",
+			"victor"
+		],
+		"1339": [
+			"condolence",
+			"mourner",
+			"record",
+			"athlete"
+		],
+		"1340": [
+			"sequester",
+			"juror",
+			"quarantine",
+			"patient"
+		],
+		"1341": [
+			"sequester",
+			"juror",
+			"cloister",
+			"convent"
+		],
+		"1342": [
+			"sequester",
+			"juror",
+			"parole",
+			"prisoner"
+		],
+		"1343": [
+			"sequester",
+			"juror",
+			"graduate",
+			"pupil"
+		],
+		"1344": [
+			"sequester",
+			"juror",
+			"elect",
+			"mayor"
+		],
+		"1345": [
+			"decorate",
+			"plain",
+			"create",
+			"talented"
+		],
+		"1346": [
+			"decorate",
+			"plain",
+			"mend",
+			"repaired"
+		],
+		"1347": [
+			"decorate",
+			"plain",
+			"cook",
+			"raw"
+		],
+		"1348": [
+			"decorate",
+			"plain",
+			"sing",
+			"vocal"
+		],
+		"1349": [
+			"decorate",
+			"plain",
+			"narrate",
+			"fictitious"
+		],
+		"1350": [
+			"hedonistic",
+			"pleasure",
+			"promising",
+			"achievement"
+		],
+		"1351": [
+			"hedonistic",
+			"pleasure",
+			"vindictive",
+			"vengeance"
+		],
+		"1352": [
+			"hedonistic",
+			"pleasure",
+			"precocious",
+			"youth"
+		],
+		"1353": [
+			"hedonistic",
+			"pleasure",
+			"concerned",
+			"empathy"
+		],
+		"1354": [
+			"hedonistic",
+			"pleasure",
+			"cruel",
+			"mercy"
+		],
+		"1355": [
+			"atrophy",
+			"withered",
+			"contamination",
+			"impure"
+		],
+		"1356": [
+			"atrophy",
+			"withered",
+			"putrefaction",
+			"preserved"
+		],
+		"1357": [
+			"atrophy",
+			"withered",
+			"replication",
+			"completed"
+		],
+		"1358": [
+			"atrophy",
+			"withered",
+			"inflation",
+			"reduced"
+		],
+		"1359": [
+			"atrophy",
+			"withered",
+			"destruction",
+			"violent"
+		],
+		"1360": [
+			"flowers",
+			"florist",
+			"rings",
+			"jeweler"
+		],
+		"1361": [
+			"flowers",
+			"florist",
+			"pharmacy",
+			"pharmacist"
+		],
+		"1362": [
+			"flowers",
+			"florist",
+			"roses",
+			"arrangement"
+		],
+		"1363": [
+			"flowers",
+			"florist",
+			"wedding",
+			"caterer"
+		],
+		"1364": [
+			"flowers",
+			"florist",
+			"stethoscope",
+			"doctor"
+		],
+		"1365": [
+			"paint",
+			"canvas",
+			"brush",
+			"bucket"
+		],
+		"1366": [
+			"paint",
+			"canvas",
+			"peanut",
+			"butter"
+		],
+		"1367": [
+			"paint",
+			"canvas",
+			"clock",
+			"time"
+		],
+		"1368": [
+			"paint",
+			"canvas",
+			"art",
+			"life"
+		],
+		"1369": [
+			"paint",
+			"canvas",
+			"no",
+			"choice"
+		],
+		"1370": [
+			"reclusive",
+			"companionship",
+			"frugal",
+			"extravagance"
+		],
+		"1371": [
+			"reclusive",
+			"companionship",
+			"organized",
+			"structure"
+		],
+		"1372": [
+			"reclusive",
+			"companionship",
+			"pitiful",
+			"compassion"
+		],
+		"1373": [
+			"reclusive",
+			"companionship",
+			"provocative",
+			"anger"
+		],
+		"1374": [
+			"reclusive",
+			"companionship",
+			"moody",
+			"unhappiness"
+		],
+		"1375": [
+			"cartographer",
+			"maps",
+			"architect",
+			"blueprints"
+		],
+		"1376": [
+			"cartographer",
+			"maps",
+			"bibliographer",
+			"books"
+		],
+		"1377": [
+			"cartographer",
+			"maps",
+			"curator",
+			"artworks"
+		],
+		"1378": [
+			"cartographer",
+			"maps",
+			"traveler",
+			"countries"
+		],
+		"1379": [
+			"cartographer",
+			"maps",
+			"surveyor",
+			"instruments"
+		],
+		"1380": [
+			"seedy",
+			"elegant",
+			"posh",
+			"sumptuous"
+		],
+		"1381": [
+			"seedy",
+			"elegant",
+			"luxurious",
+			"spare"
+		],
+		"1382": [
+			"seedy",
+			"elegant",
+			"moneyed",
+			"frugal"
+		],
+		"1383": [
+			"seedy",
+			"elegant",
+			"rich",
+			"poor"
+		],
+		"1384": [
+			"seedy",
+			"elegant",
+			"no",
+			"choice"
+		],
+		"1385": [
+			"verification",
+			"confirm",
+			"synopsis",
+			"avoid"
+		],
+		"1386": [
+			"verification",
+			"confirm",
+			"application",
+			"file"
+		],
+		"1387": [
+			"verification",
+			"confirm",
+			"obscenity",
+			"censor"
+		],
+		"1388": [
+			"verification",
+			"confirm",
+			"conciliation",
+			"appease"
+		],
+		"1389": [
+			"verification",
+			"confirm",
+			"reiteration",
+			"say"
+		],
+		"1390": [
+			"temper",
+			"extreme",
+			"deliver",
+			"speedy"
+		],
+		"1391": [
+			"temper",
+			"extreme",
+			"provoke",
+			"angry"
+		],
+		"1392": [
+			"temper",
+			"extreme",
+			"mitigate",
+			"severe"
+		],
+		"1393": [
+			"temper",
+			"extreme",
+			"slander",
+			"dishonest"
+		],
+		"1394": [
+			"temper",
+			"extreme",
+			"assuage",
+			"commodious"
+		],
+		"1395": [
+			"reveler",
+			"merrymaking",
+			"hedonist",
+			"restraint"
+		],
+		"1396": [
+			"reveler",
+			"merrymaking",
+			"demagogue",
+			"emotion"
+		],
+		"1397": [
+			"reveler",
+			"merrymaking",
+			"anarchist",
+			"authority"
+		],
+		"1398": [
+			"reveler",
+			"merrymaking",
+			"disputant",
+			"argument"
+		],
+		"1399": [
+			"reveler",
+			"merrymaking",
+			"litigant",
+			"settlement"
+		],
+		"1400": [
+			"novice",
+			"experience",
+			"pauper",
+			"wealth"
+		],
+		"1401": [
+			"novice",
+			"experience",
+			"vehicle",
+			"wheels"
+		],
+		"1402": [
+			"novice",
+			"experience",
+			"drop",
+			"out"
+		],
+		"1403": [
+			"novice",
+			"experience",
+			"weather",
+			"mutability"
+		],
+		"1404": [
+			"novice",
+			"experience",
+			"nurse",
+			"information"
+		],
+		"1405": [
+			"archeology",
+			"science",
+			"ridge",
+			"mountain"
+		],
+		"1406": [
+			"archeology",
+			"science",
+			"pride",
+			"lion"
+		],
+		"1407": [
+			"archeology",
+			"science",
+			"oxen",
+			"cow"
+		],
+		"1408": [
+			"archeology",
+			"science",
+			"chair",
+			"furniture"
+		],
+		"1409": [
+			"archeology",
+			"science",
+			"mammal",
+			"horse"
+		],
+		"1410": [
+			"caption",
+			"cartoon",
+			"byline",
+			"newspaper"
+		],
+		"1411": [
+			"caption",
+			"cartoon",
+			"laughter",
+			"comedy"
+		],
+		"1412": [
+			"caption",
+			"cartoon",
+			"subtitle",
+			"film"
+		],
+		"1413": [
+			"caption",
+			"cartoon",
+			"translation",
+			"paraphrase"
+		],
+		"1414": [
+			"caption",
+			"cartoon",
+			"billboard",
+			"road"
+		],
+		"1415": [
+			"salve",
+			"wound",
+			"utter",
+			"apology"
+		],
+		"1416": [
+			"salve",
+			"wound",
+			"exploit",
+			"weakness"
+		],
+		"1417": [
+			"salve",
+			"wound",
+			"mollify",
+			"anger"
+		],
+		"1418": [
+			"salve",
+			"wound",
+			"squander",
+			"opportunity"
+		],
+		"1419": [
+			"salve",
+			"wound",
+			"emulate",
+			"achievement"
+		],
+		"1420": [
+			"armistice",
+			"hostilities",
+			"reckoning",
+			"probabilities"
+		],
+		"1421": [
+			"armistice",
+			"hostilities",
+			"truce",
+			"belligerents"
+		],
+		"1422": [
+			"armistice",
+			"hostilities",
+			"artillery",
+			"tanks"
+		],
+		"1423": [
+			"armistice",
+			"hostilities",
+			"campaign",
+			"strategies"
+		],
+		"1424": [
+			"armistice",
+			"hostilities",
+			"adjournment",
+			"proceedings"
+		],
+		"1425": [
+			"glutton",
+			"moderation",
+			"thief",
+			"larceny"
+		],
+		"1426": [
+			"glutton",
+			"moderation",
+			"peer",
+			"nobility"
+		],
+		"1427": [
+			"glutton",
+			"moderation",
+			"scoundrel",
+			"virtue"
+		],
+		"1428": [
+			"glutton",
+			"moderation",
+			"gambler",
+			"luck"
+		],
+		"1429": [
+			"glutton",
+			"moderation",
+			"benefactor",
+			"gift"
+		],
+		"1430": [
+			"tourniquet",
+			"bleeding",
+			"relapse",
+			"condition"
+		],
+		"1431": [
+			"tourniquet",
+			"bleeding",
+			"lotion",
+			"skin"
+		],
+		"1432": [
+			"tourniquet",
+			"bleeding",
+			"hoist",
+			"elevating"
+		],
+		"1433": [
+			"tourniquet",
+			"bleeding",
+			"splint",
+			"movement"
+		],
+		"1434": [
+			"tourniquet",
+			"bleeding",
+			"inflation",
+			"expanding"
+		],
+		"1435": [
+			"corroborate",
+			"claim",
+			"document",
+			"assertion"
+		],
+		"1436": [
+			"corroborate",
+			"claim",
+			"disprove",
+			"evidence"
+		],
+		"1437": [
+			"corroborate",
+			"claim",
+			"sentence",
+			"punishment"
+		],
+		"1438": [
+			"corroborate",
+			"claim",
+			"promise",
+			"advancement"
+		],
+		"1439": [
+			"corroborate",
+			"claim",
+			"disseminate",
+			"information"
+		],
+		"1440": [
+			"fame",
+			"celebrity",
+			"diploma",
+			"graduation"
+		],
+		"1441": [
+			"fame",
+			"celebrity",
+			"vacation",
+			"employee"
+		],
+		"1442": [
+			"fame",
+			"celebrity",
+			"value",
+			"treasure"
+		],
+		"1443": [
+			"fame",
+			"celebrity",
+			"actor",
+			"theater"
+		],
+		"1444": [
+			"fame",
+			"celebrity",
+			"laughter",
+			"joke"
+		],
+		"1445": [
+			"barley",
+			"grain",
+			"yeast",
+			"bread"
+		],
+		"1446": [
+			"barley",
+			"grain",
+			"pine",
+			"tree"
+		],
+		"1447": [
+			"barley",
+			"grain",
+			"vine",
+			"fruit"
+		],
+		"1448": [
+			"barley",
+			"grain",
+			"knot",
+			"rope"
+		],
+		"1449": [
+			"barley",
+			"grain",
+			"twig",
+			"nest"
+		],
+		"1450": [
+			"eminence",
+			"infamy",
+			"power",
+			"fame"
+		],
+		"1451": [
+			"eminence",
+			"infamy",
+			"east",
+			"west"
+		],
+		"1452": [
+			"eminence",
+			"infamy",
+			"indifference",
+			"nonchalance"
+		],
+		"1453": [
+			"eminence",
+			"infamy",
+			"pride",
+			"shame"
+		],
+		"1454": [
+			"eminence",
+			"infamy",
+			"royalty",
+			"nobility"
+		],
+		"1455": [
+			"vertigo",
+			"dizzy",
+			"temperature",
+			"virus"
+		],
+		"1456": [
+			"vertigo",
+			"dizzy",
+			"influenza",
+			"feverish"
+		],
+		"1457": [
+			"vertigo",
+			"dizzy",
+			"fear",
+			"heights"
+		],
+		"1458": [
+			"vertigo",
+			"dizzy",
+			"illness",
+			"germs"
+		],
+		"1459": [
+			"vertigo",
+			"dizzy",
+			"no",
+			"choice"
+		],
+		"1460": [
+			"bungler",
+			"finesse",
+			"athlete",
+			"prowess"
+		],
+		"1461": [
+			"bungler",
+			"finesse",
+			"thief",
+			"felony"
+		],
+		"1462": [
+			"bungler",
+			"finesse",
+			"gossip",
+			"reserve"
+		],
+		"1463": [
+			"bungler",
+			"finesse",
+			"preacher",
+			"oratory"
+		],
+		"1464": [
+			"bungler",
+			"finesse",
+			"gourmet",
+			"cuisine"
+		],
+		"1465": [
+			"acquit",
+			"charge",
+			"accuse",
+			"offense"
+		],
+		"1466": [
+			"acquit",
+			"charge",
+			"punish",
+			"reward"
+		],
+		"1467": [
+			"acquit",
+			"charge",
+			"extricate",
+			"freedom"
+		],
+		"1468": [
+			"acquit",
+			"charge",
+			"camouflage",
+			"identity"
+		],
+		"1469": [
+			"acquit",
+			"charge",
+			"rescue",
+			"danger"
+		],
+		"1470": [
+			"beagle",
+			"dog",
+			"africa",
+			"continent"
+		],
+		"1471": [
+			"beagle",
+			"dog",
+			"meow",
+			"cat"
+		],
+		"1472": [
+			"beagle",
+			"dog",
+			"barnyard",
+			"farm"
+		],
+		"1473": [
+			"beagle",
+			"dog",
+			"picnic",
+			"basket"
+		],
+		"1474": [
+			"beagle",
+			"dog",
+			"no",
+			"choice"
+		],
+		"1475": [
+			"lubricant",
+			"slide",
+			"battery",
+			"discharge"
+		],
+		"1476": [
+			"lubricant",
+			"slide",
+			"glue",
+			"adhere"
+		],
+		"1477": [
+			"lubricant",
+			"slide",
+			"stain",
+			"cleanse"
+		],
+		"1478": [
+			"lubricant",
+			"slide",
+			"poison",
+			"ingest"
+		],
+		"1479": [
+			"lubricant",
+			"slide",
+			"water",
+			"drink"
+		],
+		"1480": [
+			"amalgam",
+			"metals",
+			"fracture",
+			"bones"
+		],
+		"1481": [
+			"amalgam",
+			"metals",
+			"divorce",
+			"marriages"
+		],
+		"1482": [
+			"amalgam",
+			"metals",
+			"coalition",
+			"factions"
+		],
+		"1483": [
+			"amalgam",
+			"metals",
+			"car",
+			"payments"
+		],
+		"1484": [
+			"amalgam",
+			"metals",
+			"convention",
+			"speeches"
+		],
+		"1485": [
+			"reprehensible",
+			"condemn",
+			"torpid",
+			"rule"
+		],
+		"1486": [
+			"reprehensible",
+			"condemn",
+			"innocent",
+			"judge"
+		],
+		"1487": [
+			"reprehensible",
+			"condemn",
+			"depraved",
+			"admire"
+		],
+		"1488": [
+			"reprehensible",
+			"condemn",
+			"estimable",
+			"praise"
+		],
+		"1489": [
+			"reprehensible",
+			"condemn",
+			"worthy",
+			"parody"
+		],
+		"1490": [
+			"feign",
+			"deceive",
+			"flee",
+			"elude"
+		],
+		"1491": [
+			"feign",
+			"deceive",
+			"dangle",
+			"drop"
+		],
+		"1492": [
+			"feign",
+			"deceive",
+			"send",
+			"receive"
+		],
+		"1493": [
+			"feign",
+			"deceive",
+			"contract",
+			"lengthen"
+		],
+		"1494": [
+			"feign",
+			"deceive",
+			"publish",
+			"write"
+		],
+		"1495": [
+			"lummox",
+			"clumsy",
+			"boon",
+			"beneficial"
+		],
+		"1496": [
+			"lummox",
+			"clumsy",
+			"egotist",
+			"conceited"
+		],
+		"1497": [
+			"lummox",
+			"clumsy",
+			"rascal",
+			"predictable"
+		],
+		"1498": [
+			"lummox",
+			"clumsy",
+			"maxim",
+			"hackneyed"
+		],
+		"1499": [
+			"lummox",
+			"clumsy",
+			"toady",
+			"important"
+		],
+		"1500": [
+			"indolent",
+			"sloth",
+			"fertile",
+			"fecundity"
+		],
+		"1501": [
+			"indolent",
+			"sloth",
+			"presumptuous",
+			"deviation"
+		],
+		"1502": [
+			"indolent",
+			"sloth",
+			"miserable",
+			"tragedy"
+		],
+		"1503": [
+			"indolent",
+			"sloth",
+			"appealing",
+			"delineation"
+		],
+		"1504": [
+			"indolent",
+			"sloth",
+			"destructive",
+			"progress"
+		],
+		"1505": [
+			"actor",
+			"cast",
+			"musician",
+			"orchestra"
+		],
+		"1506": [
+			"actor",
+			"cast",
+			"singer",
+			"song"
+		],
+		"1507": [
+			"actor",
+			"cast",
+			"lecturer",
+			"class"
+		],
+		"1508": [
+			"actor",
+			"cast",
+			"congregation",
+			"church"
+		],
+		"1509": [
+			"actor",
+			"cast",
+			"proofreader",
+			"text"
+		],
+		"1510": [
+			"tutor",
+			"pupil",
+			"patron",
+			"client"
+		],
+		"1511": [
+			"tutor",
+			"pupil",
+			"coach",
+			"athlete"
+		],
+		"1512": [
+			"tutor",
+			"pupil",
+			"waiter",
+			"diner"
+		],
+		"1513": [
+			"tutor",
+			"pupil",
+			"driver",
+			"passenger"
+		],
+		"1514": [
+			"tutor",
+			"pupil",
+			"novelist",
+			"writer"
+		],
+		"1515": [
+			"asteroid",
+			"planet",
+			"quibble",
+			"objection"
+		],
+		"1516": [
+			"asteroid",
+			"planet",
+			"gravel",
+			"sand"
+		],
+		"1517": [
+			"asteroid",
+			"planet",
+			"mountain",
+			"hill"
+		],
+		"1518": [
+			"asteroid",
+			"planet",
+			"wood",
+			"splinter"
+		],
+		"1519": [
+			"asteroid",
+			"planet",
+			"radio",
+			"television"
+		],
+		"1520": [
+			"hapless",
+			"lucky",
+			"focused",
+			"attentive"
+		],
+		"1521": [
+			"hapless",
+			"lucky",
+			"rash",
+			"prudent"
+		],
+		"1522": [
+			"hapless",
+			"lucky",
+			"considerate",
+			"angry"
+		],
+		"1523": [
+			"hapless",
+			"lucky",
+			"controversial",
+			"argumentative"
+		],
+		"1524": [
+			"hapless",
+			"lucky",
+			"fortunate",
+			"complacent"
+		],
+		"1525": [
+			"congeal",
+			"solid",
+			"heat",
+			"fire"
+		],
+		"1526": [
+			"congeal",
+			"solid",
+			"breathe",
+			"air"
+		],
+		"1527": [
+			"congeal",
+			"solid",
+			"immunize",
+			"disease"
+		],
+		"1528": [
+			"congeal",
+			"solid",
+			"melt",
+			"liquid"
+		],
+		"1529": [
+			"congeal",
+			"solid",
+			"push",
+			"resistance"
+		],
+		"1530": [
+			"birds",
+			"wings",
+			"moose",
+			"antlers"
+		],
+		"1531": [
+			"birds",
+			"wings",
+			"camel",
+			"hump"
+		],
+		"1532": [
+			"birds",
+			"wings",
+			"spider",
+			"legs"
+		],
+		"1533": [
+			"birds",
+			"wings",
+			"alligator",
+			"tail"
+		],
+		"1534": [
+			"birds",
+			"wings",
+			"cat",
+			"whiskers"
+		],
+		"1535": [
+			"flippancy",
+			"jollity",
+			"recognition",
+			"achievement"
+		],
+		"1536": [
+			"flippancy",
+			"jollity",
+			"practice",
+			"expertise"
+		],
+		"1537": [
+			"flippancy",
+			"jollity",
+			"camaraderie",
+			"combativeness"
+		],
+		"1538": [
+			"flippancy",
+			"jollity",
+			"insolence",
+			"pride"
+		],
+		"1539": [
+			"flippancy",
+			"jollity",
+			"politeness",
+			"behavior"
+		],
+		"1540": [
+			"postscript",
+			"letter",
+			"preamble",
+			"document"
+		],
+		"1541": [
+			"postscript",
+			"letter",
+			"footnote",
+			"reference"
+		],
+		"1542": [
+			"postscript",
+			"letter",
+			"epilogue",
+			"play"
+		],
+		"1543": [
+			"postscript",
+			"letter",
+			"signature",
+			"name"
+		],
+		"1544": [
+			"postscript",
+			"letter",
+			"index",
+			"page"
+		],
+		"1545": [
+			"enthusiast",
+			"fervor",
+			"soldier",
+			"strength"
+		],
+		"1546": [
+			"enthusiast",
+			"fervor",
+			"prisoner",
+			"remorse"
+		],
+		"1547": [
+			"enthusiast",
+			"fervor",
+			"expert",
+			"skill"
+		],
+		"1548": [
+			"enthusiast",
+			"fervor",
+			"servant",
+			"obedience"
+		],
+		"1549": [
+			"enthusiast",
+			"fervor",
+			"parent",
+			"wisdom"
+		],
+		"1550": [
+			"evade",
+			"straightforward",
+			"leave",
+			"inviting"
+		],
+		"1551": [
+			"evade",
+			"straightforward",
+			"enliven",
+			"animated"
+		],
+		"1552": [
+			"evade",
+			"straightforward",
+			"flatten",
+			"smooth"
+		],
+		"1553": [
+			"evade",
+			"straightforward",
+			"boast",
+			"modest"
+		],
+		"1554": [
+			"evade",
+			"straightforward",
+			"assist",
+			"helpful"
+		],
+		"1555": [
+			"recycle",
+			"waste",
+			"salvage",
+			"rescuer"
+		],
+		"1556": [
+			"recycle",
+			"waste",
+			"restate",
+			"emphasis"
+		],
+		"1557": [
+			"recycle",
+			"waste",
+			"recall",
+			"product"
+		],
+		"1558": [
+			"recycle",
+			"waste",
+			"reclaim",
+			"land"
+		],
+		"1559": [
+			"recycle",
+			"waste",
+			"irrigate",
+			"earth"
+		],
+		"1560": [
+			"audible",
+			"blaring",
+			"silent",
+			"loud"
+		],
+		"1561": [
+			"audible",
+			"blaring",
+			"annoying",
+			"obnoxious"
+		],
+		"1562": [
+			"audible",
+			"blaring",
+			"clear",
+			"ostentatious"
+		],
+		"1563": [
+			"audible",
+			"blaring",
+			"legible",
+			"published"
+		],
+		"1564": [
+			"audible",
+			"blaring",
+			"edible",
+			"poisonous"
+		],
+		"1565": [
+			"heckler",
+			"disconcert",
+			"outcast",
+			"exclude"
+		],
+		"1566": [
+			"heckler",
+			"disconcert",
+			"firebrand",
+			"soothe"
+		],
+		"1567": [
+			"heckler",
+			"disconcert",
+			"performer",
+			"applaud"
+		],
+		"1568": [
+			"heckler",
+			"disconcert",
+			"monarch",
+			"depose"
+		],
+		"1569": [
+			"heckler",
+			"disconcert",
+			"lobbyist",
+			"persuade"
+		],
+		"1570": [
+			"locomotive",
+			"train",
+			"horse",
+			"saddle"
+		],
+		"1571": [
+			"locomotive",
+			"train",
+			"tractor",
+			"plow"
+		],
+		"1572": [
+			"locomotive",
+			"train",
+			"rudder",
+			"rowboat"
+		],
+		"1573": [
+			"locomotive",
+			"train",
+			"camel",
+			"desert"
+		],
+		"1574": [
+			"locomotive",
+			"train",
+			"gasoline",
+			"automobile"
+		],
+		"1575": [
+			"neighbor",
+			"proximity",
+			"supervisor",
+			"obedience"
+		],
+		"1576": [
+			"neighbor",
+			"proximity",
+			"comrade",
+			"victory"
+		],
+		"1577": [
+			"neighbor",
+			"proximity",
+			"adversary",
+			"opposition"
+		],
+		"1578": [
+			"neighbor",
+			"proximity",
+			"traitor",
+			"loyalty"
+		],
+		"1579": [
+			"neighbor",
+			"proximity",
+			"teammate",
+			"competitiveness"
+		],
+		"1580": [
+			"precarious",
+			"stability",
+			"mean",
+			"gauge"
+		],
+		"1581": [
+			"precarious",
+			"stability",
+			"huge",
+			"weight"
+		],
+		"1582": [
+			"precarious",
+			"stability",
+			"exact",
+			"measure"
+		],
+		"1583": [
+			"precarious",
+			"stability",
+			"exotic",
+			"accord"
+		],
+		"1584": [
+			"precarious",
+			"stability",
+			"anomalous",
+			"model"
+		],
+		"1585": [
+			"atlas",
+			"maps",
+			"manual",
+			"instructions"
+		],
+		"1586": [
+			"atlas",
+			"maps",
+			"directory",
+			"pages"
+		],
+		"1587": [
+			"atlas",
+			"maps",
+			"almanac",
+			"years"
+		],
+		"1588": [
+			"atlas",
+			"maps",
+			"dictionary",
+			"writers"
+		],
+		"1589": [
+			"atlas",
+			"maps",
+			"tome",
+			"books"
+		],
+		"1590": [
+			"emulate",
+			"person",
+			"admire",
+			"reputation"
+		],
+		"1591": [
+			"emulate",
+			"person",
+			"obey",
+			"leader"
+		],
+		"1592": [
+			"emulate",
+			"person",
+			"cooperate",
+			"partner"
+		],
+		"1593": [
+			"emulate",
+			"person",
+			"mimic",
+			"gesture"
+		],
+		"1594": [
+			"emulate",
+			"person",
+			"mock",
+			"sarcasm"
+		],
+		"1595": [
+			"virtuoso",
+			"music",
+			"bard",
+			"poetry"
+		],
+		"1596": [
+			"virtuoso",
+			"music",
+			"crescendo",
+			"scale"
+		],
+		"1597": [
+			"virtuoso",
+			"music",
+			"lyricist",
+			"melody"
+		],
+		"1598": [
+			"virtuoso",
+			"music",
+			"portrait",
+			"photography"
+		],
+		"1599": [
+			"virtuoso",
+			"music",
+			"critic",
+			"performance"
+		],
+		"1600": [
+			"ruthless",
+			"compassion",
+			"theatrical",
+			"emotion"
+		],
+		"1601": [
+			"ruthless",
+			"compassion",
+			"naive",
+			"sophistication"
+		],
+		"1602": [
+			"ruthless",
+			"compassion",
+			"scrupulous",
+			"propriety"
+		],
+		"1603": [
+			"ruthless",
+			"compassion",
+			"self-righteous",
+			"indignation"
+		],
+		"1604": [
+			"ruthless",
+			"compassion",
+			"formidable",
+			"awe"
+		],
+		"1605": [
+			"affectation",
+			"behavior",
+			"speech",
+			"topic"
+		],
+		"1606": [
+			"affectation",
+			"behavior",
+			"tension",
+			"violence"
+		],
+		"1607": [
+			"affectation",
+			"behavior",
+			"facade",
+			"appearance"
+		],
+		"1608": [
+			"affectation",
+			"behavior",
+			"buffoonery",
+			"action"
+		],
+		"1609": [
+			"affectation",
+			"behavior",
+			"pretense",
+			"honesty"
+		],
+		"1610": [
+			"paleontologist",
+			"tyrannosaurus",
+			"botanist",
+			"capsicum"
+		],
+		"1611": [
+			"paleontologist",
+			"tyrannosaurus",
+			"professor",
+			"student"
+		],
+		"1612": [
+			"paleontologist",
+			"tyrannosaurus",
+			"agriculturist",
+			"dairy"
+		],
+		"1613": [
+			"paleontologist",
+			"tyrannosaurus",
+			"priest",
+			"religion"
+		],
+		"1614": [
+			"paleontologist",
+			"tyrannosaurus",
+			"no",
+			"choice"
+		],
+		"1615": [
+			"scissors",
+			"cut",
+			"window",
+			"close"
+		],
+		"1616": [
+			"scissors",
+			"cut",
+			"spice",
+			"season"
+		],
+		"1617": [
+			"scissors",
+			"cut",
+			"cloth",
+			"weave"
+		],
+		"1618": [
+			"scissors",
+			"cut",
+			"mask",
+			"frighten"
+		],
+		"1619": [
+			"scissors",
+			"cut",
+			"country",
+			"vote"
+		],
+		"1620": [
+			"seed",
+			"plant",
+			"pouch",
+			"kangaroo"
+		],
+		"1621": [
+			"seed",
+			"plant",
+			"root",
+			"soil"
+		],
+		"1622": [
+			"seed",
+			"plant",
+			"drop",
+			"water"
+		],
+		"1623": [
+			"seed",
+			"plant",
+			"bark",
+			"tree"
+		],
+		"1624": [
+			"seed",
+			"plant",
+			"egg",
+			"bird"
+		],
+		"1625": [
+			"encourage",
+			"coerce",
+			"implement",
+			"accomplish"
+		],
+		"1626": [
+			"encourage",
+			"coerce",
+			"suggest",
+			"command"
+		],
+		"1627": [
+			"encourage",
+			"coerce",
+			"hinder",
+			"facilitate"
+		],
+		"1628": [
+			"encourage",
+			"coerce",
+			"filter",
+			"separate"
+		],
+		"1629": [
+			"encourage",
+			"coerce",
+			"oppose",
+			"disagree"
+		],
+		"1630": [
+			"livid",
+			"angry",
+			"vital",
+			"wary"
+		],
+		"1631": [
+			"livid",
+			"angry",
+			"effusive",
+			"emotional"
+		],
+		"1632": [
+			"livid",
+			"angry",
+			"vain",
+			"beautiful"
+		],
+		"1633": [
+			"livid",
+			"angry",
+			"resolute",
+			"weak"
+		],
+		"1634": [
+			"livid",
+			"angry",
+			"old",
+			"modern"
+		],
+		"1635": [
+			"stammer",
+			"speech",
+			"ovation",
+			"adulation"
+		],
+		"1636": [
+			"stammer",
+			"speech",
+			"hobble",
+			"movement"
+		],
+		"1637": [
+			"stammer",
+			"speech",
+			"generosity",
+			"kindness"
+		],
+		"1638": [
+			"stammer",
+			"speech",
+			"fighting",
+			"noise"
+		],
+		"1639": [
+			"stammer",
+			"speech",
+			"brightness",
+			"sight"
+		],
+		"1640": [
+			"resolute",
+			"determination",
+			"pristine",
+			"grace"
+		],
+		"1641": [
+			"resolute",
+			"determination",
+			"skeptical",
+			"doubt"
+		],
+		"1642": [
+			"resolute",
+			"determination",
+			"tainted",
+			"honor"
+		],
+		"1643": [
+			"resolute",
+			"determination",
+			"stringent",
+			"suggestions"
+		],
+		"1644": [
+			"resolute",
+			"determination",
+			"wary",
+			"risks"
+		],
+		"1645": [
+			"propagandize",
+			"principles",
+			"plagiarize",
+			"writing"
+		],
+		"1646": [
+			"propagandize",
+			"principles",
+			"indemnify",
+			"damages"
+		],
+		"1647": [
+			"propagandize",
+			"principles",
+			"indoctrinate",
+			"institutions"
+		],
+		"1648": [
+			"propagandize",
+			"principles",
+			"pacify",
+			"aggression"
+		],
+		"1649": [
+			"propagandize",
+			"principles",
+			"proselytize",
+			"religion"
+		],
+		"1650": [
+			"emollient",
+			"soften",
+			"oil",
+			"lubricate"
+		],
+		"1651": [
+			"emollient",
+			"soften",
+			"disinfectant",
+			"contaminate"
+		],
+		"1652": [
+			"emollient",
+			"soften",
+			"concrete",
+			"harden"
+		],
+		"1653": [
+			"emollient",
+			"soften",
+			"storm",
+			"thunder"
+		],
+		"1654": [
+			"emollient",
+			"soften",
+			"steam",
+			"evaporate"
+		],
+		"1655": [
+			"sort",
+			"criterion",
+			"shuffle",
+			"order"
+		],
+		"1656": [
+			"sort",
+			"criterion",
+			"train",
+			"competence"
+		],
+		"1657": [
+			"sort",
+			"criterion",
+			"rank",
+			"value"
+		],
+		"1658": [
+			"sort",
+			"criterion",
+			"divide",
+			"quantity"
+		],
+		"1659": [
+			"sort",
+			"criterion",
+			"poll",
+			"opinion"
+		],
+		"1660": [
+			"bus",
+			"passengers",
+			"train",
+			"caboose"
+		],
+		"1661": [
+			"bus",
+			"passengers",
+			"car",
+			"tires"
+		],
+		"1662": [
+			"bus",
+			"passengers",
+			"freighter",
+			"cargo"
+		],
+		"1663": [
+			"bus",
+			"passengers",
+			"plane",
+			"pilot"
+		],
+		"1664": [
+			"bus",
+			"passengers",
+			"yacht",
+			"owner"
+		],
+		"1665": [
+			"skull",
+			"head",
+			"heart",
+			"organ"
+		],
+		"1666": [
+			"skull",
+			"head",
+			"finger",
+			"hand"
+		],
+		"1667": [
+			"skull",
+			"head",
+			"skeleton",
+			"body"
+		],
+		"1668": [
+			"skull",
+			"head",
+			"elbow",
+			"joint"
+		],
+		"1669": [
+			"skull",
+			"head",
+			"scalp",
+			"hair"
+		],
+		"1670": [
+			"banana",
+			"peel",
+			"egg",
+			"crack"
+		],
+		"1671": [
+			"banana",
+			"peel",
+			"carrot",
+			"uproot"
+		],
+		"1672": [
+			"banana",
+			"peel",
+			"apple",
+			"core"
+		],
+		"1673": [
+			"banana",
+			"peel",
+			"bread",
+			"slice"
+		],
+		"1674": [
+			"banana",
+			"peel",
+			"corn",
+			"husk"
+		],
+		"1675": [
+			"fond",
+			"doting",
+			"polite",
+			"servile"
+		],
+		"1676": [
+			"fond",
+			"doting",
+			"whisper",
+			"scream"
+		],
+		"1677": [
+			"fond",
+			"doting",
+			"grasping",
+			"needy"
+		],
+		"1678": [
+			"fond",
+			"doting",
+			"abstinent",
+			"indulgent"
+		],
+		"1679": [
+			"fond",
+			"doting",
+			"no",
+			"choice"
+		],
+		"1680": [
+			"adult",
+			"child",
+			"horse",
+			"mare"
+		],
+		"1681": [
+			"adult",
+			"child",
+			"cat",
+			"kitten"
+		],
+		"1682": [
+			"adult",
+			"child",
+			"swine",
+			"sow"
+		],
+		"1683": [
+			"adult",
+			"child",
+			"human",
+			"animal"
+		],
+		"1684": [
+			"adult",
+			"child",
+			"cow",
+			"herd"
+		],
+		"1685": [
+			"volatile",
+			"vaporize",
+			"translucent",
+			"illuminate"
+		],
+		"1686": [
+			"volatile",
+			"vaporize",
+			"brittle",
+			"bend"
+		],
+		"1687": [
+			"volatile",
+			"vaporize",
+			"frigid",
+			"chill"
+		],
+		"1688": [
+			"volatile",
+			"vaporize",
+			"ponderous",
+			"lift"
+		],
+		"1689": [
+			"volatile",
+			"vaporize",
+			"soluble",
+			"dissolve"
+		],
+		"1690": [
+			"abbreviation",
+			"word",
+			"outline",
+			"story"
+		],
+		"1691": [
+			"abbreviation",
+			"word",
+			"plot",
+			"fiction"
+		],
+		"1692": [
+			"abbreviation",
+			"word",
+			"page",
+			"paper"
+		],
+		"1693": [
+			"abbreviation",
+			"word",
+			"paragraph",
+			"book"
+		],
+		"1694": [
+			"abbreviation",
+			"word",
+			"abstract",
+			"report"
+		],
+		"1695": [
+			"current",
+			"electricity",
+			"gauge",
+			"measurement"
+		],
+		"1696": [
+			"current",
+			"electricity",
+			"forge",
+			"metal"
+		],
+		"1697": [
+			"current",
+			"electricity",
+			"beam",
+			"light"
+		],
+		"1698": [
+			"current",
+			"electricity",
+			"ripple",
+			"lake"
+		],
+		"1699": [
+			"current",
+			"electricity",
+			"curve",
+			"circle"
+		],
+		"1700": [
+			"scapegoat",
+			"blame",
+			"ingrate",
+			"gratitude"
+		],
+		"1701": [
+			"scapegoat",
+			"blame",
+			"apprentice",
+			"skill"
+		],
+		"1702": [
+			"scapegoat",
+			"blame",
+			"trickster",
+			"honesty"
+		],
+		"1703": [
+			"scapegoat",
+			"blame",
+			"truant",
+			"education"
+		],
+		"1704": [
+			"scapegoat",
+			"blame",
+			"effigy",
+			"hatred"
+		],
+		"1705": [
+			"worry",
+			"panic",
+			"brain",
+			"intelligence"
+		],
+		"1706": [
+			"worry",
+			"panic",
+			"happiness",
+			"bliss"
+		],
+		"1707": [
+			"worry",
+			"panic",
+			"smile",
+			"anger"
+		],
+		"1708": [
+			"worry",
+			"panic",
+			"agenda",
+			"list"
+		],
+		"1709": [
+			"worry",
+			"panic",
+			"clock",
+			"time"
+		]
+	},
+	"Quadruples_Green_set": {
+		"0": [
+			"answer",
+			"riddle",
+			"jersey",
+			"number"
+		],
+		"1": [
+			"answer",
+			"riddle",
+			"key",
+			"lock"
+		],
+		"2": [
+			"answer",
+			"riddle",
+			"solution",
+			"problem"
+		],
+		"3": [
+			"ash",
+			"fireplace",
+			"lint",
+			"pocket"
+		],
+		"4": [
+			"ash",
+			"fireplace",
+			"soot",
+			"chimney"
+		],
+		"5": [
+			"ash",
+			"fireplace",
+			"harness",
+			"climber"
+		],
+		"6": [
+			"aspirin",
+			"pain",
+			"antacid",
+			"heartburn"
+		],
+		"7": [
+			"aspirin",
+			"pain",
+			"muffler",
+			"noise"
+		],
+		"8": [
+			"aspirin",
+			"pain",
+			"foot",
+			"sock"
+		],
+		"9": [
+			"baker",
+			"cake",
+			"scientist",
+			"discovery"
+		],
+		"10": [
+			"baker",
+			"cake",
+			"chef",
+			"meal"
+		],
+		"11": [
+			"baker",
+			"cake",
+			"muffin",
+			"blueberry"
+		],
+		"12": [
+			"basket",
+			"picnic",
+			"holster",
+			"gun"
+		],
+		"13": [
+			"basket",
+			"picnic",
+			"knife",
+			"napkin"
+		],
+		"14": [
+			"basket",
+			"picnic",
+			"lunchbox",
+			"lunch"
+		],
+		"15": [
+			"basketball",
+			"hoop",
+			"soccerball",
+			"goal"
+		],
+		"16": [
+			"basketball",
+			"hoop",
+			"traveler",
+			"destination"
+		],
+		"17": [
+			"basketball",
+			"hoop",
+			"serve",
+			"volley"
+		],
+		"18": [
+			"blindness",
+			"sight",
+			"deafness",
+			"hearing"
+		],
+		"19": [
+			"blindness",
+			"sight",
+			"wall",
+			"paint"
+		],
+		"20": [
+			"blindness",
+			"sight",
+			"poverty",
+			"money"
+		],
+		"21": [
+			"blizzard",
+			"snowflake",
+			"monsoon",
+			"raindrop"
+		],
+		"22": [
+			"blizzard",
+			"snowflake",
+			"army",
+			"soldier"
+		],
+		"23": [
+			"blizzard",
+			"snowflake",
+			"tornado",
+			"cloud"
+		],
+		"24": [
+			"bracelet",
+			"wrist",
+			"moat",
+			"castle"
+		],
+		"25": [
+			"bracelet",
+			"wrist",
+			"skill",
+			"practice"
+		],
+		"26": [
+			"bracelet",
+			"wrist",
+			"ring",
+			"finger"
+		],
+		"27": [
+			"burger",
+			"bun",
+			"sub",
+			"roll"
+		],
+		"28": [
+			"burger",
+			"bun",
+			"book",
+			"cover"
+		],
+		"29": [
+			"burger",
+			"bun",
+			"onion",
+			"lettuce"
+		],
+		"30": [
+			"cleanser",
+			"face",
+			"curtain",
+			"shower"
+		],
+		"31": [
+			"cleanser",
+			"face",
+			"soap",
+			"body"
+		],
+		"32": [
+			"cleanser",
+			"face",
+			"absolution",
+			"sinner"
+		],
+		"33": [
+			"eraser",
+			"pencil",
+			"amnesia",
+			"memory"
+		],
+		"34": [
+			"eraser",
+			"pencil",
+			"glue",
+			"paper"
+		],
+		"35": [
+			"eraser",
+			"pencil",
+			"whiteout",
+			"pen"
+		],
+		"36": [
+			"father",
+			"son",
+			"inventor",
+			"invention"
+		],
+		"37": [
+			"father",
+			"son",
+			"mother",
+			"daughter"
+		],
+		"38": [
+			"father",
+			"son",
+			"nephew",
+			"cousin"
+		],
+		"39": [
+			"flock",
+			"goose",
+			"constellation",
+			"star"
+		],
+		"40": [
+			"flock",
+			"goose",
+			"wolfpack",
+			"wolf"
+		],
+		"41": [
+			"flock",
+			"goose",
+			"pond",
+			"turtle"
+		],
+		"42": [
+			"foresight",
+			"future",
+			"letter",
+			"mailman"
+		],
+		"43": [
+			"foresight",
+			"future",
+			"x-ray",
+			"bone"
+		],
+		"44": [
+			"foresight",
+			"future",
+			"hindsight",
+			"past"
+		],
+		"45": [
+			"foundation",
+			"house",
+			"base",
+			"structure"
+		],
+		"46": [
+			"foundation",
+			"house",
+			"premise",
+			"argument"
+		],
+		"47": [
+			"foundation",
+			"house",
+			"duplex",
+			"renter"
+		],
+		"48": [
+			"furnace",
+			"coal",
+			"beach",
+			"ocean"
+		],
+		"49": [
+			"furnace",
+			"coal",
+			"stomach",
+			"food"
+		],
+		"50": [
+			"furnace",
+			"coal",
+			"woodstove",
+			"wood"
+		],
+		"51": [
+			"hoof",
+			"hoofprint",
+			"introduction",
+			"impression"
+		],
+		"52": [
+			"hoof",
+			"hoofprint",
+			"battery",
+			"toy"
+		],
+		"53": [
+			"hoof",
+			"hoofprint",
+			"paw",
+			"pawprint"
+		],
+		"54": [
+			"immunization",
+			"disease",
+			"hotel",
+			"innkeeper"
+		],
+		"55": [
+			"immunization",
+			"disease",
+			"vaccination",
+			"infection"
+		],
+		"56": [
+			"immunization",
+			"disease",
+			"forewarning",
+			"surprise"
+		],
+		"57": [
+			"jacket",
+			"zipper",
+			"actor",
+			"film"
+		],
+		"58": [
+			"jacket",
+			"zipper",
+			"overcoat",
+			"button"
+		],
+		"59": [
+			"jacket",
+			"zipper",
+			"wound",
+			"suture"
+		],
+		"60": [
+			"ketchup",
+			"tomato",
+			"guacamole",
+			"avocado"
+		],
+		"61": [
+			"ketchup",
+			"tomato",
+			"shoelace",
+			"skate"
+		],
+		"62": [
+			"ketchup",
+			"tomato",
+			"fuel",
+			"petroleum"
+		],
+		"63": [
+			"kitten",
+			"cat",
+			"puppy",
+			"dog"
+		],
+		"64": [
+			"kitten",
+			"cat",
+			"spark",
+			"fire"
+		],
+		"65": [
+			"kitten",
+			"cat",
+			"hamster",
+			"wheel"
+		],
+		"66": [
+			"knee",
+			"kneepad",
+			"snail",
+			"shell"
+		],
+		"67": [
+			"knee",
+			"kneepad",
+			"elbow",
+			"elbowpad"
+		],
+		"68": [
+			"knee",
+			"kneepad",
+			"flag",
+			"flagpole"
+		],
+		"69": [
+			"lambchop",
+			"lamb",
+			"porkchop",
+			"pig"
+		],
+		"70": [
+			"lambchop",
+			"lamb",
+			"fillet",
+			"skillet"
+		],
+		"71": [
+			"lambchop",
+			"lamb",
+			"chapter",
+			"book"
+		],
+		"72": [
+			"landscaper",
+			"lawn",
+			"gardener",
+			"garden"
+		],
+		"73": [
+			"landscaper",
+			"lawn",
+			"stylist",
+			"hair"
+		],
+		"74": [
+			"landscaper",
+			"lawn",
+			"fence",
+			"field"
+		],
+		"75": [
+			"launchpad",
+			"helicopter",
+			"runway",
+			"airplane"
+		],
+		"76": [
+			"launchpad",
+			"helicopter",
+			"divingboard",
+			"diver"
+		],
+		"77": [
+			"launchpad",
+			"helicopter",
+			"thorn",
+			"rose"
+		],
+		"78": [
+			"lawschool",
+			"lawyer",
+			"vineyard",
+			"wine"
+		],
+		"79": [
+			"lawschool",
+			"lawyer",
+			"medschool",
+			"doctor"
+		],
+		"80": [
+			"lawschool",
+			"lawyer",
+			"beard",
+			"razor"
+		],
+		"81": [
+			"movie",
+			"screen",
+			"metal",
+			"rust"
+		],
+		"82": [
+			"movie",
+			"screen",
+			"lightning",
+			"sky"
+		],
+		"83": [
+			"movie",
+			"screen",
+			"gameshow",
+			"television"
+		],
+		"84": [
+			"multiplication",
+			"product",
+			"brewing",
+			"beer"
+		],
+		"85": [
+			"multiplication",
+			"product",
+			"sleep",
+			"pajamas"
+		],
+		"86": [
+			"multiplication",
+			"product",
+			"addition",
+			"sum"
+		],
+		"87": [
+			"nose",
+			"scent",
+			"antenna",
+			"signal"
+		],
+		"88": [
+			"nose",
+			"scent",
+			"eyelash",
+			"mascara"
+		],
+		"89": [
+			"nose",
+			"scent",
+			"tongue",
+			"taste"
+		],
+		"90": [
+			"orchard",
+			"apple",
+			"grove",
+			"orange"
+		],
+		"91": [
+			"orchard",
+			"apple",
+			"neighborhood",
+			"apartment"
+		],
+		"92": [
+			"orchard",
+			"apple",
+			"cantaloupe",
+			"farmstand"
+		],
+		"93": [
+			"painting",
+			"canvas",
+			"birthmark",
+			"skin"
+		],
+		"94": [
+			"painting",
+			"canvas",
+			"mistake",
+			"regret"
+		],
+		"95": [
+			"painting",
+			"canvas",
+			"drawing",
+			"paper"
+		],
+		"96": [
+			"pen",
+			"pig",
+			"coop",
+			"chicken"
+		],
+		"97": [
+			"pen",
+			"pig",
+			"reservoir",
+			"water"
+		],
+		"98": [
+			"pen",
+			"pig",
+			"hay",
+			"horse"
+		],
+		"99": [
+			"rectangle",
+			"perimeter",
+			"circle",
+			"circumference"
+		],
+		"100": [
+			"rectangle",
+			"perimeter",
+			"nation",
+			"border"
+		],
+		"101": [
+			"rectangle",
+			"perimeter",
+			"octagon",
+			"angle"
+		],
+		"102": [
+			"revising",
+			"manuscript",
+			"evolving",
+			"species"
+		],
+		"103": [
+			"revising",
+			"manuscript",
+			"price",
+			"sale"
+		],
+		"104": [
+			"revising",
+			"manuscript",
+			"editing",
+			"story"
+		],
+		"105": [
+			"saxophone",
+			"jazz",
+			"harmonica",
+			"blues"
+		],
+		"106": [
+			"saxophone",
+			"jazz",
+			"document",
+			"copier"
+		],
+		"107": [
+			"saxophone",
+			"jazz",
+			"typewriter",
+			"poetry"
+		],
+		"108": [
+			"sugar",
+			"coffee",
+			"honey",
+			"tea"
+		],
+		"109": [
+			"sugar",
+			"coffee",
+			"incentive",
+			"deal"
+		],
+		"110": [
+			"sugar",
+			"coffee",
+			"grinder",
+			"bean"
+		],
+		"111": [
+			"thermometer",
+			"temperature",
+			"polygraph",
+			"honesty"
+		],
+		"112": [
+			"thermometer",
+			"temperature",
+			"table",
+			"leg"
+		],
+		"113": [
+			"thermometer",
+			"temperature",
+			"barometer",
+			"pressure"
+		],
+		"114": [
+			"train",
+			"track",
+			"conductor",
+			"whistle"
+		],
+		"115": [
+			"train",
+			"track",
+			"signal",
+			"wire"
+		],
+		"116": [
+			"train",
+			"track",
+			"trolley",
+			"rail"
+		],
+		"117": [
+			"watermelon",
+			"rind",
+			"orange",
+			"peel"
+		],
+		"118": [
+			"watermelon",
+			"rind",
+			"raspberry",
+			"bush"
+		],
+		"119": [
+			"watermelon",
+			"rind",
+			"cigarette",
+			"butt"
+		]
+	}
+}
