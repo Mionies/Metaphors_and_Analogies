@@ -8,10 +8,11 @@ ___
 
 ### Origial paper reference
 ___
-| Name       | Paper Citation    | Paper link | Dataset original link                                        |
-| ---------: | :------- | :------------------------------ |-----------------------------------------: |
-| `Cardillo` |       |  [Cardillo (2010)](https://link.springer.com/article/10.3758/s13428-016-0717-1) [Cardillo (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2952404/ )     |  |
-| `Jankowiak`|     |   [Jankowiak (2020)]( https://link-springer-com.abc.cardiff.ac.uk/article/10.1007/s10936-020-09695-7) | |
+| Name       | Paper Citation | Dataset original link                                        |
+| ---------: | :------- |-----------------------------------------: |
+| `Cardillo(2010)` |        [Cardillo (2010)](https://link.springer.com/article/10.3758/s13428-016-0717-1) [Cardillo (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2952404/ )     |  |
+|`Cardillo(2017)`|Eileen R. Cardillo, Christine Watson, and Anjan Chatterjee. 2017. </br>[Stimulus needs are a moving target: 240 additional matched literal and metaphorical sentences for testing neural hypotheses about metaphor.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2952404/ ) </br> Behavior Research Methods, 49(2):471–483.||
+| `Jankowiak`|      [Jankowiak (2020)]( https://link-springer-com.abc.cardiff.ac.uk/article/10.1007/s10936-020-09695-7) | |
 
 
 - **Licenses** :
@@ -27,7 +28,7 @@ ___
 |-------: |-------: | :------------------------------------- | :-------- |
 |Cardillo | comet  | The astronomer's obssession was a comet. | 1 |
 |          |  | The politician's career was a comet. | 2 | 
-| Jankoviac |   harbour   | This banana is a harbour | 0 |
+|Jankoviac |   harbour   | This banana is a harbour | 0 |
 |          |         | A house is a harbour | 2|
 |          |       | This area is a harbour | 1 |
 
@@ -66,11 +67,10 @@ The SAT analogy questions originally used in Turney(2005) are enriched with meta
 
 The Green dataset is available in the supplementary material of the XX journal.
 
-| Name       | Paper Citation    | Paper link | Dataset original link                                        |
-| ---------: | :------- | :------------------------------ |-----------------------------------------: |
-| `Green`    | Green, A. E., Kraemer, D. J. M., Fugelsang, J., Gray, J. R., & Dunbar, K. (2010). Connecting Long Distance: Semantic Distance in Analogical Reasoning Modulates Frontopolar Cortex Activity. Cerebral Cortex, 10, 70-76.    | [Green (2010)](https://academic.oup.com/cercor/article/20/1/70/413473) |[Paper supplementary material](https://academic.oup.com/cercor/article/20/1/70/413473#supplementary-data)|
-| `SAT`  | Peter D. Turney. 2006. Similarity of semantic relations.
-*Computational Linguistics*, 32(3):379–416.  |  [Turney (2005)](https://direct.mit.edu/coli/article/32/3/379/1915/Similarity-of-Semantic-Relations)   |On demand to the author|
+| Name       | Paper Citation | Dataset original link                                        |
+| ---------: | :------- |-----------------------------------------: |
+| `Green`    | Green, A. E., Kraemer, D. J. M., Fugelsang, J., Gray, J. R., & Dunbar, K. (2010).<br> [Connecting Long Distance: Semantic Distance in Analogical Reasoning Modulates Frontopolar Cortex Activity.](https://academic.oup.com/cercor/article/20/1/70/413473) <br>Cerebral Cortex, 10, 70-76.|[Paper supplementary material](https://academic.oup.com/cercor/article/20/1/70/413473#supplementary-data)    |
+| `SAT`  | Peter D. Turney. 2006. Similarity of semantic relations.[*Computational Linguistics*](https://direct.mit.edu/coli/article/32/3/379/1915/Similarity-of-Semantic-Relations), 32(3):379–416.  |On demand to the author|
 
 - **Licenses**:
   
