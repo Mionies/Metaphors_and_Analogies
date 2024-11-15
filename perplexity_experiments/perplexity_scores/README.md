@@ -1,10 +1,7 @@
 # PPL library
 
 ```
-pip install
-asfea
-afa
-afaf
+pip install lmppl
 ```
 
 ### PPL library modification for large models

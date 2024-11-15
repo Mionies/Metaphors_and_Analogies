@@ -24,7 +24,7 @@ analogy_types = [
 ]
 
 language_models = {
-    #"google/flan-t5-xxl": [lmppl.EncoderDecoderLM, 8],  # 11B
+    "google/flan-t5-xxl": [lmppl.EncoderDecoderLM, 8],  # 11B
     #"google/flan-t5-xl": [lmppl.EncoderDecoderLM, 16],  # 3B
     #"google/flan-t5-large": [lmppl.EncoderDecoderLM, 256],  # 770M
     #"google/flan-t5-base": [lmppl.EncoderDecoderLM, 1024],  # 220M
@@ -39,18 +39,6 @@ language_models = {
     #"t5-large": [lmppl.EncoderDecoderLM, 128],  # 770M
     #"t5-base": [lmppl.EncoderDecoderLM, 512],  # 220M
     #"t5-small": [lmppl.EncoderDecoderLM, 512],  # 60M
-    #"/mnt/storage_joanne/models/gpt-neox-20b": [lmppl.LM, 1],  # 6B
-    #"/mnt/storage_joanne/models/gpt-neo-2.7b": [lmppl.LM, 4],  # 2.7B
-    #"/mnt/storage_joanne/models/gpt-neo-1.3B": [lmppl.LM, 32],  # 1.3B
-    #"/mnt/storage_joanne/models/gpt-neo-125m": [lmppl.LM, 32],  # 125M
-    #"/mnt/storage_joanne/models/gpt2-xl": [lmppl.LM, 32],  # 1.5B
-    #"/mnt/storage_joanne/models/gpt2-large": [lmppl.LM, 32],  # 774M
-    #"/mnt/storage_joanne/models/gpt2-medium": [lmppl.LM, 32],  # 355M
-    #"/mnt/storage_joanne/models/gpt2": [lmppl.LM, 128],  # 124M
-    #"/mnt/storage_joanne/models/galactica-125m": [lmppl.LM, 32],
-    #i"/mnt/storage_joanne/models/galactica-1.3b": [lmppl.LM, 2],
-    #"/mnt/storage_joanne/models/galactica-6.7b": [lmppl.LM, 1],
-    "/mnt/share/huggingface_models/Meta-Llama-3-70B-Instruct":[lmppl.LM,1],
     }
 
 # Add MLM
